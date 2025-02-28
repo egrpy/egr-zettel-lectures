@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/egr-zettel-lectures/","tags":["definir","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/egr-zettel-lectures/","tags":["gardenEntry"]}
 ---
 
-## Idea Principal
+Dr. Emilio Gutiérrez Rodríguez
 
-## Explicación
-
-## Implicaciones
-
-## Enlaces
+## Asignaturas
+Ingeniería del Software
+Organización 1 (Teoría General de Sistemas)
