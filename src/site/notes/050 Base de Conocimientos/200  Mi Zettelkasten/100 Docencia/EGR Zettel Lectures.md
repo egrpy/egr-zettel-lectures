@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/egr-zettel-lectures/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/EGR Zettel Lectures/","tags":["gardenEntry","gardenEntry"]}
 ---
 
 Dr. Emilio Gutiérrez Rodríguez
