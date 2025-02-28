@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/is-1/2025/clase-02-introduccion-a-la-ingenieria-del-software/zk-000-moc-ingenieria-del-software/","tags":["ingenieríaDelSoftware"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk 000 MOC Ingeniería del Software/","tags":["ingenieríaDelSoftware"]}
 ---
 
 ## La Ingeniería del Software
