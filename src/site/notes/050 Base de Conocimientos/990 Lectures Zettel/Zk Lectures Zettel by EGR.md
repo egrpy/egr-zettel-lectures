@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk Lectures Zettel by EGR/","title":["Lectures Zettel"],"tags":["digitalGarden","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk Lectures Zettel by EGR/","title":["Lectures Zettel"],"tags":["digitalGarden","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 Dr. Emilio Gutiérrez Rodríguez
