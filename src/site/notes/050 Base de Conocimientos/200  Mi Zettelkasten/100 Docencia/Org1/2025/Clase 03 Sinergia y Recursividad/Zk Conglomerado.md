@@ -23,7 +23,7 @@ Un ejemplo de conglomerado sería una pila de arena, donde los granos están jun
 
 ----
 ### Conglomerado y Sinergia
-En relación con la sinergia, [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]]  señala que cuando la suma de las partes, componentes y atributos en un conjunto es igual al todo, estamos en presencia de una totalidad desprovista de sinergia, es decir, de un conglomerado.
+En relación con la sinergia, [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]] señala que cuando la suma de las partes, componentes y atributos en un conjunto es igual al todo, estamos en presencia de una totalidad desprovista de sinergia, es decir, de un conglomerado.
 
 Por su parte, [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|von Bertalanffy (1989)]] enfatiza que la distinción entre conglomerados y sistemas es crucial para entender la organización jerárquica de la naturaleza y la sociedad. Mientras que los conglomerados son meras colecciones, los sistemas exhiben propiedades emergentes y comportamientos que no pueden explicarse solo por sus componentes.
 
