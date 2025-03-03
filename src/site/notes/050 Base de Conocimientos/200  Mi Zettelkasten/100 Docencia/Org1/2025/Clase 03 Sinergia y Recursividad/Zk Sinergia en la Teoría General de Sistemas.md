@@ -46,7 +46,7 @@ Crear estructuras que fomenten el trabajo colaborativo (sinergia) entre áreas d
 #### Tecnología e innovación
 
 - Integración de plataformas: La combinación de tecnologías complementarias puede crear ecosistemas más robustos y funcionales, como en el caso de Microsoft y LinkedIn [Stony Hill Advisors, s.f.)](https://www.stonyhilladvisors.com/stonyhilladvisors-blog/elevating-business-horizons-the-power-of-technological-synergies-in-innovation).
-    
+
 - Internet de las cosas (IoT): La interconexión de dispositivos permite optimizar procesos en diversos sectores, como la agricultura inteligente [(Adam, 2023)](https://www.linkedin.com/pulse/technological-synergy-redefining-operations-corporate).
 
 ----
