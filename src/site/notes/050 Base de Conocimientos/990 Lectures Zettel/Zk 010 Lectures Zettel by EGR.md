@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk 010 Lectures Zettel by EGR/","title":["Lectures Zettel"],"tags":["digitalGarden","gardenEntry"]}
 ---
 
-[[050 Base de Conocimientos/990 Lectures Zettel/Zk 020 Dr. Emilio Gutiérrez Rodríguez - Lectures Zettel\|Dr. Emilio Gutiérrez Rodríguez]]
+[[050 Base de Conocimientos/990 Lectures Zettel/Zk 015 Dr. Emilio Gutiérrez Rodríguez - Lectures Zettel\|Dr. Emilio Gutiérrez Rodríguez]]
 
 > [!INFO] 
 > Lectures Zettel es un espacio digital dedicado a la comunicación unidireccional, basado en fichas (zettels) basada en el [[050 Base de Conocimientos/200  Mi Zettelkasten/030 El Sistema Zettelkasten/Zk Metodología Zettelkasten\|método Zettelkasten]], diseñadas para acompañar y enriquecer la compresión y aprendizaje en diferentes áreas del conocimiento. El sitio se organiza mediante [[050 Base de Conocimientos/200  Mi Zettelkasten/030 El Sistema Zettelkasten/Zk Mapas de Contenido - Resumen\|Mapas de Contenido]] (MOC), que agrupan de manera estructurada los zettels generados en mis investigaciones, clases, seminarios, charlas, etc.
 
 ## Contenido
-[[050 Base de Conocimientos/990 Lectures Zettel/Zk MOCs de Clases\|MOCs de Clases]]
+[[050 Base de Conocimientos/990 Lectures Zettel/Zk 020 MOCs de Clases\|MOCs de Clases]]
