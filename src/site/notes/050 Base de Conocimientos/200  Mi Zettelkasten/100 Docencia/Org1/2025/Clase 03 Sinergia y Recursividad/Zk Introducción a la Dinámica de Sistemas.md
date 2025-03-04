@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Introducción a la Dinámica de Sistemas/","tags":["digitalGarden","dinámicaDeSistemas"]}
+---
+
+## Introducción a la Dinámica de Sistemas
+La [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas\|Dinámica de Sistemas]] es una metodología que permite el modelado, análisis y simulación del comportamiento de sistemas complejos. El uso de este paradigma nos ofrece múltiples [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas - Paradigma de Pensamiento\|ejemplos]] de aplicación en diversas áreas del conocimiento.
+
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Diagrama de Bucle Causal\|Diagrama de Bucle Causal]] es la herramienta para el modelado, análisis y simulación del comportamiento de los sistemas. Este diagrama fue propuesto por [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Jay Forrester\|Jay Forrester]], en base a trabajos previos de otros autores.
+
+El estudio de los sistemas requiere la [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Comprendiendo la Complejidad a través de Modelos de Simulación\|compresión de la complejidad]] por medio de modelos de simulación, que permitan comprender los la participación de los diferentes elementos y la relación la dinámica entre los mismos.
+
+Como hemos mencionado, el [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Diagrama de Bucle Causal\|Diagrama de Bucle Causal]] permite modelar los diferente elementos o variables que interactúan en un sistema y cómo es esa interacción, para ellos se distinguen dos tipos básicos, [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Interpretación del Diagrama de Bucle Causal#^6ea4b5\|la relación positiva]] y la [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Interpretación del Diagrama de Bucle Causal#^7acdee\|la relación negativa]]. Las relaciones positivas no implican que sean mejor, ni que las negativas tengan una connotación mala. Simplemente sirven para indicar la manera en que una variable influye en la otra. 
