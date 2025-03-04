@@ -4,4 +4,4 @@
 
 ## MOCs para Ingeniería del Software 1
 Clase 01 Presentación de la Asignatura, Reglamento de Cátedra
-Clase 02 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk 000 MOC Introducción a la Ingeniería del Software\|Introducción a la Ingeniería del Software]]
+Clase 02 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk !MOC Introducción a la Ingeniería del Software\|Introducción a la Ingeniería del Software]]
