@@ -30,12 +30,17 @@ Es indudable que la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docenci
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Complejidad de la Solución\|Complejidad de la Solución]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Factores de la Complejidad\|Factores de la Complejidad]] 
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Confianza y Robustez\|Confianza y Robustez]] 
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Software Suficientemente Bueno\|Software Suficientemente Bueno]]
 
 ----
 ## Gestión de Proyectos de Software
+Para abordar la complejidad del software y lograr un producto suficientemente bueno, los profesionales utilizan diversas herramientas y enfoques:
+
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Gestión de Proyectos de Software\|Gestión de Proyectos de Software]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Metodologías de Desarrollo\|Metodologías de Desarrollo]]
+
+Estas herramientas y enfoques, utilizados en conjunto, permiten a los equipos de desarrollo entregar software de calidad de manera eficiente y efectiva, adaptándose a los desafíos únicos de cada proyecto.
 
 ----
 ## Conclusión
