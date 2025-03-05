@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk !MOC Introducción a la Teoría General de Sistemas/","title":"Introducción a la Teoría General de Sistemas (MOC)","tags":["clase"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk !MOC Introducción a la Teoría General de Sistemas/","title":"Introducción a la Teoría General de Sistemas (MOC)","tags":["clase","moc"]}
 ---
 
 ## Introducción

@@ -3,7 +3,7 @@
 ---
 
 ## UI  (User Interface) Interfaz del Usuario
-Mientras [[Zk Diseño de Experiencia de Usuario\|UX]] se centra en la experiencia, UI se encarga del aspecto visual y la interacción entre el usuario y el sistema. La Interfaz de Usuario se refiere al conjunto de elementos visuales y de interacción que permiten al usuario comunicarse con el sistema. Un diseño de UI bien elaborado facilita la navegación y mejora la eficiencia en el uso del software ([[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|Booch et al., 2006]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Weitzenfeld, 2005) Ingenieria de software orientada a objetos con UML, Java e Internet\|Weitzenfeld, 2005]]).
+Mientras [[Zk Diseño de Experiencia de Usuario\|UX]] se centra en la experiencia, UI se encarga del aspecto visual y la interacción entre el usuario y el sistema. La Interfaz de Usuario se refiere al conjunto de elementos visuales y de interacción que permiten al usuario comunicarse con el sistema. Un diseño de UI bien elaborado facilita la navegación y mejora la eficiencia en el uso del software ([[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|Booch et al., 2006]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Weitzenfeld, 2005) Ingenieria de software orientada a objetos con UML, Java e Internet\|Weitzenfeld, 2005]]).
 
 ## Principios clave de UI
 
