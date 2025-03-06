@@ -20,4 +20,3 @@ De este modo, la TGS se presenta como un "corte horizontal" que atraviesa todos 
 
 ## Resumen Gráfico
 ![Zk Enfoque de la Teoría General de Sistemas.png|700](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2002%20Introducci%C3%B3n%20a%20la%20Teor%C3%ADa%20General%20de%20Sistemas/000%20Adjuntos/Zk%20Enfoque%20de%20la%20Teor%C3%ADa%20General%20de%20Sistemas.png)
-
