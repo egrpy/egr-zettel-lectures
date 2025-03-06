@@ -5,7 +5,7 @@
 ## Introducción a la Dinámica de Sistemas
 La [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas\|Dinámica de Sistemas]] es una metodología que permite: el modelado, análisis y simulación del comportamiento de sistemas complejos. El uso de este paradigma nos ofrece múltiples [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas - Paradigma de Pensamiento\|ejemplos]] de aplicación en diversas áreas del conocimiento.
 
-## Diagrama de Bucle Causa
+## Diagrama de Bucle Causal
 El [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Diagrama de Bucle Causal\|Diagrama de Bucle Causal]] es la herramienta para el modelado, análisis y simulación del comportamiento de los sistemas. Este diagrama fue propuesto por [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Jay Forrester\|Jay Forrester]], en base a trabajos previos de otros autores.
 
 El estudio de los sistemas requiere la [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Comprendiendo la Complejidad a través de Modelos de Simulación\|compresión de la complejidad]] por medio de modelos de simulación, que permitan comprender la participación de los diferentes elementos y la relación la dinámica entre los mismos.
