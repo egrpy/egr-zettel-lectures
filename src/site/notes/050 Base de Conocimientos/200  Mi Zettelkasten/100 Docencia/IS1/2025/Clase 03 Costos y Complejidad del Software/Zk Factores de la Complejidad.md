@@ -9,4 +9,4 @@ Los factores de complejidad son elementos que contribuyen a la dificultad genera
 
 2. Factores dinámicos: Incluyen requisitos cambiantes y la evolución del software a lo largo del tiempo
 
-Un ejemplo de factor dinámico es la Ley de Lehman, que establece que todo programa que se use se modificará, aumentando su complejidad con el tiempo..
+Un ejemplo de factor dinámico se basa en las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Leyes de la Evolución del Software de Lehman\|Leyes de Lehman]], específicamente en los postulados [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Leyes de la Evolución del Software de Lehman#^1b3bc6\|evolución continua]] y [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Leyes de la Evolución del Software de Lehman#^789cfc\|aumento de la complejidad]].

@@ -19,4 +19,4 @@ La recursividad, por otro lado, se refiere a la propiedad de un sistema de conte
 Exploraremos cómo la sinergia y la recursividad se interconectan y aplican en diversos campo
 
 ## Dinámica de Sistemas
-Una metodología para el modelado, análisis y simulación del comportamiento de los elementos interralacionados.
+Una metodología para el modelado, análisis y simulación del comportamiento de los elementos interrelacionados.
