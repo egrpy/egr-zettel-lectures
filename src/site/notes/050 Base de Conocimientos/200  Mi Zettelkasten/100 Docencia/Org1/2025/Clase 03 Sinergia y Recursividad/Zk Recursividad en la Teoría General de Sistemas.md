@@ -2,17 +2,6 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Recursividad en la Teoría General de Sistemas/","tags":["digitalGarden","recursividad"]}
 ---
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
-----
-
 ## Recursividad en la Teoría General de Sistemas
 
 La recursividad es el principio que se refiere a la repetición de patrones o estructuras similares en diferentes niveles de un sistema, permitiendo que los sistemas mantengan su identidad y funcionalidad a través de diferentes escalas.

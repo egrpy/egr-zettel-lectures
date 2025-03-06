@@ -2,16 +2,6 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Conglomerado/","tags":["digitalGarden"]}
 ---
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
-----
 ## Conglomerado
 Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]], un conglomerado se define como:
 

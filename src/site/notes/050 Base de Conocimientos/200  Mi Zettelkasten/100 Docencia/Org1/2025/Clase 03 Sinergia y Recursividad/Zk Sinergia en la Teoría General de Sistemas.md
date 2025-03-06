@@ -2,16 +2,6 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en la Teoría General de Sistemas/","tags":["digitalGarden","sinergia"]}
 ---
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
-----
 ## Sinergia
 La sinergia es el fenómeno en el cual el todo es mayor que la suma de sus partes, donde la interacción entre los elementos de un sistema produce un efecto conjunto superior a la suma de sus efectos individuales.
 

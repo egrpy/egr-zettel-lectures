@@ -16,10 +16,11 @@ debugInConsole: false # Print debug info in Obsidian console
 ## Interpretación del Diagrama de Bucle Causal
 Según García (2020), en el diagrama causal, las flechas entre variables llevan un signo más "+" ó un signo menos "-" para indicar cómo una variable influye en otra.
 
+----
 ### Relación Positiva{ #6ea4b5}
 
 
-Un signo "+" significa que un **cambio** en la variable de **origen** provoca un **cambio** en el **mismo sentido** en la variable **destino**.
+Un signo (+) significa que un **cambio** en la variable de **origen** provoca un **cambio** en el **mismo sentido** en la variable **destino**.
 #### Ejemplo Genérico
 - Un **incremento** de A, produce un **incremento** de B
 - Una **disminución** de A provoca una **disminución** de B
@@ -44,10 +45,11 @@ left to right direction
 (Poca Lluvia) --> (Disminuye la Acumulación de Agua) :+
 ```
 
+----
 ### Relación Negativa{ #7acdee}
 
 
-Un signo "-" indica que el **cambio** en la variable de **origen** causa un **cambio** en **sentido opuesto** en la variable **destino**.
+Un signo (-) indica que el **cambio** en la variable de **origen** causa un **cambio** en **sentido opuesto** en la variable **destino**.
 
 #### Ejemplo Genérico
 - Un **incremento** de A, produce una **disminución** de B
@@ -74,8 +76,8 @@ left to right direction
 ```
 
 Es importante resaltar que:
-- El signo positivo no implica un efecto "bueno" y que,
-- El signo negativo no implica un efecto "malo"
+- El signo (+) positivo no implica un efecto "bueno" y que,
+- El signo (-) negativo no implica un efecto "malo"
 Simplemente describen el tipo de influencia entre las variables.
 
 ## Enlaces

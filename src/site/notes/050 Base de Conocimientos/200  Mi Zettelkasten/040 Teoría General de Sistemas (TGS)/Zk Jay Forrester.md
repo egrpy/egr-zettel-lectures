@@ -4,6 +4,7 @@
 
 ## Referencia
 Jay Forrester. (2024). En _Wikipedia, la enciclopedia libre_. [https://es.wikipedia.org/w/index.php?title=Jay_Forrester&oldid=161841408](https://es.wikipedia.org/w/index.php?title=Jay_Forrester&oldid=161841408)
+
 ## Jay Forrester
 - Jay Wright Forrester (14 de julio de 1918-16 de noviembre de 2016)
 - Fue un ingeniero informático estadounidense.

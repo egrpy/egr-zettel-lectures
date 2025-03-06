@@ -2,17 +2,6 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Relación de Sinergia, Conglomerado, Recursividad y Algedonía/","tags":["definir"]}
 ---
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
-----
-
 ## Relación de Sinergia, Conglomerado, Recursividad y Algedonía
 
 Los conceptos de Sinergia, Conglomerado, Recursividad y Algedonía están interrelacionados en la Teoría General de Sistemas de la siguiente manera:
