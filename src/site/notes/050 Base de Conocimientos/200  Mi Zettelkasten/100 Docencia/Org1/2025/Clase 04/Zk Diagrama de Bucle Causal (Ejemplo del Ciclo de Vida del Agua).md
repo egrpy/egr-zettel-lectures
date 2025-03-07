@@ -59,56 +59,10 @@ CA --> AS  : |+|
 
 ### Identificación de Bucles
 - Aguas Superficiales - Evaporación - Lluvia - Corrientes de Agua - Aguas Superficiales
-	- Tipo de Bucle: (+), porque el número de relaciones negativas es cero (considerado par)
+	- Tipo de Bucle: (+) o de Refuerzo, porque el número de relaciones negativas es cero (considerado par).
 - Aguas Superficiales - Evaporación - Lluvia - Corrientes de Agua - Evaporación
-	- Tipo de Bucle: (+), porque el número de relaciones negativas es cero (considerado par)
-
-### Agregando una Nueva Variable
-En el modelado, análisis y simulación del comportamiento de sistemas complejos, a menudo es necesario agregar o eliminar variables para evaluar su impacto en un contexto específico. En este caso, incorporaremos una nueva variable para analizar su efecto particular.
-
-En nuestro ejemplo sobre el **Ciclo de Vida del Agua**, consideraremos que no toda el agua de lluvia regresa directamente a las superficies de agua. En la realidad, una parte se infiltra en el suelo y queda almacenada en él.
-
-#### Análisis de Variables
-Solo analizaremos la introducida.
-
-- Lluvia y Almacenamiento de Agua en el Suelo
-	- La lluvia favorece que los suelos permeables absorban parte del agua
-- Almacenamiento de Agua en el Suelo y Evaporación
-	- El agua absorbida por el suelo, hace que la cantidad de agua evaporada disminuya
-
-```plantuml
-@startuml
-!pragma layout smetana
-skinparam Rectangle {
-    BackgroundColor White
-    BorderColor White
-    FontColor green
-}
-
-skinparam defaultTextAlignment center
-skinparam ArrowColor blue
-
-rectangle "Aguas\nSuperficiales" as AS
-rectangle "Evaporación" as EV
-rectangle "Lluvia" as LL
-rectangle "Corrientes\nde Agua" as CA
-rectangle "Almacenamiento de\nAgua en el Suelo" as AA
-
-AS ---> EV : |+|
-CA ---> EV : |+|
-EV ---> LL : |+|
-LL --> CA  : |+|
-CA --> AS  : |+|
-AA --> EV  : |-|
-LL --> AA  : |+|
-@enduml
-```
-
-#### Identificación de Bucles
-- Aguas Superficiales - Evaporación - Lluvia - Corrientes de Agua - Aguas Superficiales
-	- Tipo de Bucle: (+), porque el número de relaciones negativas es cero (considerado par)
-- Aguas Superficiales - Evaporación - Lluvia - Corrientes de Agua - Evaporación
-	- Tipo de Bucle: (+), porque el número de relaciones negativas es cero (considerado par)
+	- Tipo de Bucle: (+) o de Refuerzo, porque el número de relaciones negativas es cero (considerado par).
 - Evaporación - Lluvia - Almacenamiento de Agua en el Suelo - Evaporación
-	- Tipo de Bucle: (-), porque el número de relaciones negativas es impar
 
+### Análisis de la Estabilidad del Modelo
+Este modelo se considerarse **inestable** en el sentido de que no incluye un mecanismo de retroalimentación negativa que contrarreste los cambios excesivos en el sistema. Sin embargo, en el contexto real del ciclo del agua, existen muchos mecanismos naturales que ayudan a mantener el equilibrio, como la infiltración y el almacenamiento de agua en el suelo, que actúan como mecanismos de equilibrio.
