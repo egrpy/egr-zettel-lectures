@@ -5,19 +5,19 @@
 ## Bucles de Retroalimentación en Diagrama Causal
 Siguiendo a García  (2020) en su libro Teoría y Ejercicios Prácticos de Dinámica de Sistemas, un bucle, también llamado retroalimentación o feedback , es una cadena cerrada de relaciones causales.
 
-### Bucles Negativos{ #fbae6f}
+### Bucles Negativos o Bucles de Equilibrio{ #fbae6f}
 
 
-Un bucle se define como  **"negativo"** si el número de relaciones [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Interpretación del Diagrama de Bucle Causal#^7acdee\|relaciones negativas]] en el bucle, es **impar**.
+Un bucle se define como  **"negativo"**, si el número de relaciones [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Interpretación del Diagrama de Bucle Causal#^7acdee\|relaciones negativas]] en el bucle, es **impar**.
 
 Los bucles negativos **estabilizan** el sistema, dirigiéndolo hacia un objetivo específico, como por ejemplo, llenar un vaso sin desbordarlo.
 
 ![Pasted image 20240916101551.png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/040%20Teor%C3%ADa%20General%20de%20Sistemas%20(TGS)/000%20Adjuntos/Pasted%20image%2020240916101551.png)
 
-### Bucles Positivos{ #fb5c34}
+### Bucles Positivos o Bucles de Refuerzo{ #fb5c34}
 
 
-Un bucle se define como **"positivo"** si el número de [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Interpretación del Diagrama de Bucle Causal#^7acdee\|relaciones negativas]]  en el bucle, es **par**.
+Un bucle se define como **"positivo"**, si el número de [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Interpretación del Diagrama de Bucle Causal#^7acdee\|relaciones negativas]]  en el bucle, es **par**.
 
 Los bucles positivos generan inestabilidad, amplificando cambios y causando crecimiento exponencial o colapso.
 
