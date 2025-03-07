@@ -10,8 +10,6 @@ Por ejemplo, la exposición solar es fundamental para que la piel sintetice vita
 La clave no solo está en identificar el elemento limitativo, sino también en comprender que el sistema es dinámico. A medida que uno de estos elementos deja de ser limitativo, el sistema crece y la proporción entre los elementos cambia, hasta que otro se convierte en el nuevo limitador. Por ejemplo, una planta puede verse limitada hoy por la falta de agua, y mañana, una vez solucionado ese problema, por la falta de nutrientes (García, 2020).
 
 En cualquier sistema, **siempre habrá un único elemento limitativo** en un **momento determinado**, y comprender esta dinámica es crucial para mejorar el rendimiento y el crecimiento (García, 2020).
-## Explicación.
-## Implicaciones
 
 ## Enlaces
 [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Metabolismo, fuentes endógenas y exógenas de vitamina D\|Zk Metabolismo, fuentes endógenas y exógenas de vitamina D]]
