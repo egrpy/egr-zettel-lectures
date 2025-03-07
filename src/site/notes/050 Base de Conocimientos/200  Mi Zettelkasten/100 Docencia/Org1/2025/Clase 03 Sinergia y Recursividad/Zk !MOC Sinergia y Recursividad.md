@@ -17,4 +17,4 @@
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Relación de Sinergia, Conglomerado, Recursividad y Algedonía\|Relación de Sinergia, Conglomerado, Recursividad y Algedonía]]
 
 ### Viendo la Sinergia en Acción
-[[Zk Sinergia en Acción (Ejemplo)\|Sinergia en Acción (Ejemplo)]]
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en Acción (Ciclo de Vida del Agua)\|Sinergia en Acción (Ejemplo)]]
