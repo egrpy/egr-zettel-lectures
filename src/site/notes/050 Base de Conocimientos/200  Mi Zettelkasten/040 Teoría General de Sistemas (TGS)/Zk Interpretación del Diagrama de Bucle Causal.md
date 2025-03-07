@@ -14,7 +14,7 @@ debugInConsole: false # Print debug info in Obsidian console
 ----
 
 ## Interpretación del Diagrama de Bucle Causal
-Según García (2020), en el diagrama causal, las flechas entre variables llevan un signo más "+" ó un signo menos "-" para indicar cómo una variable influye en otra.
+Según [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas#Referencia\|García (2020)]], en el diagrama causal, las flechas entre variables llevan un signo más "+" ó un signo menos "-" para indicar cómo una variable influye en otra.
 
 ----
 ### Relación Positiva{ #6ea4b5}

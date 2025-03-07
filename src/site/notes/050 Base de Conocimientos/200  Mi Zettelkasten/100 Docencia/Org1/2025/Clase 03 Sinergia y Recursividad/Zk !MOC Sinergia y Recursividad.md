@@ -12,6 +12,17 @@
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Conglomerado\|Conglomerado]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Recursividad en la Teoría General de Sistemas\|Recursividad]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Algedonía\|Algedonía]]
+
+### Relacionando Conceptos
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Relación de Sinergia, Conglomerado, Recursividad y Algedonía\|Relación de Sinergia, Conglomerado, Recursividad y Algedonía]]
+
+### Viendo la Sinergia en Acción
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en Acción (Ejemplo)\|Sinergia en Acción (Ejemplo)]]
+
+### Dinamica de Sistemas
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Introducción a la Dinámica de Sistemas\|Introducción a la Dinámica de Sistemas]]
+[[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Diagrama de Bucle Causal\|Diagrama de Bucle Causal]]
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Diagrama de Bucle Causal (Principales Elementos)\|Principales Elementos del Diagrama de Bucle Causal]]
+
+
 
