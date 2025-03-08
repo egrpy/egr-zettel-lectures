@@ -21,7 +21,3 @@ En este artículo, García (2012), vemos tres ejemplos distintos para la aplicac
 3. Simulación de un Problema de Logística
 	Una empresa de distribución de balones de gas, con un mercado reducido, y con intenciones de optimizar sus costos. Se construyó un modelo que refleja una jornada laborar, para identificar la interacción de las diferentes variables, logrando de esa forma identificar la causa del problema.
 
-## Enlaces
-[[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas\|Zk Dinámica de Sistemas]]
-[[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Software para Modelado  de Dinámica de Sistemas\|Zk Software para Modelado  de Dinámica de Sistemas]]
-

@@ -2,12 +2,9 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Definir el Sistema a Estudiar/","tags":["sistema","proceso"]}
 ---
 
-## Idea Principal
-Al estudiar un sistema, es esencial identificar tanto sus elementos como las relaciones entre ellos. Aunque el análisis tradicional suele centrarse en las características de los componentes individuales, la comprensión de sistemas complejos requiere enfocarse en cómo estos elementos interactúan (García, J. M., 2020).
+## Definir el Sistema a Estudiar
 
-## Referencia
-García, J. M. (2020). _Teoría y ejercicios prácticos de Dinámica de Sistemas_. Amazon.
+Al estudiar un sistema, es esencial identificar tanto sus elementos como las relaciones entre ellos. Aunque el análisis tradicional suele centrarse en las características de los componentes individuales, la comprensión de sistemas complejos requiere enfocarse en cómo estos elementos interactúan [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]]. 
 
-## Enlaces
-[[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas\|Zk Dinámica de Sistemas]]
+Enfoque de la [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas\|Dinámica de Sistemas]].
 

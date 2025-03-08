@@ -3,18 +3,6 @@
 ---
 
 ## Introducción a la Dinámica de Sistemas
-La [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas\|Dinámica de Sistemas]] es una metodología que permite: el modelado, análisis y simulación del comportamiento de sistemas complejos. El uso de este paradigma nos ofrece múltiples [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas - Paradigma de Pensamiento\|ejemplos]] de aplicación en diversas áreas del conocimiento.
+La [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas\|Dinámica de Sistemas]] es una metodología que permite el modelado, análisis y simulación del comportamiento de sistemas complejos. Esta disciplina ofrece una amplia gama de aplicaciones en diversas áreas del conocimiento, proporcionando herramientas para comprender y gestionar sistemas dinámicos [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]].
 
-Una de las herramientas de la Dinámica de sistemas es el [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Diagrama de Bucle Causal\|Diagrama de Bucle Causal]], que permite analizar a las variables de un sistema y la interacción entre las mismas.
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050-base-de-conocimientos/200-mi-zettelkasten/040-teoria-general-de-sistemas-tgs/zk-dinamica-de-sistemas/#referencia" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## Referencia
-García, J. M. (2020). _Teoría y ejercicios prácticos de Dinámica de Sistemas_. Amazon.
-
-
-</div></div>
-
+Una de las herramientas fundamentales en la Dinámica de Sistemas es el [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Diagrama de Bucle Causal\|Diagrama de Bucle Causal]]. Este diagrama permite analizar las variables que componen un sistema y visualizar cómo interactúan entre sí, lo que resulta esencial para entender las dinámicas internas y predecir el comportamiento del sistema a lo largo del tiempo.
