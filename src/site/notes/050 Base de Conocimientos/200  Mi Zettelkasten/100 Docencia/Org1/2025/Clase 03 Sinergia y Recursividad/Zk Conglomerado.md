@@ -13,7 +13,7 @@ Un ejemplo de conglomerado sería una pila de arena, donde los granos están jun
 
 ----
 ### Conglomerado y Sinergia
-En relación con la sinergia, [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]] señala que cuando la suma de las partes, componentes y atributos en un conjunto es igual al todo, estamos en presencia de una totalidad desprovista de sinergia, es decir, de un conglomerado.
+En relación con la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en la Teoría General de Sistemas\|sinergia]], [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]] señala que cuando la suma de las partes, componentes y atributos en un conjunto **es igual al todo**, estamos en presencia de una totalidad desprovista de sinergia, es decir, de un conglomerado.
 
 Por su parte, [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|von Bertalanffy (1989)]] enfatiza que la distinción entre conglomerados y sistemas es crucial para entender la organización jerárquica de la naturaleza y la sociedad. Mientras que los conglomerados son meras colecciones, los sistemas exhiben propiedades emergentes y comportamientos que no pueden explicarse solo por sus componentes.
 
@@ -22,7 +22,7 @@ Por su parte, [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy
  
 ----
 ### Ejemplos
-- En un pila de arena, los granos están juntos pero no interactúan de manera significativa.
+- En un montículo de arena, los granos están juntos pero no interactúan de manera significativa.
 
 - Una colección aleatoria de objetos en un cajón, están agrupados pero no forman un sistema funcional.
 
@@ -33,7 +33,6 @@ Por su parte, [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy
 El concepto de conglomerado tiene diversas aplicaciones prácticas en diferentes campos de investigación y análisis. Tiene aplicaciones prácticas limitadas, ya que se refiere a conjuntos de elementos que no interactúan significativamente entre sí.
 
 ----
-
 #### Análisis Organizacional
 En Paraguay, el Gobierno ha implementado el Sistema de Protección Social "Vamos!" en 2018. Este sistema busca integrar diferentes programas sociales que antes funcionaban de manera aislada. El modelo de gestión del SPS Vamos! se inscribe en el marco de la Gestión para Resultados (GpR), buscando pasar de un conglomerado de programas a un sistema integrado y eficiente [(Gabinete Social, 2021)](https://gabinetesocial.gov.py/wp-content/uploads/2023/10/ges.pdf).
 

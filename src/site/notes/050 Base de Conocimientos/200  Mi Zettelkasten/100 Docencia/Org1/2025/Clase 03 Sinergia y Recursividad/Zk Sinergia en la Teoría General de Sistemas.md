@@ -26,9 +26,9 @@ Crear estructuras que fomenten el trabajo colaborativo (sinergia) entre áreas d
 ----
 #### Agricultura y Sistemas Alimentarios
 
-- Sistemas agrícolas integrados: La combinación de cultivos, ganadería y acuicultura mejora el rendimiento, la diversidad dietética y la salud del suelo [(FAO, s.f.)](https://www.fao.org/agroecology/knowledge/10-elements/synergies/es/).
+- Sistemas agrícolas integrados: La combinación de cultivos, ganadería y acuicultura mejora el rendimiento, la diversidad dietética y la salud del suelo [(FAO, s.f.)](https://www.fao.org/agroecology/knowledge/10-elements/synergies/es/)).
 
-- Agroforestería: La integración de árboles y cultivos o ganado en un mismo espacio aprovecha las sinergias entre estos elementos [(Agroecology Europe, 2021)](https://www.agroecology-europe.org/wp-content/uploads/2021/10/factsheet_synergy2.pdf).
+- Agroforestería: La integración de árboles y cultivos o ganado en un mismo espacio aprovecha las sinergias entre estos elementos [(Agroecology Europe, 2021)](https://www.agroecology-europe.org/wp-content/uploads/2021/10/factsheet_synergy2.pdf), [FAO, s.f.](https://www.fao.org/agroforestry/es).
 
 - Rotación de cultivos: Esta práctica mejora la fertilidad del suelo y reduce la dependencia de insumos externos [(Agroecology Europe, 2021)](https://www.agroecology-europe.org/wp-content/uploads/2021/10/factsheet_synergy2.pdf).
 

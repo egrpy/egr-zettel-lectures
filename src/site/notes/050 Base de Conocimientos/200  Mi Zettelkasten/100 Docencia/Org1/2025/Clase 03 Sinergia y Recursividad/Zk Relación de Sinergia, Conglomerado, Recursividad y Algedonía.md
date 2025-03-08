@@ -62,12 +62,12 @@ El concepto de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/
 
 ### Integración de los conceptos
 
-Estos conceptos juntos ayudan a comprender la complejidad, adaptabilidad y evolución de los sistemas en la TGS:
+Estos conceptos juntos ayudan a comprender la complejidad, adaptabilidad y evolución de los sistemas en la Teoría General de Sistemas:
 
-1. La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en la Teoría General de Sistemas\|sinergia]] emerge cuando los componentes de un sistema **interactúan** de manera que el resultado es mayor que la suma de sus partes individuales.
+- La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en la Teoría General de Sistemas\|sinergia]] emerge cuando los componentes de un sistema **interactúan** de manera que el resultado es mayor que la suma de sus partes individuales.
 
-2. El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Conglomerado\|conglomerado]] representa el estado opuesto, donde **no hay interacciones** significativas ni efectos emergentes.
+- El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Conglomerado\|conglomerado]] representa el estado opuesto, donde **no hay interacciones** significativas ni efectos emergentes.
 
-3. La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Recursividad en la Teoría General de Sistemas\|recursividad]] permite que los patrones sinérgicos se repitan y amplíen a través de diferentes niveles del sistema.
+- La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Recursividad en la Teoría General de Sistemas\|recursividad]] permite que los patrones sinérgicos se repitan y amplíen a través de diferentes niveles del sistema.
 
-4. La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Algedonía\|algedonía]] puede influir en cómo el sistema busca y mantiene estados sinérgicos positivos mientras evita los negativos.
+- La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Algedonía\|algedonía]] puede influir en cómo el sistema busca y mantiene estados sinérgicos positivos mientras evita los negativos.
