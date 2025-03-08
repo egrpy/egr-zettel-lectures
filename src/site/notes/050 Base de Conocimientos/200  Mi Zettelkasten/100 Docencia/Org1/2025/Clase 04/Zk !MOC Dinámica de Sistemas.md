@@ -18,6 +18,7 @@
 	- [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Bucles de Retroalimentación en Diagrama Causal#^fb5c34\|Bucle Positivo o de Refuerzo]]
 	- [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Bucles de Retroalimentación en Diagrama Causal#^fbae6f\|Bucle Negativo o de Equilibrio]]
 	- [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Relación de Bucles Estabilizadores y Reforzadores\|Relación de Bucles Estabilizadores y Reforzadores]]
+
 [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Elemento Limitativo de un Sistema\|Elemento Limitativo de un Sistema]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Elemento Clave y Punto de Apalancamiento de Sistemas\|Elemento Clave y Punto de Apalancamiento de Sistemas]]
 
