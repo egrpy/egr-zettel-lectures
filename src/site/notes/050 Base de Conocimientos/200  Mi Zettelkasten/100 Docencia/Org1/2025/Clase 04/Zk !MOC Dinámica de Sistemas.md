@@ -38,5 +38,4 @@ Versión Original: [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia
 Versión Nueva: [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04/Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) con una Nueva Variable\|Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) con una Nueva Variable]]
 
 ## Herramientas para Modelado
-[[Zk Software para Modelado de Dinámica de Sistemas\|Software para Modelado de Dinámica de Sistemas]]
-[[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Software para Modelado  de Dinámica de Sistemas\|Zk Software para Modelado  de Dinámica de Sistemas]]
+[[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Software para Modelado  de Dinámica de Sistemas\|Software para Modelado  de Dinámica de Sistemas]]
