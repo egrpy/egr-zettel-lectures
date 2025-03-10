@@ -8,7 +8,7 @@ Más que modelos contemporáneos de desarrollo de software, podemos hablar de *
 
 Algunos de estos enfoques contemporáneos incluyen:
 
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos Ágiles\|Modelos Ágiles]], enfoque flexible que prioriza la colaboración, la entrega continua y la adaptabilidad a cambios. Incluye [[Zk Frameworks\|frameworks]] como [[Zk Scrum\|Scrum]], [[Zk Extreme Programming (XP)\|Extreme Programming (XP)]] y [[Zk Kanban\|Kanban]], que se centran en la iteración y la mejora continua.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos Ágiles\|Modelos Ágiles]], enfoque flexible que prioriza la colaboración, la entrega continua y la adaptabilidad a cambios. Incluye [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Framework o Marco de Trabajo\|frameworks]] como [[Zk Scrum\|Scrum]], [[Zk Extreme Programming (XP)\|Extreme Programming (XP)]] y [[Zk Kanban\|Kanban]], que se centran en la iteración y la mejora continua.
 
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk DevOps (Development and Operation)\|DevOps]], integración del desarrollo (Dev) y las operaciones (Ops) para mejorar la colaboración y automatizar el ciclo de vida del software. Se centra en la automatización de procesos, el monitoreo continuo y la colaboración entre equipos.
 
