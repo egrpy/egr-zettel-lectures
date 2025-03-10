@@ -9,9 +9,9 @@ Las Leyes de Lehman sobre la Evolución del Software son un conjunto de principi
 Las leyes se aplican principalmente a los sistemas que evolucionan (e-type), que son aquellos que operan en entornos del mundo real y están sujetos a cambios constantes en su entorno de funcionamiento (Herraiz Tabernero et al., 2013).
 
 Lehman distinguió entre tres tipos de sistemas:
-- S-type: Sistemas especificados formalmente.
-- P-type: Sistemas que resuelven problemas bien definidos pero computacionalmente complejos.
-- E-type: Sistemas que reflejan procesos humanos o partes del mundo rea
+- s-type: Sistemas especificados formalmente.
+- p-type: Sistemas que resuelven problemas bien definidos pero computacionalmente complejos.
+- e-type: Sistemas que reflejan procesos humanos o partes del mundo rea
 
 ## Las Leyes de Lehman
 
