@@ -69,7 +69,7 @@ class "Productos Entregables" {
 ```
 
 ## Desarrollo
-[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos de Proceso de Software\|Definición e Importancia de los Modelos de Proceso]]
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos de Proceso de Software\|Modelos de Proceso de Software]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos Clásicos de Desarrollo de Software\|Modelos Clásicos de Desarrollo de Software]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos Contemporáneos (Enfoques) de Desarrollo de Software\|Modelos Contemporáneos]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Adaptación de Modelos Clásicos en Entornos Modernos\|Adaptación de Modelos Clásicos en Entornos Modernos]]
