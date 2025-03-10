@@ -13,25 +13,25 @@ Es un enfoque de desarrollo de software iterativo basado en la creación de prot
 Conforme a [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|Pressman (2013]] y [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sommerville, 2011) Ingeniería del Software\|Sommerville (2011)]], las principales fases con las siguientes:
 
 #### Identificación de Requerimientos
-Se determinan las necesidades iniciales del sistema basándose en la retroalimentación del usuario.
+- Se determinan las necesidades iniciales del sistema basándose en la retroalimentación del usuario.
    
 #### Diseño Inicial del Prototipo
-Creación de un modelo preliminar que represente aspectos clave del sistema.
+- Creación de un modelo preliminar que represente aspectos clave del sistema.
 
 #### Evaluación del Prototipo
-Se presenta el prototipo a los usuarios para obtener retroalimentación y refinar los requisitos.
+- Se presenta el prototipo a los usuarios para obtener retroalimentación y refinar los requisitos.
 
 #### Desarrollo Iterativo
-Se ajusta y mejora el prototipo en ciclos sucesivos hasta alcanzar la versión final.
+- Se ajusta y mejora el prototipo en ciclos sucesivos hasta alcanzar la versión final.
 
 #### Pruebas y Validación
-Evaluación del software desarrollado para garantizar su funcionalidad y calidad.
+- Evaluación del software desarrollado para garantizar su funcionalidad y calidad.
 
 #### Implementación y Entrega
-Se pone en producción el sistema final, asegurando que cumpla con los requisitos establecidos.
+- Se pone en producción el sistema final, asegurando que cumpla con los requisitos establecidos.
 
 #### Mantenimiento y Evolución
-Se realizan mejoras y correcciones en respuesta a cambios en el entorno y nuevas necesidades del usuario.
+- Se realizan mejoras y correcciones en respuesta a cambios en el entorno y nuevas necesidades del usuario.
 
 #### Iteración
 - Repetición del proceso para agregar nuevos incrementos hasta completar el sistema.
