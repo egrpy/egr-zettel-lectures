@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk 010 Lectures Zettel by EGR/","title":["Zk 010 Lectures Zettel by EGR"],"tags":["digitalGarden","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk 010 Lectures Zettel by EGR/","title":["Zk 010 Lectures Zettel by EGR"],"tags":["digitalGarden","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 [[050 Base de Conocimientos/990 Lectures Zettel/Zk 015 Lectures Zettel - Autor\|Dr. Emilio Gutiérrez Rodríguez]]
