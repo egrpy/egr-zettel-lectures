@@ -4,7 +4,7 @@
 
 ## DevOps (Development and Operation)
 
-DevOps es una filosofía y un [[Zk Frameworks\|marco de trabajo]] que busca mejorar la colaboración y la automatización entre los equipos de desarrollo (Dev) y operaciones (Ops) en el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|ciclo de vida del software]]. Este enfoque promueve la entrega continua de software de alta calidad, reduciendo el tiempo de entrega y mejorando la calidad del producto final.
+DevOps es una filosofía y un [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Framework o Marco de Trabajo\|marco de trabajo]] que busca mejorar la colaboración y la automatización entre los equipos de desarrollo (Dev) y operaciones (Ops) en el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|ciclo de vida del software]]. Este enfoque promueve la entrega continua de software de alta calidad, reduciendo el tiempo de entrega y mejorando la calidad del producto final.
 
 ----
 ### Principios de DevOps
