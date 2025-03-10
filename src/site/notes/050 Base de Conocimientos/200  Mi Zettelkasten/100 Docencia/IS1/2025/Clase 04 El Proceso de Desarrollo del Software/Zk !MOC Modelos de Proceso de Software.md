@@ -70,8 +70,17 @@ class "Productos Entregables" {
 
 ## Desarrollo
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos de Proceso de Software\|Modelos de Proceso de Software]]
-[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos Clásicos de Desarrollo de Software\|Modelos Clásicos de Desarrollo de Software]]
-[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos Contemporáneos (Enfoques) de Desarrollo de Software\|Modelos Contemporáneos]]
+
+Distinguimos dos tipos de Modelo de Procesos de Software:
+1. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos Clásicos de Proceso de Software\|Modelos Clásicos]]
+	1.1 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelo en Cascada (Waterfall Model)\|Modelo en Cascada]]
+	1.2 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelo Incremental\|Modelo Incremental]]
+	1.3 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelo Evolutivo (Prototipos y Espiral)\|Modelo Evolutivo (Prototipos y Espiral)]]
+
+2. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos Contemporáneos (Enfoques) de Proceso de Software\|Modelos Contemporáneos]]
+	2.1  [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Modelos Ágiles\|Modelos Ágiles]]
+	2.2 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk DevOps (Development and Operation)\|DevOps]]
+
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 El Proceso de Desarrollo del Software/Zk Adaptación de Modelos Clásicos en Entornos Modernos\|Adaptación de Modelos Clásicos en Entornos Modernos]]
 
 ## Conclusión
