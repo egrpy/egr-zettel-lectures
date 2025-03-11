@@ -16,7 +16,7 @@ Estos modelos no son estáticos, evolucionan y se adaptan a las necesidades espe
 !pragma layout smetana
 skinparam style strictuml
 skinparam BackgroundColor LightGray
-left to right direction
+'left to right direction
 
 class "Ciclo de Vida del Desarrollo del Software (SDLC)" {
     + Fases [Identificación del Problema, Planificación, Requerimientos, ...]
@@ -30,44 +30,42 @@ class "Modelos de Proceso de Software" {
 }
 
 class "Frameworks" {
-    + Estructuran la gestión del desarrollo()
-    + Adaptables a proyectos específicos()
     + Ejemplos [Scrum, Kanban, Extreme Programming]
+	+ Estructuran la gestión del desarrollo()
+    + Adaptables a proyectos específicos()
 }
 
 class "Actividades" {
-    + Diseño()
-    + Implementación()
-    + Pruebas()
-    + Despliegue()
-    + Mantenimiento()
+    + Identificación del Problema()
+    + Obtención de Reqerimientos()
+    + Análisis de Requerimientos()
+    + Diseño de la Solución()
     + ...
 }
 
 class "Tareas" {
-    + Requisitos()
-    + Codificación()
-    + Validación()
-    + Integración()
+	+ Tareas por Actividades()
     + ...
 }
 
 class "Productos Entregables" {
-    + Documentación()
-    + Código Fuente()
-    + Manuales()
-    + Informes de Pruebas()
+    + Documentos [Requerimientos,...]
+    + Código Fuente
+    + Manuales
+    + Informes de Pruebas
     + ...
 }
 
-"Ciclo de Vida del Desarrollo del Software (SDLC)" --* "Modelos de Proceso de Software"
-"Modelos de Proceso de Software" --* "Frameworks"
-"Modelos de Proceso de Software" --* "Actividades"
-"Actividades" --* "Tareas"
-"Actividades" --* "Productos Entregables"
+"Ciclo de Vida del Desarrollo del Software (SDLC)" -d-* "Modelos de Proceso de Software"
+"Modelos de Proceso de Software" -d-* "Frameworks"
+"Modelos de Proceso de Software" -r-* "Actividades"
+"Actividades" -r-* "Tareas"
+"Actividades" -d-* "Productos Entregables"
 @enduml
-
 ```
+**Figura**
+_Esquema de Modelos de Proceso de Software y su Relación con el SDLC_
+Fuente: Elaboración Propia
 
 ## Desarrollo
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|Modelos de Proceso de Software]]
@@ -140,10 +138,13 @@ class "Desafíos de la Adaptación" {
 "Ciclo de Vida del Desarrollo del Software (SDLC)" --* "Modelos de Proceso de Software"
 "Modelos de Proceso de Software" --* "Modelos Clásicos"
 "Modelos de Proceso de Software" --* "Modelos Contemporáneos"
-"Modelos Clásicos" --* "Modelos Contemporáneos"
-"Modelos Contemporáneos" --* "Tecnologías Emergentes"
-"Tecnologías Emergentes" --* "Ventajas de la Adaptación"
+"Modelos Clásicos" -r-* "Modelos Contemporáneos"
+"Modelos Contemporáneos" -r-* "Tecnologías Emergentes"
+"Tecnologías Emergentes" -u-* "Ventajas de la Adaptación"
 "Tecnologías Emergentes" --* "Desafíos de la Adaptación"
 @enduml
 
 ```
+**Figura**
+_SDLC y los Modelos Clásicos y Contemporáneos_
+Fuente: Elaboración Propia
