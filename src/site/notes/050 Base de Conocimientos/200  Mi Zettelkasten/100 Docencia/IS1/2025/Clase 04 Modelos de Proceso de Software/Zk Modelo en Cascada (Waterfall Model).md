@@ -11,27 +11,27 @@ El modelo en cascada, también conocido como el modelo de agua (waterfall model)
 ----
 ### Fases Principales
 
-#### Requerimientos
+**Requerimientos**
    - Recopilación y documentación detallada de las necesidades del cliente.
    - Evaluación de los costos, la rentabilidad y la factibilidad del proyecto.
    - Definición de los requisitos funcionales y no funcionales, incluyendo expectativas de los usuarios finales.
    
-#### Diseño
+**Diseño**
    - Creación de la arquitectura del sistema y diseño detallado de los componentes.
    - Formulación de una solución específica basada en las exigencias, tareas y estrategias definidas en la fase anterior.
    - Desarrollo de un plan de diseño detallado, incluyendo interfaces, entornos de trabajo, librerías, etc.
    
-#### Implementación
+**Implementación**
    - Traducción del diseño en código ejecutable.
    - Programación del software, búsqueda de errores y pruebas unitarias.
    - Desarrollo de los diversos componentes, su verificación a través de pruebas unitarias y su integración en el producto final
 
-#### Verificación
+**Verificación**
    - Pruebas para asegurar que el software cumple con los requisitos especificados.
    - Integración del software en el entorno seleccionado, incluyendo pruebas beta y pruebas de aceptación.
    - Verificación de que el software cumple con las exigencias definidas con anterioridad
 
-#### Mantenimiento
+**Mantenimiento**
    - Corrección de errores, mejoras y adaptaciones a nuevos entornos.
    - Entrega del software, mantenimiento y mejora del producto final.
    - Uso del producto por parte del cliente, detección de problemas y correcciones necesarias para garantizar la satisfacción del cliente

@@ -18,7 +18,7 @@ Los modelos de proceso no son estáticos, son dinámicos y se adaptan a las nece
 Este enfoque dinámico garantiza que el proceso de desarrollo se ajuste continuamente a las necesidades cambiantes del proyecto, lo que es fundamental para lograr una solución personalizada y eficiente.
 
 ----
-#### Características que Debe Reunir un Modelo de Proceso
+### Características Deseables
 
 **Complejidad y Flexibilidad**
 Debe ser capaz de manejar proyectos complejos y adaptarse a cambios en los requisitos o en el entorno del proyecto.

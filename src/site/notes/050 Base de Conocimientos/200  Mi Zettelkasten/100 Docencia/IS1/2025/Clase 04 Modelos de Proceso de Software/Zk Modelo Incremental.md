@@ -56,4 +56,4 @@ Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Softwa
 
 ----
 ### Conclusión
-Ofrece un enfoque flexible y centrado en la retroalimentación continua, lo que lo hace ideal para entornos donde los requisitos pueden cambiar frecuentemente. Sin embargo, su implementación requiere una comunicación efectiva con los usuarios y una planificación adecuada para evitar sobrecostos y complejidades innecesarias. El uso de prototipos y el enfoque en la mitigación de riesgos lo convierten en una opción viable para proyectos donde la incertidumbre y la evolución constante son factores clave.
+Ofrece un modelo flexible y centrado en la retroalimentación continua, lo que lo hace ideal para entornos donde los requisitos pueden cambiar frecuentemente. Sin embargo, su implementación requiere una comunicación efectiva con los usuarios y una planificación adecuada para evitar sobrecostos y complejidades innecesarias. El uso de prototipos y el enfoque en la mitigación de riesgos lo convierten en una opción viable para proyectos donde la incertidumbre y la evolución constante son factores clave.

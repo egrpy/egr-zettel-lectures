@@ -11,30 +11,30 @@ En 2001, un grupo de desarrolladores de software redactó el [[050 Base de Conoc
 ----
 ### Características
 
-#### Colaboración y Comunicación
+**Colaboración y Comunicación**
 Personas y Interacciones: los modelos ágiles enfatizan la importancia de las personas y sus interacciones en lugar de centrarse en procesos y herramientas. Esto promueve la colaboración, el trabajo en equipo, y la comunicación abierta, lo que permite a los equipos resolver problemas de manera más efectiva y adaptarse a los cambios rápidamente.
 
-#### Entrega Continua
+**Entrega Continua**
 Iteraciones Cortas y Entregas Frecuentes: los modelos ágiles se caracterizan por realizar entregas cíclicas y frecuentes, lo que permite identificar y solucionar errores y problemas a medida que surgen. Esto también facilita la adaptación del proyecto según las necesidades del cliente o las circunstancias del mercado.
 
-#### Adaptabilidad a los Cambios
+**Adaptabilidad a los Cambios**
 Flexibilidad y Adaptabilidad: En lugar de seguir un plan detallado y rígido, los modelos ágiles se basan en la adaptabilidad y la flexibilidad. Esto permite a los equipos abordar los cambios en las necesidades del cliente y las condiciones del mercado de manera efectiva.
 
-#### Colaboración con el Cliente
+**Colaboración con el Cliente**
 Retroalimentación Constante: Los modelos ágiles promueven la colaboración estrecha entre el equipo de desarrollo y el cliente. Esto garantiza que el producto final cumpla más y mejor con las expectativas y necesidades del cliente, mediante la retroalimentación constante y la comunicación abierta.
 
-#### Mejora Continua
+**Mejora Continua**
 Optimización de los Procesos: La metodología Agile fomenta la mejora continua, lo que lleva a una optimización constante de ineficiencias. Los equipos pueden aumentar su productividad y entregar mejores resultados en menos tiempo
 
 ----
 ### Ventajas
 
-- Permite Localizar los Errores: Al trabajar en iteraciones cortas y realizar entregas frecuentes, es más fácil identificar y solucionar errores y problemas a medida que surgen.
+- Permite **Localizar los Errores**: Al trabajar en iteraciones cortas y realizar entregas frecuentes, es más fácil identificar y solucionar errores y problemas a medida que surgen.
 
-- Promueve la Optimización de los Procesos: La metodología Agile fomenta la mejora continua, lo que lleva a una optimización constante de ineficiencias.
+- Promueve la **Optimización de los Procesos**: La metodología Agile fomenta la mejora continua, lo que lleva a una optimización constante de ineficiencias.
 
-- Facilita la Adaptación del Proyecto: La adaptabilidad y la flexibilidad permiten a los equipos ajustarse rápidamente a las necesidades del cliente o las circunstancias del mercado.
+- Facilita la **Adaptación** del Proyecto: La adaptabilidad y la flexibilidad permiten a los equipos ajustarse rápidamente a las necesidades del cliente o las circunstancias del mercado.
 
-- Mejora el Control del Trabajo Realizado: Al trabajar en iteraciones cortas y realizar entregas frecuentes, los equipos pueden monitorear de cerca el progreso del proyecto y garantizar que se estén cumpliendo los objetivos.
+- Mejora el **Control del Trabajo Realizado**: Al trabajar en iteraciones cortas y realizar entregas frecuentes, los equipos pueden monitorear de cerca el progreso del proyecto y garantizar que se estén cumpliendo los objetivos.
 
 Los modelos ágiles son enfoques dinámicos y flexibles que priorizan la colaboración, la entrega continua, y la adaptabilidad a los cambios. Estos métodos han transformado la forma en que se desarrollan y entregan productos de software, permitiendo a las empresas responder rápidamente a las oportunidades del mercado y mejorar la satisfacción del cliente.

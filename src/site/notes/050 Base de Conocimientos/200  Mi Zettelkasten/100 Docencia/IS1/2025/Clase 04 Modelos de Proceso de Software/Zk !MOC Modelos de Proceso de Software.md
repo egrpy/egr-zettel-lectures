@@ -5,17 +5,18 @@
 ## Contenido
 
 ### Introducción
-Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de proceso de software]] forman parte del concepto más amplio del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software (SDLC)]], el cual define las fases generales que atraviesa un producto de software, desde su concepción hasta su mantenimiento. Dentro de este marco, los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de proceso]] estructuran estas fases en distintos esquemas, proporcionando estrategias específicas para gestionar el desarrollo de software.
+Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de proceso de software]] forman parte del concepto más amplio del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software (SDLC)]], el cual define las fases generales que son necesarias para desarrollar un producto de software, desde su concepción hasta su mantenimiento. Dentro de este marco, los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de proceso]] estructuran estas fases en distintos esquemas, proporcionando estrategias específicas para gestionar el desarrollo de software.
 
 Como [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Framework o Marco de Trabajo\|marcos de trabajo]], los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de proceso de software]] establecen la secuencia de actividades, tareas y productos entregables necesarios para desarrollar software de alta calidad. Funcionan como una **hoja de ruta** para los equipos de desarrollo, permitiéndoles organizar el proceso, gestionar riesgos, planificar proyectos y asignar recursos de manera eficiente.
 
-Además, estos modelos no son estáticos; evolucionan y se adaptan a las necesidades específicas de cada proyecto. Su desarrollo ha dado lugar a enfoques más flexibles y contemporáneos, como los modelos ágiles y DevOps, que buscan optimizar la entrega de software y mejorar la colaboración en los equipos.
+Estos modelos no son estáticos, evolucionan y se adaptan a las necesidades específicas de cada proyecto. Su desarrollo ha dado lugar a enfoques más flexibles y contemporáneos, como los modelos ágiles y DevOps, que buscan optimizar la entrega de software y mejorar la colaboración en los equipos.
 
 ```plantuml
 @startuml
 !pragma layout smetana
 skinparam style strictuml
 skinparam BackgroundColor LightGray
+left to right direction
 
 class "Ciclo de Vida del Desarrollo del Software (SDLC)" {
     + Fases [Identificación del Problema, Planificación, Requerimientos, ...]
