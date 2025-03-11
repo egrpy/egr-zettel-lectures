@@ -12,25 +12,25 @@ Es un enfoque de desarrollo de software basado en la entrega de pequeños increm
 ### Fases Principales
 Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Software Engineering Theory and Practice\|Pfleeger (2006)]] y [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sommerville, 2011) Ingeniería del Software\|Sommerville (2011)]] se distinguen las siguiente fases para este modelo:
 
-#### Análisis de Requerimientos
+**Análisis de Requerimientos**
 - Identificación de las funcionalidades a desarrollar en cada incremento
    
-#### Diseño Inicial
+**Diseño Inicial**
 - Definición de la arquitectura del sistema para soportar el desarrollo incremental.
 
-#### Implementación del Primer Incremento
+**Implementación del Primer Incremento**
 - Desarrollo de una versión básica funcional del software.
 
-#### Pruebas y Validación
+**Pruebas y Validación**
 - Evaluación del incremento desarrollado para asegurar su calidad.
 
-#### Entrega y Retroalimentación
+**Entrega y Retroalimentación**
 - Liberación del incremento al usuario y recopilación de comentarios.
 
-#### Iteración
+**Iteración
 - Repetición del proceso para agregar nuevos incrementos hasta completar el sistema.
 
-#### Mantenimiento
+**Mantenimiento**
 - Corrección de errores, actualización del software y adaptación a nuevos requerimientos.
 
 ----
@@ -42,7 +42,7 @@ Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Softwa
 
 ----
 ### Desventajas
-Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|Pressman (2013)]z] y [[Zk Lit (Sommerville, 2011) Ingeniería del Software]]:
+De acuerdo a  [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|Pressman (2013)]] y [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sommerville, 2011) Ingeniería del Software\|Sommerville (2011)]]:
 - Complejidad en la gestión de versiones: Requiere una administración adecuada para evitar conflictos entre múltiples versiones en desarrollo.
 - Dependencia de un buen diseño inicial: Si la arquitectura no está bien definida desde el principio, pueden surgir problemas de escalabilidad y mantenimiento.
 - Mayor necesidad de coordinación: Al haber entregas frecuentes, se requiere una comunicación constante con los interesados del proyecto.
@@ -56,4 +56,4 @@ Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Softwa
 
 ----
 ### Conclusión
-Ofrece una metodología flexible y centrada en la retroalimentación continua, lo que lo hace ideal para entornos donde los requisitos pueden cambiar frecuentemente. Sin embargo, su implementación requiere una comunicación efectiva con los usuarios y una planificación adecuada para evitar sobrecostos y complejidades innecesarias. El uso de prototipos y el enfoque en la mitigación de riesgos lo convierten en una opción viable para proyectos donde la incertidumbre y la evolución constante son factores clave.
+Ofrece un enfoque flexible y centrado en la retroalimentación continua, lo que lo hace ideal para entornos donde los requisitos pueden cambiar frecuentemente. Sin embargo, su implementación requiere una comunicación efectiva con los usuarios y una planificación adecuada para evitar sobrecostos y complejidades innecesarias. El uso de prototipos y el enfoque en la mitigación de riesgos lo convierten en una opción viable para proyectos donde la incertidumbre y la evolución constante son factores clave.

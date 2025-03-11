@@ -9,7 +9,7 @@ Los modelos de proceso de software son marcos de trabajo que definen la secuenci
 
 ----
 ### Importancia
-Estos modelos permiten estructurar el proceso de desarrollo, asegurando que todas las etapas sean completadas de manera eficiente y que el software cumpla con los requisitos del cliente. Ayudan a [[Zk Gestión de Riesgos en Proyectos de Software\|gestionar riesgos]], [[Zk Planificación de Proyectos de Software\|planificar proyectos]] y asignar recursos de manera más precisa [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Software Engineering Theory and Practice\|(Pfleeger, 2006]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|Pressman, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Weitzenfeld, 2005) Ingenieria de software orientada a objetos con UML, Java e Internet\|Weitzenfeld, 2005)]]. 
+Estos modelos permiten estructurar el proceso de desarrollo, asegurando que todas las etapas sean completadas de manera eficiente y que el software cumpla con los requisitos del cliente. Ayudan a gestionar riesgos, planificar proyectos y asignar recursos de manera más precisa [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Software Engineering Theory and Practice\|(Pfleeger, 2006]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|Pressman, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Weitzenfeld, 2005) Ingenieria de software orientada a objetos con UML, Java e Internet\|Weitzenfeld, 2005)]]. 
 
 ----
 ### Adaptabilidad y Dinamismo
