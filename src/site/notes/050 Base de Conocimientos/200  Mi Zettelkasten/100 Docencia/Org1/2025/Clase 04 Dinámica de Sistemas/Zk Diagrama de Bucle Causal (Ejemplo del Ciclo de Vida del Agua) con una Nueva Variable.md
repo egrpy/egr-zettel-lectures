@@ -25,34 +25,7 @@ En el ejemplo sobre el el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 
 - Almacenamiento de Agua en el Suelo
 
 ### Diagrama de Flujo Causal sin Identificar Relaciones
-```plantuml
-@startuml
-!pragma layout smetana
-skinparam Rectangle {
-    BackgroundColor White
-    BorderColor White
-    FontColor green
-}
-
-left to right direction
-skinparam defaultTextAlignment center
-skinparam ArrowColor blue
-
-rectangle "Aguas\nSuperficiales" as AS
-rectangle "Evaporación" as EV
-rectangle "Lluvia" as LL
-rectangle "Corrientes\nde Agua" as CA
-rectangle "Almacenamiento de\nAgua en el Suelo" as AA
-
-AS ---> EV : | ? |
-CA ---> EV : | ? |
-EV ---> LL : | ? |
-LL --> CA  : | ? |
-CA --> AS  : | ? |
-AA --> EV  : | ? |
-LL --> AA  : | ? |
-@enduml
-```
+![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) con una Nueva Variable-1.png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)%20con%20una%20Nueva%20Variable-1.png)
 
 ### Análisis de Variables
 Solo analizaremos la nueva variable introducida, las demás permanecen como en el ejemplo original.
@@ -67,35 +40,7 @@ Solo analizaremos la nueva variable introducida, las demás permanecen como en e
 | Lluvia y Almacenamiento de Agua en el Suelo      | La lluvia favorece que los suelos permeables absorban parte del agua<br>Tipo de Relación Causal: **Positiva (+)**                                                                                                                                          |
 | Almacenamiento de Agua en el Suelo y Evaporación | El agua absorbida por el suelo, hace que la cantidad de agua evaporada disminuya<br>Tipo de Relación Causal: **Negativa (-)**                                                                                                                              |
 ### Diagrama de Flujo Causal
-```plantuml
-@startuml
-!pragma layout smetana
-skinparam Rectangle {
-    BackgroundColor White
-    BorderColor White
-    FontColor green
-}
-
-left to right direction
-skinparam defaultTextAlignment center
-skinparam ArrowColor blue
-
-rectangle "Aguas\nSuperficiales" as AS
-rectangle "Evaporación" as EV
-rectangle "Lluvia" as LL
-rectangle "Corrientes\nde Agua" as CA
-rectangle "Almacenamiento de\nAgua en el Suelo" as AA
-
-AS --> EV : | + |
-CA --> EV : | + |
-EV --> LL : | + |
-LL --> CA : | + |
-CA --> AS : | + |
-AA --> EV : | - |
-LL --> AA : | + |
-@enduml
-```
-
+![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) con una Nueva Variable-2.png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)%20con%20una%20Nueva%20Variable-2.png)
 ### Identificación de Bucles
 | Bucles                                                                                    | Tipo                                                                     |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
