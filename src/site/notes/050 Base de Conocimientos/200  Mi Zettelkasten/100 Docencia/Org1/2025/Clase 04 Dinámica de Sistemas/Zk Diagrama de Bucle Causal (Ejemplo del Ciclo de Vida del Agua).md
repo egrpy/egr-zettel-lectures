@@ -23,31 +23,7 @@ Basados en el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1
 
 
 ### Diagrama de Flujo Causal sin Identificar Relaciones
-```plantuml
-@startuml
-!pragma layout smetana
-left to right direction
-skinparam Rectangle {
-    BackgroundColor White
-    BorderColor White
-    FontColor green
-}
-
-skinparam defaultTextAlignment center
-skinparam ArrowColor blue
-
-rectangle "Aguas\nSuperficiales" as AS
-rectangle "Evaporación" as EV
-rectangle "Lluvia" as LL
-rectangle "Corrientes\nde Agua" as CA
-
-AS --> EV : | ? |
-CA --> EV : | ? |
-EV ---> LL : | ? |
-LL --> CA  : | ? |
-CA --> AS  : | ? |
-@enduml
-```
+![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua).png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua).png)
 
 ### Análisis de Variables
 
@@ -59,31 +35,7 @@ CA --> AS  : | ? |
 | Corrientes de Agua y Evaporación         | La cantidad de agua en las corrientes de agua influye positivamente en la evaporación, aunque en menor medida que las Aguas Superficiales. Cuanto más agua en las corrientes de agua, más evaporación ocurre.<br>Tipo de Relación Causal: **Positiva (+)** |
 | Corrientes de Agua y Aguas Superficiales | Las corrientes de agua influyen positivamente en las aguas superficiales. Las corrientes finalmente desembocan en las aguas superficiales, aumentando su volumen.<br>Tipo de Relación Causal: **Positiva (+)**                                             |
 ### Diagrama de Flujo Causal
-```plantuml
-@startuml
-!pragma layout smetana
-left to right direction
-skinparam Rectangle {
-    BackgroundColor White
-    BorderColor White
-    FontColor green
-}
-
-skinparam defaultTextAlignment center
-skinparam ArrowColor blue
-
-rectangle "Aguas\nSuperficiales" as AS
-rectangle "Evaporación" as EV
-rectangle "Lluvia" as LL
-rectangle "Corrientes\nde Agua" as CA
-
-AS --> EV : | + |
-CA --> EV : | + |
-EV ---> LL : | + |
-LL --> CA  : | + |
-CA --> AS  : | + |
-@enduml
-```
+![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua)-1.png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)-1.png)
 
 ### Identificación de Bucles
 
