@@ -81,8 +81,6 @@ _Bucle 3_
 ![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable-4.png|200](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)%20V2%20con%20Nueva%20Variable-4.png)
 Fuente: Elaboración Propia
 
-
-
 ### Análisis de la Estabilidad del Modelo
 Para determinar si un modelo es estable o inestable en el contexto de un Diagrama de Bucle Causal, se analiza el comportamiento de los bucles presentes en el sistema. Un sistema es estable si tiende a regresar a un estado de equilibrio después de una perturbación, mientras que un sistema inestable se aleja del equilibrio.
 
