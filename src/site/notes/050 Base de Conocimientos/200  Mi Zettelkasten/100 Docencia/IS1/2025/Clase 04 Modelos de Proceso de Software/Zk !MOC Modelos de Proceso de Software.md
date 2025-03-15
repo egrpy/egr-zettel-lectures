@@ -67,7 +67,7 @@ class "Productos Entregables" {
 ```
 Fuente: Elaboración Propia
 
-## Desarrollo
+### Desarrollo
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|Modelos de Proceso de Software]]
 
 Distinguimos dos tipos de Modelo de Procesos de Software:
@@ -84,7 +84,7 @@ Distinguimos dos tipos de Modelo de Procesos de Software:
 
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Adaptación de Modelos Clásicos en Entornos Modernos\|Adaptación de Modelos Clásicos en Entornos Modernos]]
 
-## Conclusión
+### Conclusión
 Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de proceso de software]] han evolucionado desde enfoques [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos Clásicos de Proceso de Software\|tradicionales]] como los modelos [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo en Cascada (Waterfall)\|en Cascada]], [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo Incremental\|Incremental]] y [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo Evolutivo (Prototipos y Espiral)\|Evolutivo]], hasta enfoques [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos Contemporáneos (Enfoques) de Proceso de Software\|contemporáneos]] como los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos Ágiles\|modelos ágiles]] y [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk DevOps (Development and Operation)\|DevOps]]. La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Adaptación de Modelos Clásicos en Entornos Modernos\|adaptación]] de modelos clásicos a tecnologías emergentes como AI es crucial para mantener su relevancia.
 
 **Ventajas y Desafíos**, la integración de tecnologías emergentes mejora la flexibilidad y eficiencia, pero también plantea desafíos culturales y técnicos.
