@@ -8,6 +8,10 @@ La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase
 
 ## Ciclo de Vida del Agua
 
+### Contexto del Ejemplo
+
+El ciclo de vida del agua es un proceso dinámico en el que intervienen múltiples variables y relaciones que determinan la circulación del agua en el planeta. Este modelo representa una versión simplificada del ciclo de vida del agua, considerando solo algunas variables clave para ilustrar la potencia de este tipo de diagrama. Es importante destacar que el modelo puede hacerse tan complejo como sea necesario para capturar más detalles del proceso real. A través de este enfoque, se puede visualizar cómo las interacciones entre variables generan efectos en cadena y retroalimentaciones dentro del sistema.
+
 ### Variables
 - Aguas Superficiales (lagos, estanques, océanos, etc.)
 - Evaporación (evaporación de las aguas)
@@ -23,10 +27,30 @@ La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase
 | Lluvia y Corrientes de Agua              | La Lluvia influye positivamente en las Corrientes de Agua.<br>Más Lluvia significa más agua disponible para las Corrientes de Agua.                                                                             |
 | Corrientes de Agua y Evaporación         | La cantidad de agua en las Corrientes de Agua influye positivamente en la Evaporación, aunque en menor medida que las Aguas Superficiales<br>Cuanto más agua en las Corrientes de Agua, más Evaporación ocurre. |
 | Corrientes de Agua y Aguas Superficiales | Las Corrientes de Agua influyen positivamente en las Aguas Superficiales.<br>Las Corrientes de Agua, finalmente desembocan en las Aguas Superficiales, aumentando su volumen.                                   |
-
-![Zk Sinergia en Acción (Ciclo de Vida del Agua).png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2003%20Sinergia%20y%20Recursividad/000%20Adjuntos/Zk%20Sinergia%20en%20Acci%C3%B3n%20(Ciclo%20de%20Vida%20del%20Agua).png)
 Figura
 _Interacción de Variables del Cliclo de Vida del Agua_
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+Aguas
+Superficiales 
+Evaporación 
+Luvia 
+Aguas
+Corrientes 
+
+
+</div></div>
+
 Nota: Elaboración Propia
 
 Este ejemplo muestra cómo las variables en un sistema, **interactúan** de manera **sinérgica**, para crear un **efecto mayor que la suma de sus partes**. Además, ilustra cómo estos efectos pueden ser recursivos, donde el cambio en una variable puede influir en otras y eventualmente volver a influir en sí misma a través de un ciclo de retroalimentación.

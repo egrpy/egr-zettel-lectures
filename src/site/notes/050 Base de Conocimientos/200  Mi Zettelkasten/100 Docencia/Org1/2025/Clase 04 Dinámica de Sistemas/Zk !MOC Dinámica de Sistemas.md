@@ -34,8 +34,8 @@ Analicemos más a profundidad el modelo del [[050 Base de Conocimientos/200  Mi 
 
 Ahora, profundicemos en el modelo del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en Acción (Ciclo de Vida del Agua)\|Ciclo de Vida del Agua]], analizando detalladamente las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Tipos de Relaciones Causales\|relaciones causales]] entre las variables y los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Tipos de Bucles de Relaciones\|bucles de relaciones]] que lo componen. Este análisis nos permitirá evaluar la estabilidad o inestabilidad del modelo, proporcionando una comprensión más profunda de su dinámica.
 
-Versión Original: [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua)\|Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua]]
-Versión Nueva: [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) con una Nueva Variable\|Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) con una Nueva Variable]]
+Versión Original: [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V1\|Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua]]
+Versión Nueva: [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable\|Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) con una Nueva Variable]]
 
 ## Herramientas para Modelado
 [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Software para Modelado  de Dinámica de Sistemas\|Software para Modelado  de Dinámica de Sistemas]]
