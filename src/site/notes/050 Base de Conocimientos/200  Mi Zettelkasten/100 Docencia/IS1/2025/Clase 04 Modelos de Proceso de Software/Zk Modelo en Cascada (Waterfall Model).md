@@ -6,35 +6,64 @@
 
 ### Definición
 
-El modelo en cascada, también conocido como el modelo de agua (waterfall model), es un enfoque secuencial de desarrollo de software en el que cada fase debe completarse antes de iniciar la siguiente. Este modelo se caracteriza por dividir el proceso de desarrollo en fases predefinidas y lineales, donde cada fase concluye antes de que comience la siguiente. Este modelo fue introducido en 1970 por [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Winston W. Royce) Wikipedia\|Winston W. Royce]] [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|(Pressman, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sommerville, 2011) Ingeniería del Software\|Sommerville, 2011)]]. 
+El modelo en cascada, también conocido como el modelo de agua (Waterfall Model), es un enfoque secuencial de desarrollo de software en el que cada fase debe completarse antes de iniciar la siguiente. Este modelo se caracteriza por dividir el proceso de desarrollo en fases predefinidas y lineales, donde cada fase concluye antes de que comience la siguiente. Este modelo fue introducido en 1970 por [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Winston W. Royce) Wikipedia\|Winston W. Royce]] [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|(Pressman, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sommerville, 2011) Ingeniería del Software\|Sommerville, 2011)]]. 
 
 ----
 ### Fases Principales
+```plantuml
+@startuml
+	!pragma layout smetana
+	skinparam style strictuml
+	skinparam BackgroundColor LightGray
+	'left to right direction
+	skinparam conditionStyle InsideDiamond
+	skinparam linetype ortho
+	|Fase 1|
+	start
+	:Requerimientos;
+	|Fase 2|
+	:Análisis;
+	|Fase 3|
+	:Diseño;
+	|Fase 4|
+	:Implementación;
+	|Fase j|
+	:Actividad j;
+	|Fase 5|
+	:Verificación;
+	|Fase 6|
+	:Mantenimiento;
+	stop
+@enduml
+```
 
 **Requerimientos**
-   - Recopilación y documentación detallada de las necesidades del cliente.
-   - Evaluación de los costos, la rentabilidad y la factibilidad del proyecto.
-   - Definición de los requisitos funcionales y no funcionales, incluyendo expectativas de los usuarios finales.
+- Recopilación y documentación detallada de las necesidades del cliente.
+- Evaluación de los costos, la rentabilidad y la factibilidad del proyecto.
+- Definición de los requisitos funcionales y no funcionales, incluyendo expectativas de los usuarios finales.
    
+**Análisis**
+- Entender y especificar detalladamente los requerimientos.
+
 **Diseño**
-   - Creación de la arquitectura del sistema y diseño detallado de los componentes.
-   - Formulación de una solución específica basada en las exigencias, tareas y estrategias definidas en la fase anterior.
-   - Desarrollo de un plan de diseño detallado, incluyendo interfaces, entornos de trabajo, librerías, etc.
+- Creación de la arquitectura del sistema y diseño detallado de los componentes.
+- Formulación de una solución específica basada en las exigencias, tareas y estrategias definidas en la fase anterior.
+- Desarrollo de un plan de diseño detallado, incluyendo interfaces, entornos de trabajo, librerías, etc.
    
 **Implementación**
-   - Traducción del diseño en código ejecutable.
-   - Programación del software, búsqueda de errores y pruebas unitarias.
-   - Desarrollo de los diversos componentes, su verificación a través de pruebas unitarias y su integración en el producto final
+- Traducción del diseño en código ejecutable.
+- Programación del software, búsqueda de errores y pruebas unitarias.
+- Desarrollo de los diversos componentes, su verificación a través de pruebas unitarias y su integración en el producto final
 
 **Verificación**
-   - Pruebas para asegurar que el software cumple con los requisitos especificados.
-   - Integración del software en el entorno seleccionado, incluyendo pruebas beta y pruebas de aceptación.
-   - Verificación de que el software cumple con las exigencias definidas con anterioridad
+- Pruebas para asegurar que el software cumple con los requisitos especificados.
+- Integración del software en el entorno seleccionado, incluyendo pruebas beta y pruebas de aceptación.
+- Verificación de que el software cumple con las exigencias definidas con anterioridad.
 
 **Mantenimiento**
-   - Corrección de errores, mejoras y adaptaciones a nuevos entornos.
-   - Entrega del software, mantenimiento y mejora del producto final.
-   - Uso del producto por parte del cliente, detección de problemas y correcciones necesarias para garantizar la satisfacción del cliente
+- Corrección de errores, mejoras y adaptaciones a nuevos entornos.
+- Entrega del software, mantenimiento y mejora del producto final.
+- Uso del producto por parte del cliente, detección de problemas y correcciones necesarias para garantizar la satisfacción del cliente
 
 ----
 ### Ventajas

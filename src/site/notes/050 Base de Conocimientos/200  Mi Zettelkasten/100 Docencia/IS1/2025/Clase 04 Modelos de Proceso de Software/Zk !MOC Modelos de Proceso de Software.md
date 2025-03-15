@@ -11,6 +11,8 @@ Como [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Framew
 
 Estos modelos no son estáticos, evolucionan y se adaptan a las necesidades específicas de cada proyecto. Su desarrollo ha dado lugar a enfoques más flexibles y contemporáneos, como los modelos ágiles y DevOps, que buscan optimizar la entrega de software y mejorar la colaboración en los equipos.
 
+**Figura**
+_Esquema de Modelos de Proceso de Software y su Relación con el SDLC_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -63,8 +65,6 @@ class "Productos Entregables" {
 "Actividades" -d-* "Productos Entregables"
 @enduml
 ```
-**Figura**
-_Esquema de Modelos de Proceso de Software y su Relación con el SDLC_
 Fuente: Elaboración Propia
 
 ## Desarrollo
@@ -88,6 +88,9 @@ Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase
 **Ventajas y Desafíos**, la integración de tecnologías emergentes mejora la flexibilidad y eficiencia, pero también plantea desafíos culturales y técnicos.
 
 **Futuro del Desarrollo de Software**, el futuro del desarrollo de software dependerá de la capacidad de los modelos de proceso para adaptarse a nuevas tecnologías y necesidades cambiantes del mercado.
+
+**Figura**
+_SDLC y los Modelos Clásicos y Contemporáneos_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -145,6 +148,4 @@ class "Desafíos de la Adaptación" {
 @enduml
 
 ```
-**Figura**
-_SDLC y los Modelos Clásicos y Contemporáneos_
 Fuente: Elaboración Propia

@@ -21,6 +21,8 @@ Se entrega software funcional al cliente de manera regular.
 **Refactorización**
 La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Refactorización\|refactorización]] se refiere la mejora continua del código para mantener su simplicidad.
 
+Figura
+_Principios de XP_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -79,8 +81,6 @@ package "Principios de XP" {
 }
 @enduml
 ```
-Figura
-_Principios de XP_
 Fuente: Elaboración Propia
 
 ### Ventajas   
