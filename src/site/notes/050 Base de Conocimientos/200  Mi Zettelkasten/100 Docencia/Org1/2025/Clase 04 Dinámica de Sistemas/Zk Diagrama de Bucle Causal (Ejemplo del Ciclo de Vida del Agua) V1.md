@@ -25,34 +25,7 @@ Basados en el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1
 ### Diagrama de Flujo Causal
 **Figura**
 _Diagrama de Bucle Causal sin Identificar Relaciones Causales_
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-Aguas
-Superficiales 
-Evaporación 
-Luvia 
-Aguas
-Corrientes 
-¿? 
-¿? 
-¿? 
-¿? 
-¿? 
-¿? 
-
-
-</div></div>
-
+![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V1.png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)%20V1.png)
 Fuente: Elaboración propia.
 
 ### Análisis de Variables

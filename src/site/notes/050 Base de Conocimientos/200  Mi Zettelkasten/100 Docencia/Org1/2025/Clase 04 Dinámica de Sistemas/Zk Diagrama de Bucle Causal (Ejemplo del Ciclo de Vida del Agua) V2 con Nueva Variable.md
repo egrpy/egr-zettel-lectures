@@ -27,39 +27,7 @@ En el ejemplo sobre el el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 
 ### Diagrama de Flujo Causal
 **Figura**
 _Diagrama de Bucle Causal con Nueva Variable sin Identificar Relación Causal_
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-Aguas
-Superficiales 
-Evaporación 
-Luvia 
-Aguas
-Corrientes 
-¿? 
-¿? 
-¿? 
-¿? 
-¿? 
-¿? 
-Almacenamiento
-de Aguas en el
-Subsuelo 
-¿? 
-¿? 
-
-
-</div></div>
-
+![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable.png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)%20V2%20con%20Nueva%20Variable.png)
 Fuente: Elaboración propia.
 
 ### Análisis de Variables
@@ -77,46 +45,15 @@ Solo analizaremos la nueva variable introducida, las demás permanecen como en e
 ### Diagrama de Flujo Causal
 **Figura**
 _Diagrama de Bucle Causal con Nueva Variable con Relaciones Causales Identificadas_
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-Aguas
-Superficiales 
-Evaporación 
-Luvia 
-Aguas
-Corrientes 
-+ 
-+ 
-+ 
-+ 
-+ 
-Almacenamiento
-de Aguas en el
-Subsuelo 
-+ 
-- 
-
-
-</div></div>
-
+![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable-1.png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)%20V2%20con%20Nueva%20Variable-1.png)
 Fuente: Elaboración propia.
 
 ### Identificación de Bucles
-| Bucles                                                                                    | Tipo                                                                     |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Aguas Superficiales >+ Evaporación >+ Lluvia >+ Corrientes de Agua >+ Aguas Superficiales | **Refuerzo (+)**, porque el número de relaciones negativas es cero (par) |
-| Aguas Superficiales >+ Evaporación >+ Lluvia >+ Corrientes de Agua >+ Evaporación         | **Refuerzo (+)**, porque el número de relaciones negativas es cero (par) |
-| Evaporación >+ Lluvia >+ Almacenamiento de Agua en el Suelo >- Evaporación                | **Equilibrio (-)**, porque el número de relaciones negativas es impar    |
+| Bucle                                                                                     | Gráfico                                                                                                | Tipo                                                                          |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| Aguas Superficiales >+ Evaporación >+ Lluvia >+ Corrientes de Agua >+ Aguas Superficiales | ![[Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable-2.png\|200]] | **Refuerzo (+)**, porque el número de relaciones negativas es cero (par)      |
+| Aguas Superficiales >+ Evaporación >+ Lluvia >+ Corrientes de Agua >+ Evaporación         | ![[Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable-3.png\|200]] | **Refuerzo (+)**, porque el número de relaciones negativas es cero (par)      |
+| Evaporación >+ Lluvia >+ Almacenamiento de Agua en el Suelo >- Evaporación                | ![[Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable-4.png\|200]] | **Equilibrio (-)**, porque el número de relaciones negativas es uno (1) impar |
 ### Análisis de la Estabilidad del Modelo
 Para determinar si un modelo es estable o inestable en el contexto de un Diagrama de Bucle Causal, se analiza el comportamiento de los bucles presentes en el sistema. Un sistema es estable si tiende a regresar a un estado de equilibrio después de una perturbación, mientras que un sistema inestable se aleja del equilibrio.
 
