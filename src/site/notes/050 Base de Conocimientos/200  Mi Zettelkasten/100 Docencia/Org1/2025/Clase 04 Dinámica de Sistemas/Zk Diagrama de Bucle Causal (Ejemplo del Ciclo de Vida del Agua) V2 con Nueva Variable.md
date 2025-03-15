@@ -54,7 +54,7 @@ Fuente: Elaboración propia.
 ### Identificación de Bucles
 #### Bucle 1
 **Relaciones**: Aguas Superficiales →+ Evaporación →+ Lluvia →+ Corrientes de Agua →+ Aguas Superficiales
-**Tipo**: **Refuerzo (+)**, porque el número de relaciones negativas es cero (par).
+**Tipo**: Cantidad de relaciones negativas es cero (par), por tanto es un bucle **Positivo** (+) o de **Refuerzo**
 
 **Figura**
 _Bucle 1_
@@ -63,18 +63,18 @@ Fuente: Elaboración Propia
 
 ----
 #### Bucle 2
-**Relaciones**: Aguas Superficiales →+ Evaporación →+ Lluvia →+ Corrientes de Agua →+ Evaporación
-**Tipo**: **Refuerzo (+)**, porque el número de relaciones negativas es cero (par).
+**Relaciones**: Aguas Corrientes →+ Evaporación →+ Lluvia →+ Corrientes de Agua 
+**Tipo**: Cantidad de relaciones negativas es cero (par), por tanto es un bucle **Positivo** (+) o de **Refuerzo**
 
 **Figura**
 _Bucle 2_
-![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable-3.png|200](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)%20V2%20con%20Nueva%20Variable-3.png)
+![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable-5.png|200](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)%20V2%20con%20Nueva%20Variable-5.png)
 Fuente: Elaboración Propia
 
 ----
 #### Bucle 3
 **Relaciones**: Evaporación →+ Lluvia →+ Almacenamiento de Agua en el Suelo →- Evaporación
-**Tipo**: **Refuerzo (-)**, porque el número de relaciones negativas es uno (impar).
+**Tipo**: Cantidad de relaciones negativas es uno (impar), por tanto es un bucle **Negativo** (-) o **Estabilizador **
 
 **Figura**
 _Bucle 3_
