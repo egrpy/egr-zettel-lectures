@@ -49,6 +49,8 @@ _Diagrama de Bucle Causal con Nueva Variable con Relaciones Causales Identificad
 Fuente: Elaboración propia.
 
 ### Identificación de Bucles
+![Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable-2.png|200](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2004%20Din%C3%A1mica%20de%20Sistemas/000%20Adjuntos/Zk%20Diagrama%20de%20Bucle%20Causal%20(Ejemplo%20del%20Ciclo%20de%20Vida%20del%20Agua)%20V2%20con%20Nueva%20Variable-2.png)
+
 | Bucle                                                                                     | Gráfico                                                                                                | Tipo                                                                          |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
 | Aguas Superficiales >+ Evaporación >+ Lluvia >+ Corrientes de Agua >+ Aguas Superficiales | ![[Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable-2.png\|200]] | **Refuerzo (+)**, porque el número de relaciones negativas es cero (par)      |
