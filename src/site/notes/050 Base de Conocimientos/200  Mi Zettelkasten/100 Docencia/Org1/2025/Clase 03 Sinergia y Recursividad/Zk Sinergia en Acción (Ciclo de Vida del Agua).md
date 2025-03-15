@@ -24,29 +24,7 @@ La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase
 | Corrientes de Agua y Evaporación         | La cantidad de agua en las Corrientes de Agua influye positivamente en la Evaporación, aunque en menor medida que las Aguas Superficiales<br>Cuanto más agua en las Corrientes de Agua, más Evaporación ocurre. |
 | Corrientes de Agua y Aguas Superficiales | Las Corrientes de Agua influyen positivamente en las Aguas Superficiales.<br>Las Corrientes de Agua, finalmente desembocan en las Aguas Superficiales, aumentando su volumen.                                   |
 
-```plantuml
-@startuml
-!pragma layout smetana
-skinparam Rectangle {
-    BackgroundColor White
-    BorderColor White
-    FontColor green
-}
-
-skinparam defaultTextAlignment center
-skinparam ArrowColor blue
-
-rectangle "Aguas Superficiales" as AS
-rectangle "Evaporación" as EV
-rectangle "Lluvia" as LL
-rectangle "Corrientes de Agua" as CA
-
-AS --> EV 
-CA --> EV 
-EV --> LL 
-LL --> CA 
-CA --> AS 
-```
+![Zk Sinergia en Acción (Ciclo de Vida del Agua).png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2003%20Sinergia%20y%20Recursividad/000%20Adjuntos/Zk%20Sinergia%20en%20Acci%C3%B3n%20(Ciclo%20de%20Vida%20del%20Agua).png)
 Figura
 _Interacción de Variables del Cliclo de Vida del Agua_
 Nota: Elaboración Propia

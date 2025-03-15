@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas/","tags":["sistema"]}
 ---
 
-
 ## Dinámica de Sistemas
 La Dinámica de Sistemas es una metodología que aborda la complejidad de problemas globales como el hambre, la pobreza, la degradación ambiental y los conflictos, para los cuales los métodos tradicionales han resultado insuficientes. A diferencia de los modelos mentales convencionales, que suelen simplificar las relaciones a conexiones lineales de causa y efecto, la Dinámica de Sistemas emplea modelos de simulación que integran estructuras de retroalimentación, permitiendo una comprensión más profunda y matizada de las dinámicas internas de los sistemas [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]].
 

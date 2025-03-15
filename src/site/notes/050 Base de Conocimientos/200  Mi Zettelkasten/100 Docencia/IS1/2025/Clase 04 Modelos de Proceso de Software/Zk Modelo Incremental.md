@@ -13,25 +13,25 @@ Es un enfoque de desarrollo de software basado en la entrega de pequeños increm
 Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Software Engineering Theory and Practice\|Pfleeger (2006)]] y [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sommerville, 2011) Ingeniería del Software\|Sommerville (2011)]] se distinguen las siguiente fases para este modelo:
 
 **Análisis de Requerimientos**
-- Identificación de las funcionalidades a desarrollar en cada incremento
+Identificación de las funcionalidades a desarrollar en cada incremento
    
 **Diseño Inicial**
-- Definición de la arquitectura del sistema para soportar el desarrollo incremental.
+Definición de la arquitectura del sistema para soportar el desarrollo incremental.
 
 **Implementación del Primer Incremento**
-- Desarrollo de una versión básica funcional del software.
+Desarrollo de una versión básica funcional del software.
 
 **Pruebas y Validación**
-- Evaluación del incremento desarrollado para asegurar su calidad.
+Evaluación del incremento desarrollado para asegurar su calidad.
 
 **Entrega y Retroalimentación**
-- Liberación del incremento al usuario y recopilación de comentarios.
+Liberación del incremento al usuario y recopilación de comentarios.
 
 **Iteración
-- Repetición del proceso para agregar nuevos incrementos hasta completar el sistema.
+Repetición del proceso para agregar nuevos incrementos hasta completar el sistema.
 
 **Mantenimiento**
-- Corrección de errores, actualización del software y adaptación a nuevos requerimientos.
+Corrección de errores, actualización del software y adaptación a nuevos requerimientos.
 
 ----
 ### Ventajas

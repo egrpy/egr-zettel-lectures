@@ -9,16 +9,16 @@ DevOps es una filosofía y un [[050 Base de Conocimientos/200  Mi Zettelkasten/0
 ----
 ### Principios de DevOps
 
-#### Cultura y Colaboración
+**Cultura y Colaboración**
 DevOps se basa en una cultura de colaboración estrecha entre los equipos de desarrollo y operaciones, promoviendo la comunicación constante y la responsabilidad compartida.
 
-#### Automatización
+**Automatización**
 Se enfatiza la automatización de procesos como la integración continua, el despliegue continuo y el monitoreo, para reducir el trabajo manual y mejorar la eficiencia.
 
-#### Medición y Retroalimentación
+**Medición y Retroalimentación**
 La toma de decisiones se basa en datos y métricas, lo que permite evaluar el desempeño y realizar ajustes necesarios.
 
-#### Compartir Conocimiento
+**Compartir Conocimiento**
 Se fomenta el intercambio de conocimientos y experiencias entre los equipos para mejorar la transparencia y la eficiencia.
 
 ----

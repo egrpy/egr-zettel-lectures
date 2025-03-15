@@ -4,7 +4,7 @@
 
 ## Principales Elementos del Diagrama de Bucle Causal
 
-El Diagrama de Bucle Causal es un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Grafo\|grafo]], un tipo de representación gráfica que ayuda a entender las relaciones causales dentro de un sistema complejo. A continuación, se presentan los principales elementos que componen un Diagrama de Bucle Causal [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]]:
+El Diagrama de Bucle Causal es un [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Grafo\|grafo]], un tipo de representación gráfica que ayuda a entender las relaciones causales dentro de un sistema complejo. A continuación, se presentan los principales elementos que componen un Diagrama de Bucle Causal [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]]:
 
 ### 1. Variables
 Se presentan como **nodos**, representan las cantidades o atributos dentro del sistema que pueden cambiar con el tiempo. Pueden ser tangibles, como cifras de ventas, o abstractas, como la cultura organizacional. En un sistema dinámico, estas variables interactúan y evolucionan según la naturaleza del sistema, lo que puede llevar a cambios significativos en el estado del sistema.

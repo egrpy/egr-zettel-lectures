@@ -9,17 +9,28 @@ Kanban es un sistema visual para gestionar el flujo de trabajo, enfocado en la e
  
 ### Principios
 
-- **Visualización del Trabajo**: Se utiliza un tablero Kanban para visualizar todas las tareas.
-- **Limitación del Trabajo en Progreso (WIP)**: Se establecen límites para evitar sobrecargas.
-- **Flujo Continuo**: Se busca mantener un flujo continuo de trabajo sin interrupciones.
-- **Mejora Continua**: Se fomenta la reflexión periódica para mejorar el proceso.
+**Visualización del Trabajo**
+Se utiliza un tablero Kanban para visualizar todas las tareas.
+
+**Limitación del Trabajo en Progreso (WIP)**
+Se establecen límites para evitar sobrecargas.
+
+**Flujo Continuo**
+Se busca mantener un flujo continuo de trabajo sin interrupciones.
+
+**Mejora Continua**
+Se fomenta la reflexión periódica para mejorar el proceso.
 
 ### Ventajas
 
-- **Flexibilidad**: No requiere roles fijos ni ceremonias obligatorias.
-- **Mejora Continua**: Promueve la reflexión constante para mejorar el proceso.
-- **Priorización**: Permite priorizar tareas según su importancia y urgencia.
+**Flexibilidad**
+No requiere roles fijos ni ceremonias obligatorias.
+
+**Mejora Continua**
+Promueve la reflexión constante para mejorar el proceso.
+
+**Priorización**
+Permite priorizar tareas según su importancia y urgencia.
 
 ### Referencias
-    
 **Wikipedia**: [Kanban (development)](https://en.wikipedia.org/wiki/Kanban_\(development\))
