@@ -10,7 +10,7 @@ Los modelos clásicos de desarrollo de software, como el en Cascada, Incremental
 ### Adaptación del Modelo en Cascada
 
 **Incorporación de Inteligencia Artificial**
-- La automatización de pruebas y la detección temprana de errores mediante [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Inteligencia Artificial (AI)\|AI]] pueden mejorar la eficiencia del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo en Cascada (Waterfall Model)\|Modelo en Cascada]], aunque su rigidez sigue siendo un desafío.
+- La automatización de pruebas y la detección temprana de errores mediante [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Inteligencia Artificial (AI)\|AI]] pueden mejorar la eficiencia del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo en Cascada (Waterfall)\|Modelo en Cascada]], aunque su rigidez sigue siendo un desafío.
 - La [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Inteligencia Artificial (AI)\|AI]] también puede aumentar predictibilidad en proyectos complejos y reducir riesgos mediante simulaciones.
 
 **Uso de DevOps**

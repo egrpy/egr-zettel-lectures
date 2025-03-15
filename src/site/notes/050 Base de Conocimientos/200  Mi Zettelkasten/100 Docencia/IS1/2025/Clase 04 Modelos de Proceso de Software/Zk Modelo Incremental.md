@@ -10,6 +10,50 @@ Es un enfoque de desarrollo de software basado en la entrega de pequeños increm
 
 ----
 ### Fases Principales
+**Figura**
+_Modelo Incremental_
+```
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+'left to right direction
+skinparam conditionStyle InsideDiamond
+skinparam linetype ortho
+
+
+|Incremento Inicial|
+start
+:Requerimientos;
+:Análisis;
+:Diseño Inicial;
+:Implementación;
+:Pruebas y Validación;
+:Entrega y Retroalimentación;
+
+|Incremento 2|
+:Requerimientos;
+:..;
+
+
+|Incremento j|
+:Requerimientos;
+:..;
+
+|Incremento Final|
+:Requerimientos;
+:..;
+
+|Mantenimiento|
+:Mantenimiento;
+
+stop
+
+@enduml
+
+```
+Fuente: Elaboración propia
+
 Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Software Engineering Theory and Practice\|Pfleeger (2006)]] y [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sommerville, 2011) Ingeniería del Software\|Sommerville (2011)]] se distinguen las siguiente fases para este modelo:
 
 **Análisis de Requerimientos**

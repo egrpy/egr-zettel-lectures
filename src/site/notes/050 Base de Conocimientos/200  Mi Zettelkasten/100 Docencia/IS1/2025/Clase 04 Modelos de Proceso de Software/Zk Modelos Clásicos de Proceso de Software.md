@@ -8,7 +8,7 @@ Los modelos clásicos de desarrollo de software son enfoques tradicionales que e
 
 Los principales modelos clásicos incluyen:
 
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo en Cascada (Waterfall Model)\|Modelo en Cascada]], que sigue un enfoque secuencial donde cada fase debe completarse antes de pasar a la siguiente.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo en Cascada (Waterfall)\|Modelo en Cascada]], que sigue un enfoque secuencial donde cada fase debe completarse antes de pasar a la siguiente.
 
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo Incremental\|Modelo Incremental]], divide el desarrollo en pequeños incrementos funcionales que se integran progresivamente.
 
