@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk !MOC El Modelado en la Ingeniería del Software/","tags":["digitalGarden","moc","software","proceso"]}
 ---
 
-## Contenido
+## El Modelado en la Ingeniería del Software
 
 ### Introducción
 
@@ -18,10 +18,12 @@ El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 
 
 Entre sus [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Objetivos del Análisis de Sistemas\|objetivos básicos]] se encuentran la identificación precisa de requisitos, la evaluación exhaustiva de la viabilidad del proyecto, la asignación efectiva de funcionalidades, y la identificación de limitaciones. Además, busca mejorar el rendimiento general del sistema, garantizar su fiabilidad, optimizar la experiencia del usuario, facilitar la toma de decisiones informadas, apoyar la escalabilidad, asegurar la seguridad y el cumplimiento normativo, y promover la rentabilidad del proyecto.
 
+----
 #### Complejidad de los Proyectos
 
 La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Complejidad de los Proyectos de Software\|complejidad de los proyectos]] de software crece en paralelo con el tamaño y la funcionalidad del sistema. Esta complejidad puede manifestarse en tres dimensiones clave: estructural, lógica y procesal, cada una de las cuales impacta significativamente en el desarrollo, mantenimiento y escalabilidad del software.
 
+----
 #### Los Modelos en la Ingeniería del Software
 
 Tras explorar los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Objetivos del Análisis de Sistemas\|objetivos del Análisis de Sistemas]], donde se establecen los cimientos para el desarrollo del software, y reconocer la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Complejidad de los Proyectos de Software\|complejidad inherente de los proyectos de software]], nos adentramos en el núcleo del modelado. En la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk Ingeniería del Software\|ingeniería de software]], los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] emergen como herramientas esenciales para gestionar esta complejidad.
@@ -32,6 +34,7 @@ La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 
 
 Para asegurar que los modelos sean efectivos, se deben seguir ciertos [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Principios del Modelado\|principios del modelado]], como la abstracción, simplificación y reutilización. Además, los modelos pueden ser representados a diferentes [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Niveles de Abstracción en el Modelado de Software\|niveles de abstracción]], desde el conceptual hasta el físico. Finalmente, la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Componentes y Estructura de un Modelo\|estructura de un modelo]] incluye componentes y relaciones que definen cómo se organiza y representa el sistema.
 
+----
 ### Conclusiones
 A lo largo de este MOC, hemos recorrido un camino que nos ha llevado desde los fundamentos del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Análisis de Sistemas\|Análisis de Sistemas]], donde se establecen los pilares para un desarrollo eficiente, hasta la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Complejidad de los Proyectos de Software\|la complejidad inherente a los proyectos de software]], un desafío que demanda estrategias claras y precisas. En este recorrido, hemos adelantado que los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] emergen como herramientas indispensables, actuando como puentes entre la abstracción y la claridad en el desarrollo de software.
 
