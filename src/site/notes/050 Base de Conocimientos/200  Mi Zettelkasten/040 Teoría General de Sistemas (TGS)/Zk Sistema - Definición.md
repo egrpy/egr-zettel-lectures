@@ -12,6 +12,7 @@ A partir de estas perspectivas, podemos formular una definición integradora:
 > Un sistema es un conjunto organizado de elementos interdependientes, tanto entre sí como con su entorno, que interactúan bajo reglas o fuerzas definidas para alcanzar objetivos específicos. Esta interrelación implica que cualquier cambio en un elemento afecta al sistema en su totalidad, generando propiedades emergentes que trascienden la suma de sus partes individuales.
 
 ## Enfoques Clave
+
 **Interrelación y Conexión**
 Un sistema está compuesto por elementos que no existen de manera aislada, sino que están interconectados entre sí y con su entorno  [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|(von Bertalanffy, 1989)]]. Reafirma el concepto de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en la Teoría General de Sistemas\|sinergia]]
 
