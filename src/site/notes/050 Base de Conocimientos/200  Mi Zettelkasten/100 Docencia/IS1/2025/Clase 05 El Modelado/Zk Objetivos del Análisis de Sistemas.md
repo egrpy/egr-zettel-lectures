@@ -4,7 +4,7 @@
 
 ## Objetivos del Análisis de Sistemas
 
-El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Análisis de Sistemas\|análisis de sistemas]] es una disciplina crucial en la ingeniería de sistemas que abarca una variedad de objetivos fundamentales. A continuación, se detallan las funciones principales del análisis de sistemas [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al.,2000)]]:
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Análisis de Sistemas\|análisis de sistemas]] es una disciplina crucial en la ingeniería de sistemas que abarca una variedad de objetivos fundamentales. A continuación, se detallan las funciones principales del análisis de sistemas [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al.,2000)]]:
 
 ----
 ### Identificar las Necesidades y Requerimientos del Cliente

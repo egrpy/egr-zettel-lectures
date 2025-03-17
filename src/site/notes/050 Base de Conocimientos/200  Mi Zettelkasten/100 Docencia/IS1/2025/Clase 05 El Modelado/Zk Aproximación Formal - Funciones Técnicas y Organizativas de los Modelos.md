@@ -4,7 +4,7 @@
 
 ## Aproximación Formal: Funciones Técnicas y Organizativas de los Modelos
 
-Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Modelo - Definición\|modelos]] de desarrollo de software son fundamentales en el proceso de creación de sistemas informáticos, proporcionando una estructura y un enfoque sistemático para gestionar los recursos, cumplir los objetivos del proyecto y ofrecer soluciones de software sólidas. A continuación, se presentan los beneficios y roles formales de los modelos en el desarrollo de software [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al., 2000)]]:
+Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Modelo - Definición\|modelos]] de desarrollo de software son fundamentales en el proceso de creación de sistemas informáticos, proporcionando una estructura y un enfoque sistemático para gestionar los recursos, cumplir los objetivos del proyecto y ofrecer soluciones de software sólidas. A continuación, se presentan los beneficios y roles formales de los modelos en el desarrollo de software [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al., 2000)]]:
 
 **Definir los Límites del Proyecto**
 La obtención de requisitos, facilitada por los modelos, nos permite establecer los límites y objetivos del sistema con precisión.

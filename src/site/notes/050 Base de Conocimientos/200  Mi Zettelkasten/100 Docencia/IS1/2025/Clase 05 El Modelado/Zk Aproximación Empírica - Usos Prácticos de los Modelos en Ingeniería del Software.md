@@ -4,7 +4,7 @@
 
 ## Aproximación Empírica: Usos Prácticos de los Modelos en Ingeniería del Software
 
-Desde una óptica empírica, los modelos se convierten en instrumentos de acción que nos permiten [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al., 2000)]]:
+Desde una óptica empírica, los modelos se convierten en instrumentos de acción que nos permiten [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al., 2000)]]:
 
 **Reducir la Complejidad**
 Al simplificar sistemas intrincados, los modelos nos brindan una visión clara y concisa, facilitando la comprensión de su funcionamiento interno.
