@@ -4,7 +4,7 @@
 
 ## La Importancia del Modelado en el Desarrollo de Sistemas
 
-En el ámbito de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk La Ingeniería del Software\|ingeniería de software]], donde los sistemas pueden alcanzar alta [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Complejidad de los Proyectos de Software\|complejidad]], el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Modelo - Definición\|modelado]] se convierte en una práctica fundamental. Su importancia radica en su capacidad para transformar la abstracción en claridad, facilitando la gestión de la complejidad inherente al desarrollo de software.
+En el ámbito de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk Ingeniería del Software\|ingeniería de software]], donde los sistemas pueden alcanzar alta [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Complejidad de los Proyectos de Software\|complejidad]], el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Modelo - Definición\|modelado]] se convierte en una práctica fundamental. Su importancia radica en su capacidad para transformar la abstracción en claridad, facilitando la gestión de la complejidad inherente al desarrollo de software.
 
 **Gestión de la Complejidad y Claridad Conceptual**
 

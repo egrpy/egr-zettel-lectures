@@ -4,7 +4,7 @@
 
 ## Niveles de Abstracción en el Modelado de Software
 
-El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Modelo - Definición\|modelado]] en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk La Ingeniería del Software\|Ingeniería del Software]] implica diferentes niveles de abstracción, lo que permite a los desarrolladores enfocarse en distintos aspectos del sistema, desde el diseño conceptual hasta la implementación física. Aquí se presentan los principales niveles de abstracción [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al.(2000)]]:
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado/Zk Modelo - Definición\|modelado]] en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk Ingeniería del Software\|Ingeniería del Software]] implica diferentes niveles de abstracción, lo que permite a los desarrolladores enfocarse en distintos aspectos del sistema, desde el diseño conceptual hasta la implementación física. Aquí se presentan los principales niveles de abstracción [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al.(2000)]]:
 
 ### Niveles de Abstracción en el Modelado de Software
 
