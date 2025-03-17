@@ -12,7 +12,7 @@ Es un enfoque de desarrollo de software basado en la entrega de pequeños increm
 ### Fases Principales
 **Figura**
 _Modelo Incremental_
-```
+``` plantuml
 @startuml
 !pragma layout smetana
 skinparam style strictuml
@@ -20,7 +20,6 @@ skinparam BackgroundColor LightGray
 'left to right direction
 skinparam conditionStyle InsideDiamond
 skinparam linetype ortho
-
 
 |Incremento Inicial|
 start

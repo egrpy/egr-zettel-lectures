@@ -8,7 +8,5 @@ La complejidad del software se refiere a la dificultad inherente en el diseño, 
 Aspectos clave:
 
 - Se relaciona directamente con el tamaño del sistema
-
 - Afecta la comprensibilidad y mantenibilidad del código
-
 - Influye en la confiabilidad y robustez del software

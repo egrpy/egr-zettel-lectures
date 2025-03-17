@@ -5,7 +5,7 @@
 ## Leyes de la Evolución del Software de Lehman
 Las Leyes de Lehman sobre la Evolución del Software son un conjunto de principios empíricos que describen cómo los sistemas de software evolucionan a lo largo del tiempo. Formuladas inicialmente por [Meir M. Lehman](https://www.computer.org/profiles/meir-lehman) y [Laszlo Belady](https://history.computer.org/pioneers/belady.html) en la década de 1970, estas leyes se han convertido en un marco fundamental para entender la dinámica de los sistemas de software en uso continuo (Herraiz Tabernero et al., 2013).
 
-## Contexto y Aplicabilidad
+### Contexto y Aplicabilidad
 Las leyes se aplican principalmente a los sistemas que evolucionan (e-type), que son aquellos que operan en entornos del mundo real y están sujetos a cambios constantes en su entorno de funcionamiento (Herraiz Tabernero et al., 2013).
 
 Lehman distinguió entre tres tipos de sistemas:
@@ -13,7 +13,7 @@ Lehman distinguió entre tres tipos de sistemas:
 - p-type: Sistemas que resuelven problemas bien definidos pero computacionalmente complejos.
 - e-type: Sistemas que reflejan procesos humanos o partes del mundo rea
 
-## Las Leyes de Lehman
+### Leyes de Lehman
 
 1. **Ley del Cambio Continuo**: Un sistema que se utiliza debe cambiar continuamente o se volverá progresivamente menos útil.
 
@@ -35,11 +35,11 @@ Lehman distinguió entre tres tipos de sistemas:
 
 8. **Ley del Sistema de Retroalimentación**: Los procesos de evolución constituyen sistemas de retroalimentación multiagente y multicircuito y deben tratarse como tales para lograr una mejora significativa.
 
-## Implicaciones y Relevancia Actual
+### Implicaciones y Relevancia Actual
 Estas leyes subrayan la naturaleza dinámica del software y la necesidad de una adaptación continua. Aunque formuladas hace décadas, siguen siendo relevantes en el contexto actual de desarrollo de software, especialmente en sistemas complejos y de larga duración (Herraiz Tabernero et al., 2013).
 
 La validez de estas leyes ha sido objeto de numerosos estudios empíricos, con resultados mixtos. Algunas investigaciones han confirmado su aplicabilidad en sistemas de código abierto, mientras que otras han cuestionado su universalidad (Herraiz Tabernero et al., 2013).
 
-## Referencias
+### Referencias
 Herraiz Tabernero, I., Rodriguez, D., Robles, G., y González-Barahona, J. M. (2013). The evolution of the laws of software evolution. A discussion based on a systematic literature review. _ACM Computing Surveys_, _To app_. [http://csur.acm.org/](http://csur.acm.org/)
 
