@@ -4,12 +4,12 @@
 
 ## Principios del Modelado
 
-El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelado]] es un proceso fundamental en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk Ingeniería del Software\|ingeniería de software]] que permite representar sistemas complejos de manera simplificada y comprensible. Los principios del modelado se centran en la creación de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] que sean precisos, útiles y fáciles de entender. A continuación, se presentan algunos de los principios clave del modelado basados en [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al.(2000)]]:
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelado]] es un proceso fundamental en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk Ingeniería del Software\|ingeniería de software]] que permite representar sistemas complejos de manera simplificada y comprensible. Los principios del modelado se centran en la creación de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] que sean precisos, útiles y fáciles de entender. A continuación, se presentan algunos de los principios del modelado basados en [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al.(2000)]]:
 
-### **Principios Fundamentales**
+### Principios Fundamentales
 
 **Abstracción**
-Los modelos deben enfocarse en los aspectos esenciales del sistema, ignorando detalles innecesarios. Esto facilita la comprensión y el análisis del sistema sin sobrecargar con información irrelevante.
+Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] deben enfocarse en los aspectos esenciales del sistema, ignorando detalles innecesarios. Esto facilita la comprensión y el análisis del sistema sin sobrecargar con información irrelevante.
 
 **Simplificación**
 Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] deben ser lo más simples posible sin perder la esencia del sistema que se intenta representar. La simplicidad ayuda a evitar la complejidad innecesaria y a mejorar la comunicación entre los desarrolladores y los stakeholders.
@@ -24,11 +24,11 @@ Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase
 Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] deben proporcionar un lenguaje común para que todos los involucrados en el proyecto puedan entender cómo funcionará el sistema. Esto reduce la ambigüedad y mejora la colaboración.
 
 
-## Principios: Aspectos Adicionales
+### Principios: Aspectos Adicionales
 
 **Influencia de los Modelos en la Solución de Problemas**
 
-La elección del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelo]] adecuado tiene un impacto significativo en cómo se aborda un problema y se identifican soluciones potenciales. Los modelos actúan como guías para analizar y comprender sistemas complejos, lo que facilita la exploración de enfoques alternativos. Al seleccionar el modelo correcto, se pueden resaltar diferentes facetas del problema, lo que permite evaluar diversas soluciones antes de implementarlas.
+La selección del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelo]] apropiado influye considerablemente en la manera de enfrentar un problema y descubrir posibles soluciones. Los modelos funcionan como orientadores para el análisis y comprensión de sistemas complejos, facilitando la exploración de aproximaciones alternativas. Cuando se elige el modelo adecuado, es posible destacar distintos aspectos del problema, permitiendo así la evaluación de múltiples soluciones antes de su implementación.
 
 **Niveles de Precisión en los Modelos**
 
