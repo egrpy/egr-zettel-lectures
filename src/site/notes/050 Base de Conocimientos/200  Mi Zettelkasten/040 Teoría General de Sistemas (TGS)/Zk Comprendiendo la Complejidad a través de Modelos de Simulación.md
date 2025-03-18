@@ -11,6 +11,6 @@ Según [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de S
 
 ## Enlaces
 [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas\|Zk Dinámica de Sistemas]]
-[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas/Zk Sistema - Definición\|Zk Sistema - Definición]]
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk Sistema - Definición\|Zk Sistema - Definición]]
 
 
