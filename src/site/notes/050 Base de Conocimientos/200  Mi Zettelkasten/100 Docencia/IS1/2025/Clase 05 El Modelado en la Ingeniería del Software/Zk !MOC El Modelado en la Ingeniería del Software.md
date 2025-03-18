@@ -41,3 +41,80 @@ A lo largo de este MOC, hemos recorrido un camino que nos ha llevado desde los f
 Hemos mencionado que los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]], más allá de ser simples representaciones gráficas, se convierten en un lenguaje universal que facilita la comunicación, el diseño y la toma de decisiones. Su capacidad para simplificar sistemas complejos, anticipar problemas y fomentar la colaboración los convierte en aliados imprescindibles en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk Ingeniería del Software\|Ingeniería del Software]].
 
 Desde la **clarificación de requisitos** hasta la **simulación de escenarios complejos**, los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] nos permiten construir sistemas robustos, eficientes y adaptables. Al seguir [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Principios del Modelado\|principios de modelado]] sólidos y comprender los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Niveles de Abstracción en el Modelado de Software\|noveles de abstracción]], podemos asegurar que nuestros modelos sean efectivos y útiles.
+
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+'left to right direction
+skinparam conditionStyle InsideDiamond
+skinparam linetype ortho
+
+skinparam class {
+  BackgroundColor #F7F6F2
+  BorderColor #4A7C59
+  FontColor #1B1B1B
+}
+skinparam note {
+  BackgroundColor #FFF9C4
+  BorderColor #FFD54F
+}
+
+class "Análisis de Sistemas" as AS {
+  +Fundamentos()
+}
+
+class "Complejidad de Proyectos de Software" as CPS {
+  +Desafíos()
+}
+
+class "Modelo" as M {
+  +Simplificar()
+  +Comunicar()
+  +AnticiparProblemas()
+  +FomentarColaboración()
+}
+
+class "Ingeniería del Software" as IS {
+  +DesarrollarSoftware()
+}
+
+class "Principios de Modelado" as PM {
+  +GuiarModelos()
+}
+
+class "Niveles de Abstracción" as NA {
+  +DefinirNiveles()
+}
+
+class "Clarificación de Requisitos" as CR
+class "Simulación de Escenarios Complejos" as SEC
+
+AS --> M : fundamenta >
+CPS --> M : requiere >
+M --> IS : apoya >
+M --> CR : permite >
+M --> SEC : permite >
+M --> PM : se guía por >
+M --> NA : depende de >
+IS --> CR : aplica >
+IS --> SEC : evalúa >
+
+note right of M
+  Actúa como lenguaje universal,
+  facilitando comunicación, diseño
+  y toma de decisiones.
+end note
+
+note bottom of PM
+  Aseguran la efectividad del modelado.
+end note
+
+note bottom of NA
+  Ayudan a manejar la complejidad
+  mediante distintos niveles.
+end note
+
+@enduml
+```
