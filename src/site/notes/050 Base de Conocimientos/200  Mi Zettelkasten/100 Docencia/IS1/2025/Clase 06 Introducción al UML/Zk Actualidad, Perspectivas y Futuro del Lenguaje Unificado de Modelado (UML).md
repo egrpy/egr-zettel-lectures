@@ -7,7 +7,7 @@
 ### Actualidad
 
 #### Es un Estándar Establecido
-Se mantiene como un estándar reconocido para la visualización, especificación, construcción y documentación de sistemas de software. Aunque algunas metodologías ágiles han reducido la dependencia de la documentación exhaustiva, UML sigue siendo valioso para proyectos complejos y críticos.
+Se mantiene como un estándar reconocido para la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk UML - Una Herramienta para Visualizar, Especificar, Construir y Documentar Proyectos de Software\|visualización, especificación, construcción y documentación]] de sistemas de software. Aunque algunas metodologías ágiles han reducido la dependencia de la documentación exhaustiva, UML sigue siendo valioso para proyectos complejos y críticos.
 
 #### Herramienta de Comunicación
 Facilita la comunicación entre los miembros del equipo, los interesados y los clientes al proporcionar una representación visual clara de la arquitectura y el diseño del sistema.
