@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk UML es un Lenguaje/","tags":["digitalGarden"]}
+---
+
+## UML es un Lenguaje
+
+El Lenguaje Unificado de Modelado (UML) es comúnmente confundido con un modelo de proceso debido a su nombre y su uso en el desarrollo de software. Sin embargo, UML es un lenguaje de modelado visual que se utiliza para describir, especificar, diseñar y documentar sistemas complejos, tanto de software como de negocio ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario. Addison-Wesley\|Booch et al., 2006]]).
+
+### ¿Por qué UML es un Lenguaje?
+
+1. **Definición de Lenguaje**: Un lenguaje es un conjunto de símbolos y reglas que permiten expresar ideas o conceptos de manera estructurada. UML cumple con esta definición al proporcionar un conjunto de diagramas y notaciones que permiten modelar sistemas de manera visual y coherente.
+
+2. **Independencia del Proceso**: A diferencia de los modelos de proceso, que definen el orden y las actividades necesarias para desarrollar software, UML es **independiente del proceso**. Esto significa que puede ser utilizado en diferentes metodologías de desarrollo, como enfoques en cascada, incremental o ágil, sin imponer un flujo específico de trabajo ([Cabot, 2023](https://modeling-languages.com/debunking-top-10-uml-myths/); [Fakhroutdinov, s.f.](https://www.uml-diagrams.org/))
+
+3. **Uso de Notaciones**: UML utiliza una variedad de notaciones gráficas para representar diferentes aspectos de un sistema, como estructuras estáticas, comportamientos dinámicos y flujos de trabajo. Estas notaciones son estándar y se pueden aplicar en diversas situaciones, lo que facilita la comunicación entre los equipos de desarrollo.
+
+4. **Aplicabilidad General**: UML no se limita al desarrollo de software; también se puede aplicar en otros dominios, como la modelización de procesos de negocio o la planificación de infraestructura, debido a su capacidad para representar sistemas complejos de manera abstracta.
+
+## Diferencia con los Modelos de Proceso
+
+Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de proceso]], como el Modelo en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo en Cascada (Waterfall)\|Cascada]] o el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Manifiesto para el Desarrollo Ágil de Software\|Desarrollo Ágil]], definen cómo se debe organizar y ejecutar el desarrollo de software (el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|SDLC]]), incluyendo las fases, actividades y entregables esperados. En contraste, UML se centra en **cómo se representa** y **documenta** un proyecto, sin imponer un enfoque específico para su desarrollo([Cabot, 2023](https://modeling-languages.com/debunking-top-10-uml-myths/); [Fakhroutdinov, s.f.](https://www.uml-diagrams.org/)).
+
+----
+Por tanto, UML es un lenguaje debido a su capacidad para proporcionar un conjunto de notaciones y reglas que permiten modelar sistemas de manera estructurada y visual, sin depender de un proceso específico de desarrollo. Su flexibilidad y aplicabilidad en diferentes contextos lo convierten en una herramienta versátil para la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk Ingeniería del Software\|Ingeniería del Software]] y más allá.

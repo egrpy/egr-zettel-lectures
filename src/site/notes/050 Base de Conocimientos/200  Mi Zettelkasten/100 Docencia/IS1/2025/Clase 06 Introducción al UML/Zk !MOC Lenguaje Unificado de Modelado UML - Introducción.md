@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk !MOC Lenguaje Unificado de Modelado UML - Introducción/","tags":["digitalGarden","moc","UML"]}
+---
+
+## Lenguaje Unificado de Modelado UML - Introducción
+
+### Introducción
+
+En nuestras clases anteriores, exploramos los fundamentos de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk Ingeniería del Software\|Ingeniería del Software]], analizando la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Complejidad del Software\|complejidad]] y los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Costos en la Ingeniería del Software\|costos]] asociados al desarrollo de software, así como los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de procesos]] y su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk La Importancia del Modelado en el Desarrollo de Sistemas\|importancia]] en la disciplina. Estos conceptos nos permitieron comprender la necesidad de estructurar y planificar el desarrollo de sistemas informáticos de manera efectiva.
+
+En este contexto, el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo de Software (SDLC)]] juega un papel crucial al guiar el proceso desde la identificación del problema hasta la implementación y mantenimiento. Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de proceso de software]] que implementan el SDLC, como los enfoques en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo en Cascada (Waterfall)\|cascada (Waterfall)]], [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo Incremental\|incremental]] y [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelo Evolutivo (Prototipos y Espiral)\|evolutivo]], cada uno con sus ventajas y desventajas, nos permiten adaptarnos a diferentes proyectos y necesidades[(Pargaonkar, 2023)](http://dx.doi.org/10.29322/IJSRP.13.08.2023.p14015)[Hossain, 2023](https://pdfs.semanticscholar.org/9eed/fc508509d415c305116ffb258ff5147fd8b8.pdf?_gl=1*nsrkjp*_gcl_au*MjcyNTUzMzA2LjE3NDIzMjg1NTI.*_ga*MTg5MDE4MzYzOC4xNzQyMzI4NTUy*_ga_H7P4ZT52H5*MTc0MjMyODU1Mi4xLjEuMTc0MjMyODg2NS41OC4wLjA.).
+
+### Desarrollo
+
+#### El Lenguaje Unificado de Modelado
+Ahora, nos adentramos en el [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|Lenguaje Unificado de Modelado (UML)]], una herramienta esencial para [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk UML - Una Herramienta para Visualizar, Especificar, Construir y Documentar Proyectos de Software\|visualizar, especificar, construir y documentar]] sistemas y proyectos complejos.
+
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|UML]] se integra naturalmente con los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de procesos]] mencionados anteriormente, al proporcionar una forma estándar de representar los diferentes aspectos del sistema durante todo el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|ciclo de vida del proyecto]].
+
+>[!Attention] [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|UML]] es comúnmente confundido con un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelo de proceso]] debido a su uso en el desarrollo de software. Sin embargo, como bien lo dice su nombre, [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk UML es un Lenguaje\|es un lenguaje]] de modelado visual que se utiliza para describir, especificar, diseñar y documentar sistemas complejos, tanto de software como de negocio. 
+
+#### Algo de Historia
+
+Para contextualizar, es importante conocer los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Historia del Lenguaje Unificado del Modelado (UML)\|orígenes, antecedentes y precursores]] de UML, que surgió en la década de 1990 como una unificación de métodos de modelado orientados a objetos.
+
+#### El Modelo Conceptual del UML
+
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|Lenguaje Unificado de Modelado]] se puede comprender en un alto nivel de abstracción a través de su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Modelo Conceptual del UML\|Modelo Conceptual del UML]]. Este modelo ofrece una visión general de los bloques básicos de construcción, así como las reglas y mecanismos comunes que los afectan, proporcionando una comprensión integral de cómo se utilizan para representar problemas.
+
+### Perspectivas y Futuro del UML
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|Lenguaje Unificado de Modelado]]  ha sido una herramienta fundamental en el desarrollo de software durante las últimas décadas. 

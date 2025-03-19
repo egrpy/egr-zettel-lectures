@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk UML - Una Herramienta para Visualizar, Especificar, Construir y Documentar Proyectos de Software/","tags":["digitalGarden"]}
+---
+
+## UML - Una Herramienta para Visualizar, Especificar, Construir y Documentar Proyectos de Software
+
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - Unified Modeling Language\|UML]] es una herramienta integral en el desarrollo de software, diseñada para visualizar, especificar, construir y documentar [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Complejidad del Software\|sistemas complejos]]. Su capacidad para abordar las diferentes fases del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software]] lo convierte en un elemento esencial para equipos de desarrollo ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario. Addison-Wesley\|Booch et al., 2006]]). 
+
+### Visualizar
+
+- **Representación Gráfica**: UML ofrece una variedad de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Zk Modelos del Lenguaje Unificado de Modelado (UML) v2.5.1\|diagramas]]) que permiten visualizar los elementos y sus relaciones dentro de un sistema, facilitando la comprensión de su estructura y comportamiento [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017)]]. Esto es esencial para la comunicación efectiva entre los miembros del equipo, como se destaca en la Guía del Usuario de UML de [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario. Addison-Wesley\|Booch et al., (2006)]].
+
+### Especificar
+
+- **Definición de Requisitos**: [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - Unified Modeling Language\|UML]] permite especificar los requisitos del sistema de manera precisa, utilizando [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] adecuados a cada situación para definir las estructuras, funcionalidades y las interacciones esperadas. Esto se alinea con su función de especificar los artefactos de sistemas software, como se describe en la especificación de UML ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario. Addison-Wesley\|Booch et al., 2006]]). 
+
+### Construir
+
+- **Guía para Implementación**: Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Zk Modelos del Lenguaje Unificado de Modelado (UML) v2.5.1\|modelos UML]] sirven como base para la implementación del sistema. Los desarrolladores pueden traducir los diagramas en código, asegurando que el sistema cumpla con los requisitos especificados. Esto se refleja en cómo UML se utiliza para construir sistemas, según la historia y el propósito de UML[(OMG, s.f.)](https://www.omg.org/UML/uml-history-faq.htm).
+
+### Documentar
+
+- **Documentación Visual**: UML proporciona una documentación visual que es más accesible y fácil de entender que la documentación textual. Esto facilita la revisión y actualización del sistema a lo largo del tiempo, como se menciona en el manual de referencia de UML [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario. Addison-Wesley\|(Booch et al., 2006)]].
+
+[[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - Unified Modeling Language\|Lenguaje Unificado de Modelado]] es una herramienta fundamental en el desarrollo de software porque permite visualizar, especificar, construir y documentar sistemas de manera efectiva. Su capacidad para abordar todas estas fases del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software]] lo convierte en un aliado para los equipos de desarrollo, como se destaca en la [Historia y el Propósito de UML del OMG (s.f)](https://www.omg.org/UML/uml-history-faq.htm).
