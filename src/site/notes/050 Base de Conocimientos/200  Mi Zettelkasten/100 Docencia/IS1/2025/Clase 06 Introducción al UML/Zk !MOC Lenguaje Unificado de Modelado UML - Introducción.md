@@ -25,7 +25,7 @@ Para contextualizar, es importante conocer los [[050 Base de Conocimientos/200  
 
 #### El Modelo Conceptual del UML
 
-El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|Lenguaje Unificado de Modelado]] se puede comprender en un alto nivel de abstracción a través de su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Modelo Conceptual del UML\|Modelo Conceptual del UML]]. Este modelo ofrece una visión general de los bloques básicos de construcción, así como las reglas y mecanismos comunes que los afectan, proporcionando una comprensión integral de cómo se utilizan para representar problemas.
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|Lenguaje Unificado de Modelado]] se puede entender en un alto nivel de abstracción mediante su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Modelo Conceptual del UML\|Modelo Conceptual del UML]]. Este modelo proporciona una visión general de los bloques básicos de construcción, así como las reglas y mecanismos comunes que los afectan, revelando la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en la Teoría General de Sistemas\|sinergia]] entre estos para crear los diferentes artefactos de manera efectiva.
 
 ### Perspectivas y Futuro del UML
 El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|Lenguaje Unificado de Modelado]]  ha sido una herramienta fundamental en el desarrollo de software durante las últimas décadas. 
