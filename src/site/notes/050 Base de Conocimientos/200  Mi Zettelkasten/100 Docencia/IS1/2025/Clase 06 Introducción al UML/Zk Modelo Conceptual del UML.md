@@ -17,59 +17,88 @@ _Modelo Conceptual del UML_
 !pragma layout smetana
 skinparam style strictuml
 skinparam BackgroundColor LightGray
-left to right direction
+'left to right direction
 skinparam conditionStyle InsideDiamond
 skinparam linetype ortho
 
-package "Modelo Conceptual UML" {
-  package "Bloques Básicos de Construcción" {
-    package "Elementos" {
-      class "Estructurales" as Estructurales
-      class "Comportamiento" as Comportamiento
-      class "Agrupación" as Agrupación
-      class "Anotación" as Anotación
-    }
-
-    package "Relaciones" {
-      class "Asociación" as Asociacion
-      class "Dependencia" as Dependencia
-      class "Generalización" as Generalizacion
-      class "Realización" as Realizacion
-    }
-
-    package "Diagramas" {
-      class "Casos de Uso" as CasosDeUso
-      class "Clases" as Clases
-      class "Objetos" as Objetos
-      class "Secuencia" as Secuencia
-      class "Colaboración\nComunicación" as Colaboracion
-      class "Actividades" as Actividades
-      class "Estados" as Estados
-      class "Componentes" as Componentes
-      class "Despliegue" as Despliegue
-    }
+package "Bloques Básicos de Construccion" as BBC {
+  class Elemento {
+    + elemento : tipoElemento
   }
-
-  package "Reglas" {
-    class "Nomenclaturas" as Nomenclaturas
-    class "Visibilidad" as Visibilidad
-    class "Integridad" as Integridad
+  
+  enum tipoElemento {
+    Estructural
+    Comportamiento
+    Agrupación
+    Anotación
   }
-
-  package "Mecanismos\nComunes" {
-    class "Especificaciones" as Especificaciones
-    class "Adornos" as Adornos
-    class "Extensibilidad" as Extensibilidad
-    class "Divisiones Comunes" as DivisionesComunes
+  
+  class Relación {
+    + relación : tipoRelación
   }
-
+  
+  enum tipoRelación {
+    Asociación
+    Dependencia
+    Generalización
+    Realización
+    ...
+  }
+  
+  class Diagrama {
+    diagrama :tipoDiagrama
+  }
+  
+  enum tipoDiagrama {
+    Clases
+    Objetos
+    Casos de Uso
+    Secuencia
+    Comunicación
+    Actividades
+    Estados
+    Componentes
+    Despliegue
+    ...
+  }
+  
+  Elemento -- Relación
+  (Elemento, Relación) -l-> Diagrama
+  
+  Elemento "1" *-u- "1..*" tipoElemento
+  Relación "1" *-d- "1..*" tipoRelación
+  Diagrama "1" *-r- "1..*" tipoDiagrama
 }
 
-"Elementos" -- "Relaciones"
-("Elementos", "Relaciones") --> "Diagramas"
+class Regla {
+  + regla :tipoRegla
+}
 
-"Reglas" --> "Bloques Básicos de Construcción" :Afectan a
-"Mecanismos\nComunes" --> "Bloques Básicos de Construcción" :Afectan a
+enum tipoRegla {
+  Nomenclatura
+  Visibilidad
+  Integridad
+  ...
+}
+
+Regla *-d- tipoRegla
+
+class "Mecanismos Comunes" {
+  + mecanismo :tipoMecanismo
+}
+
+enum tipoMecanismo {
+  Adornos
+  Divisiones Comunes
+  Extensibilidad
+  Especificaciones
+  ...
+}
+
+"Mecanismos Comunes" *-d- tipoMecanismo
+
+BBC <--- Regla :Afecta
+BBC <--- "Mecanismos Comunes" :Afecta
 
 @enduml
 ```
