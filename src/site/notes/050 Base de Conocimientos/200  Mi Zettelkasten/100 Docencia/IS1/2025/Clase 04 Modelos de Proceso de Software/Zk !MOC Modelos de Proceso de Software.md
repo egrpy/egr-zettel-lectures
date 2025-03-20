@@ -151,3 +151,4 @@ class "Desafíos de la Adaptación" {
 
 ```
 Fuente: Elaboración Propia
+
