@@ -34,12 +34,3 @@ El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El
 
 >[!Summary] Conclusión
 >El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|Lenguaje Unificado de Modelado (UML)]]  es una herramienta esencial en el desarrollo de software, que se integra perfectamente con los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk !MOC Modelos de Proceso de Software\|modelos de proceso]] para [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk UML - Una Herramienta para Visualizar, Especificar, Construir y Documentar Proyectos de Software\|visualizar, especificar, construir y documentar]] sistemas complejos. A través de su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Modelo Conceptual del UML\|Modelo Conceptual]], [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|UML]] proporciona una visión integral de los bloques básicos de construcción, reglas y mecanismos comunes, destacando la sinergia entre estos elementos para crear artefactos de manera efectiva. Con su capacidad para adaptarse a diferentes metodologías y su continua evolución, [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|UML]] sigue siendo fundamental en la industria del software, tanto en el presente como en el futuro. Su historia y su naturaleza como lenguaje de modelado visual [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk UML es un Lenguaje\|lo distinguen]] de los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk Modelos de Proceso de Software\|modelos de proceso]], permitiendo una representación estándar y coherente de sistemas complejos.
-
-```chronos
-- [2020] A year
-- [2020-02] A month
-- [2020-02-28] A day
-- [2020-02-28T12] An hour
-- [2020-02-28T12:30] A minute
-- [2020-02-28T12:30:09] A second
-```
