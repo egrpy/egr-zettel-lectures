@@ -6,6 +6,25 @@
 
 Los sistemas abiertos pueden intercambiar materia con su entorno a través de procesos como la importación y exportación de recursos. Este intercambio es esencial para el funcionamiento y la supervivencia de los sistemas, ya que permite la renovación de componentes y la mantención del equilibrio interno. Para [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|von Bertalanffy (1989)]], los sistemas abiertos mantienen su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas (Fronteras, Complejidad y Tipologías)/Zk Homeostasis\|homeostasis]] a través del intercambio continuo de materia y [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas (Fronteras, Complejidad y Tipologías)/Zk Sistemas (Intercambio de Energía)\|energía]] con su entorno.
 
+**Figura**
+_Intercambio de Materia entre el Sistema y su Entorno_
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+left to right direction
+skinparam linetype ortho
+
+actor Entorno as A1
+actor Entorno as A2
+
+A1 --> (Sistema) :Importa Materia
+(Sistema) --> A2 :Exporta Materia
+@enduml
+```
+Nota: Elaboración propia
+
 ### Ejemplos
 
 - **Ecosistemas Naturales**: En un ecosistema, las plantas absorben nutrientes del suelo y liberan oxígeno al aire, mientras que los animales consumen plantas y excretan desechos que se reincorporan al suelo. Este ciclo de nutrientes es crucial para mantener la biodiversidad y el equilibrio del ecosistema. [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]] destaca la importancia del intercambio de materia en los ecosistemas para su sostenibilidad.

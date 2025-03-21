@@ -8,6 +8,23 @@
 
 Un sistema cerrado se define como aquel que no intercambia [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas (Fronteras, Complejidad y Tipologías)/Zk Sistemas (Intercambio de Materia)\|materia]] con su entorno, aunque puede intercambiar [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas (Fronteras, Complejidad y Tipologías)/Zk Sistemas (Intercambio de Energía)\|energía]] en forma de calor o trabajo. Esta definición está en línea con las ideas generales sobre sistemas en la Teoría General de Sistemas, como se discute en trabajos de [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|von Bertalanffy (1989)]].
 
+**Figura**
+_Sistemas Cerrados
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+'left to right direction
+skinparam linetype ortho
+
+actor Entorno as A1
+(Sistema)
+
+@enduml
+```
+Nota: Elaboración propia
+
 En la práctica, pocos sistemas son completamente cerrados, ya que la mayoría interactúa de alguna manera con su entorno. La definición tradicional de sistemas cerrados excluye el intercambio de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas (Fronteras, Complejidad y Tipologías)/Zk Sistemas (Intercambio de Información)\|información]], pero en contextos teóricos o abstractos, podría haber un intercambio limitado de información a través de retroalimentación o modelos específicos.
 
 La teoría de sistemas cerrados ha sido útil en ciencias como la física para modelar sistemas aislados, pero tiene limitaciones en la descripción de sistemas complejos que interactúan con su entorno. [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]] destaca que los sistemas cerrados son más teóricos que prácticos en la mayoría de los casos.

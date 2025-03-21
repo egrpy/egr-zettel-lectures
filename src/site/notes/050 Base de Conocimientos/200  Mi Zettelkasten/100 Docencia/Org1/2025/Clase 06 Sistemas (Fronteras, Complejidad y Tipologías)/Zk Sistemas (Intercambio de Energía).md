@@ -6,6 +6,25 @@
 
 El intercambio de energía en sistemas abiertos es un proceso fundamental que permite su funcionamiento y supervivencia. Este intercambio puede ocurrir a través de diversos mecanismos, como la fotosíntesis, donde las plantas convierten la energía solar en energía química, o mediante el flujo de calor y energía térmica.
 
+**Figura**
+_Intercambio de Energía entre el Sistema y su Entorno_
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+left to right direction
+skinparam linetype ortho
+
+actor Entorno as A1
+actor Entorno as A2
+
+A1 --> (Sistema) :Importa Energía
+(Sistema) --> A2 :Exporta Energía
+@enduml
+```
+Nota: Elaboración propia
+
 ### Ejemplos
 
 - **Fotosíntesis**: En los ecosistemas, la fotosíntesis es un ejemplo clásico de intercambio de energía. Las plantas capturan la energía solar y la convierten en energía química almacenada en moléculas orgánicas. Este proceso es esencial para el funcionamiento de los ecosistemas y para la vida en la Tierra. Según [Addiscott, T.M. (1995)](https://www.semanticscholar.org/paper/63eb7a54050f3a61208c781e12eea97c34fa71c7), la fotosíntesis es un proceso que reduce la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas (Fronteras, Complejidad y Tipologías)/Zk Entropía\|entropía]] al convertir pequeñas moléculas en estructuras más complejas y organizadas.
