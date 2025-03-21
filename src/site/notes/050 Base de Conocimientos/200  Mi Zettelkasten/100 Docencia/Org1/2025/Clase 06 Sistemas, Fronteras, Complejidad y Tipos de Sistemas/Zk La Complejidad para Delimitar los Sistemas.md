@@ -21,27 +21,8 @@ Para abordar esta complejidad, los conceptos de [[050 Base de Conocimientos/200 
 
 **Figura**
 _Fronteras del Sistema_
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-Sistema 
-Frontera 
-Subsistema 
-Suprasistema 
-
-
-</div></div>
-
+![Zk Fronteras del Sistema.png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/Org1/2025/Clase%2006%20Sistemas,%20Fronteras,%20Complejidad%20y%20Tipos%20de%20Sistemas/000%20Adjuntos/Zk%20Fronteras%20del%20Sistema.png)
 Fuente: Elaboración propia
-_Nota:_ 
+_Nota:_  
 
 </div></div>

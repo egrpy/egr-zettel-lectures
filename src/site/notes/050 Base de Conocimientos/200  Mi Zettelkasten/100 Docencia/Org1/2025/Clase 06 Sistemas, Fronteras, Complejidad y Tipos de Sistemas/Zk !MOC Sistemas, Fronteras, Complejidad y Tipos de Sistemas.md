@@ -12,11 +12,7 @@ En la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Cl
 
 #### La Frontera del Sistema
 
-Las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fronteras, Complejidad y Tipos de Sistemas/Zk Fronteras del Sistema\|fronteras de un sistema]] son fundamentales para definir su identidad y función. Sin embargo, determinar dónde comienza y termina un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk Sistema - Definición\|sistema]] puede ser un desafío significativo. Estas fronteras pueden ser físicas o conceptuales y varían según el contexto en el que se analice el sistema. Por ejemplo, en un ecosistema, las fronteras pueden ser geográficas, mientras que en un sistema social, pueden ser más abstractas. ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]]; [Lizano y Benalcázar, 2017](https://www.semanticscholar.org/paper/706807e84221000f98a41dbf3bf1570386b32d23)).
-
-Establecer fronteras precisas para un sistema [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fronteras, Complejidad y Tipos de Sistemas/Zk La Complejidad para Delimitar los Sistemas\|puede ser una tarea compleja]], debido a su naturaleza intrínsecamente conectada.
-
-
+Las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fronteras, Complejidad y Tipos de Sistemas/Zk Fronteras del Sistema\|fronteras de un sistema]] son fundamentales para definir su identidad y función. Sin embargo, [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fronteras, Complejidad y Tipos de Sistemas/Zk La Complejidad para Delimitar los Sistemas\|determinar dónde comienza y termina un sistema]] puede ser un desafío significativo. Estas fronteras pueden ser físicas o conceptuales y varían según el contexto en el que se analice el sistema. Por ejemplo, en un ecosistema, las fronteras pueden ser geográficas, mientras que en un sistema social, pueden ser más abstractas. ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]]; [Lizano y Benalcázar, 2017](https://www.semanticscholar.org/paper/706807e84221000f98a41dbf3bf1570386b32d23)).
 
 #### Complejidad y Variedad
 
