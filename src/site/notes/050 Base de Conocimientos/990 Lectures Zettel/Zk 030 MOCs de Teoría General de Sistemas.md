@@ -9,6 +9,7 @@ Clase 02 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025
 Clase 03 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk !MOC Sinergia y Recursividad\|Sinergia y Recursividad]]
 Clase 04 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk !MOC Dinámica de Sistemas\|Dinámica de Sistemas]]
 Clase 05 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk !MOC Sistemas, Subsistemas y Suprasistemas\|Sistemas]]
-Clase 06 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas (Fronteras, Complejidad y Tipologías)/Zk !MOC Sistemas (Fronteras, Complejidad y Tipologías)\|Sistemas, Fronteras, Complejidad y Tipos de Sistemas]]
+Clase 06 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas (Fronteras, Complejidad y Tipologías)/Zk !MOC Sistemas (Fronteras, Complejidad y Tipologías)\|Sistemas (Fronteras, Complejidad y Tipologías)]]
+
 
 
