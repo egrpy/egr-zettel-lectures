@@ -12,7 +12,7 @@ En la práctica, pocos sistemas son completamente cerrados, ya que la mayoría i
 
 La teoría de sistemas cerrados ha sido útil en ciencias como la física para modelar sistemas aislados, pero tiene limitaciones en la descripción de sistemas complejos que interactúan con su entorno. [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]] destaca que los sistemas cerrados son más teóricos que prácticos en la mayoría de los casos.
 
-En contextos específicos o abstractos, podría haber un intercambio limitado de información si se considera la retroalimentación o la interacción con el entorno de manera teórica o en modelos específicos. La teoría general de sistemas proporciona una base para entender estas interacciones, como se discute en trabajos de [[Zk Lit (Johansen Bertoglio (2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]] y [[Zk (Ossa Ossa, 2016) Teoría General de Sistemas - Conceptos y Aplicaciones\|Ossa Ossa (2016)]].
+En contextos específicos o abstractos, podría haber un intercambio limitado de información si se considera la retroalimentación o la interacción con el entorno de manera teórica o en modelos específicos. La teoría general de sistemas proporciona una base para entender estas interacciones, como se discute en trabajos de [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Introducción a la Teoría General de Sistemas - Johansen\|Johansen (2013)]] y [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]].
 
 ### Ejemplos
 
