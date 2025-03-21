@@ -6,8 +6,7 @@
 
 Las fronteras de un sistema se refieren a los **límites** que definen su alcance y **separan** lo que está dentro del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk Sistema - Definición\|sistema]] de lo que está fuera. Estos límites son esenciales para entender cómo funciona el sistema y cómo interactúa con su entorno. La definición de las fronteras depende del contexto, el propósito del análisis y la perspectiva del observador. Según **Von Bertalanffy (1989)**, la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]] enfatiza la importancia de estas fronteras para comprender la dinámica interna y externa de los sistemas[(Goñi y García, 2006)](https://www.semanticscholar.org/paper/844ef4250b6b3d1f76e7e33b59982e817216f712).
 
-
-### ## Definición de Frontera
+### Definición de Frontera
 
 Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Oscar Johansen Bertoglio (2013)]], la frontera o límite de un sistema se define como: la **separación real o imaginaria entre el sistema y los alrededores**, es como una línea (real y/o conceptual) que separa el sistema de su entorno o suprasistema. La frontera de un sistema **define qué es lo que pertenece al sistema** y **lo que no le pertenece**. La frontera de un sistema es lo que **delimita qué elementos y relaciones pertenecen al sistema** en cuestión, y **cuáles quedan fuera de él**, en su entorno.
 
