@@ -4,7 +4,7 @@
 
 ## Jerarquía de Sistemas - Kenneth E. Boulding
 
-[Kenneth Ewart Boulding](https://es.wikipedia.org/wiki/Kenneth_Boulding) propuso una escala jerárquica de sistemas en su artículo "General Systems Thinking - The Skeleton of Science", publicado originalmente en 1956 y mencionado por [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]]. Esta escala describe nueve niveles de complejidad creciente, desde los sistemas más simples hasta los más complejos.
+[Kenneth Ewart Boulding](https://es.wikipedia.org/wiki/Kenneth_Boulding) propuso una escala jerárquica de sistemas en su artículo "General Systems Thinking - The Skeleton of Science", publicado originalmente en 1956 y mencionado por [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]]. Esta escala describe nueve niveles de complejidad creciente, desde los sistemas más simples hasta los más complejos. Ver [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk Jerarquía de Sistemas - Kenneth E. Boulding (Gráfico)\| Gráfico Jerarquía de Sistemas - Kenneth E. Boulding]].
 
 ### Niveles de la Escala Jerárquica
 

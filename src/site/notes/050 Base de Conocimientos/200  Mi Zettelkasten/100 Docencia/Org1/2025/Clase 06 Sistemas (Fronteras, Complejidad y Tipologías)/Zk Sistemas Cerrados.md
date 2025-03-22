@@ -15,15 +15,18 @@ _Sistemas Cerrados
 !pragma layout smetana
 skinparam style strictuml
 skinparam BackgroundColor LightGray
-'left to right direction
+left to right direction
 skinparam linetype ortho
 
 actor Entorno as A1
-(Sistema)
+actor Entorno as A2
+A1 ..> (Sistema)
+(Sistema) ..> A2
 
 @enduml
 ```
-Nota: Elaboración propia
+Fuente: Elaboración propia
+_Nota:_ La línea punteada es para indicar que "puede"
 
 En la práctica, pocos sistemas son completamente cerrados, ya que la mayoría interactúa de alguna manera con su entorno. La definición tradicional de sistemas cerrados excluye el intercambio de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas (Fronteras, Complejidad y Tipologías)/Zk Sistemas (Intercambio de Información)\|información]], pero en contextos teóricos o abstractos, podría haber un intercambio limitado de información a través de retroalimentación o modelos específicos.
 
@@ -41,6 +44,6 @@ En contextos específicos o abstractos, podría haber un intercambio limitado de
 
 - **Sistemas Biológicos en Laboratorio**: En experimentos de laboratorio, los sistemas biológicos pueden ser mantenidos en condiciones cerradas para controlar variables y evitar influencias externas. Por ejemplo, un cultivo de células en un medio de cultivo estéril.
 
-### ## Limitaciones y Aplicaciones
+### Limitaciones y Aplicaciones
 
 La teoría de sistemas cerrados ha sido útil en ciencias como la física para modelar sistemas aislados, pero tiene limitaciones en la descripción de sistemas complejos que interactúan con su entorno. Según [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]], los sistemas cerrados son más teóricos que prácticos en la mayoría de los casos, ya que en la realidad, la mayoría de los sistemas interactúan con su entorno de alguna manera.
