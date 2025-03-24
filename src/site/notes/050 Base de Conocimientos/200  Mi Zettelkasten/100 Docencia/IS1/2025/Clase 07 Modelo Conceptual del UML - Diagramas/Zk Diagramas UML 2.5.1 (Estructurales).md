@@ -16,6 +16,7 @@ Un **diagrama estructural** es aquel que muestra la estructura estática de un
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Componentes\|Diagrama de Componentes]]   | Visualiza la estructura física de un sistema en términos de componentes y sus interfaces.                       |
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Despliegue\|Diagrama de Despliegue]]     | Describe cómo se despliegan los componentes físicos del sistema.                                                |
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Paquetes\|Diagrama de Paquetes]]         | Organiza elementos del modelo en paquetes para facilitar su gestión.                                            |
+
 _Nota:_
 Estos diagramas son fundamentales para diseñar y comprender la arquitectura de un sistema de software, ya que permiten visualizar su estructura de manera clara y organizada.
 
