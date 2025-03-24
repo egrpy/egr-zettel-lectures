@@ -66,7 +66,75 @@ stop
 @enduml
 ```
 
-----
+**Figura**
+_Ejemplo de Diagrama de Actividades por Calles (Swimlines)_
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+'left to right direction
+skinparam linetype ortho
+skinparam conditionStyle InsideDiamond
+
+|#Strategy|Usuario|
+start
+:Buscar libro;
+|#pink|Bibliotecario|
+if (Libro disponible?) then (Sí)
+	:Verificar préstamos pendientes;
+	if (Préstamos permitidos?) then (Sí)
+	    :Prestar libro;
+	    :Actualizar registro de préstamos;
+	    |Usuario|
+	    :Recibir libro;
+	  else (No)
+		|Bibliotecario|
+	    :Notificar límite de préstamos alcanzado;
+	    |Usuario|
+	    :Recibir notificación;
+	  endif
+else (No)
+	|Bibliotecario|
+	:Notificar no disponible;
+	|Usuario|
+	:Recibir notificación;
+endif
+|Bibliotecario|
+stop
+@enduml
+```
+
+**Figura**
+_Ejemplo de Diagrama de Actividades con Flujos Paralelos_
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+'left to right direction
+skinparam linetype ortho
+skinparam conditionStyle InsideDiamond
+
+start
+:Verificar disponibilidad;
+if (Disponible?) then (Sí)
+  fork
+    :Generar recibo;
+    :Preparar entrega;
+  fork again
+    :Notificar al Usuario;
+  end fork
+  :Entregar Libro;
+else (No)
+  :Notificar no disponible;
+endif
+stop
+@enduml
+
+```
+
+
 ### Características Relevantes
 
 | Elementos más Frecuentes                                                                       | Relaciones                       | Otros                                                                                                  |
