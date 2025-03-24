@@ -10,3 +10,4 @@ Clase 03 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/
 Clase 04 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk !MOC Modelos de Proceso de Software\|El Proceso de Desarrollo del Software]]
 Clase 05 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk !MOC El Modelado en la Ingeniería del Software\|El Modelado en la Ingeniería del Software]]
 Clase 06 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk !MOC Lenguaje Unificado de Modelado UML - Introducción\|Lenguaje Unificado de Modelado (UML) - Introducción]]
+Clase 07 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk !MOC Modelo Conceptual del UML (Diagramas)\|Modelo Conceptual del UML (Diagramas)]]
