@@ -63,7 +63,7 @@ Usuario1 -- Libro2 : presta
 
 #### Escenario Complejo
 **Figura**
-_Ejemplo de Diagrama de Objetos con Mayor Complejidad
+_Ejemplo de Diagrama de Objetos con Mayor Complejidad_
 ```plantuml
 @startuml
 !pragma layout smetana
