@@ -61,7 +61,7 @@ Usuario1 -- Libro2 : presta
 @enduml
 ```
 
-#### Escenario Complejo
+#### Escenario Avanzado
 **Figura**
 _Ejemplo de Diagrama de Objetos con Mayor Complejidad_
 ```plantuml

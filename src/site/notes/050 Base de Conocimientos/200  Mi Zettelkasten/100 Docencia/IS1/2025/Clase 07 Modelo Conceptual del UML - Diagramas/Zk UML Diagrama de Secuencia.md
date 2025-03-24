@@ -80,9 +80,9 @@ end
 
 ### Características Relevantes
 
-| Elementos más Frecuentes                         | Relaciones                                                                                          | Otros                                                                      |
-| ------------------------------------------------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Participantes (que pueden ser actores u objetos) | Mensajes (ilustran interacciones entre participantes, representan operaciones o llamadas a métodos. | - Utilizado para modelar interacciones con énfasis temporal entre objetos. |
+| Elementos más Frecuentes                         | Relaciones                                                                                          | Otros                                                                    |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Participantes (que pueden ser actores u objetos) | Mensajes (ilustran interacciones entre participantes, representan operaciones o llamadas a métodos. | Utilizado para modelar interacciones con énfasis temporal entre objetos. |
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----
