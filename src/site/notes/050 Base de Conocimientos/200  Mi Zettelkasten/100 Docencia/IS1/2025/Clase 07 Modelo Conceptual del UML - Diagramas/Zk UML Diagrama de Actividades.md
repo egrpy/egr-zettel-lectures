@@ -134,7 +134,7 @@ stop
 
 ```
 
-
+----
 ### Características Relevantes
 
 | Elementos más Frecuentes                                                                       | Relaciones                       | Otros                                                                                                  |
