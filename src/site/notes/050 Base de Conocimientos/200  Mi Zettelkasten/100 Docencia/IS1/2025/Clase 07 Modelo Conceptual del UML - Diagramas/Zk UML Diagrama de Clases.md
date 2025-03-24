@@ -63,39 +63,78 @@ _Ejemplo de Diagrama de Clases con Mayor Complejidad_
 @startuml
 !pragma layout smetana
 skinparam style strictuml
+skinparam classAttributeIconSize 0
 skinparam BackgroundColor LightGray
 'left to right direction
+top to bottom direction
 skinparam linetype ortho
 
-Title Prestar Libro
+class Libro {
+  - id: Integer
+  - título: String
+  - ISBN: String
+  - editorial: Editorial
+  - genero: Genero
+}
 
-actor Usuario as "Usuario"
-actor Bibliotecario as "Bibliotecario"
+class Autor {
+  - id: Integer
+  - nombre: String
+  - nacionalidad: String
+}
 
-participant GUIBuscarLibro as ":GUIBuscarLibro"
-participant GUIRegistrarPréstamo as ":GUIRegistrarPréstamo"
-participant Libro as ":libro"
-participant Prestamos as ":prestamos"
+class Usuario {
+  - id: Integer
+  - nombre: String
+  - direccion: Direccion
+  - telefono: String
+}
 
-Usuario ->> Bibliotecario: solicitar libro
-Bibliotecario ->> GUIBuscarLibro: buscarLibro()
-GUIBuscarLibro ->> Libro: verLibros()
-Libro -->> GUIBuscarLibro: listaLibros
-GUIBuscarLibro -->> Bibliotecario: mostrar listaLibros
+class Prestamo {
+  - id: Integer
+  - libro: Libro
+  - usuario: Usuario
+  - fechaPrestamo: Date
+  - fechaDevolucion: Date
+  - estado: EstadoPrestamo
+}
 
-alt libro disponible
-  Bibliotecario ->> GUIRegistrarPréstamo: registrarPréstamo()
-  GUIRegistrarPréstamo ->> Prestamos: registrarPréstamo()
-  Prestamos -->> GUIRegistrarPréstamo: confirmarPréstamo()
-  GUIRegistrarPréstamo -->> Bibliotecario: mostrar confirmación
-  Bibliotecario ->> Usuario: entregar libro físico
-else libro no disponible
-  GUIBuscarLibro -->> Bibliotecario: mostrar no disponible
-  Bibliotecario ->> Usuario: notificar no disponible
-end
+class Editorial {
+  - id: Integer
+  - nombre: String
+  - direccion: Direccion
+}
+
+class Genero {
+  - id: Integer
+  - nombre: String
+  - descripcion: String
+}
+
+class Direccion {
+  - calle: String
+  - ciudad: String
+  - codigoPostal: String
+}
+
+enum EstadoPrestamo {
+  PRESTADO
+  DEVUELTO
+  ATRASADO
+}
+
+Libro "1..*" -- "*" Autor : escribe
+Usuario "0..*" -- "0..*" Prestamo : presta
+Libro "0..*" -- "0..*" Prestamo : prestado
+Libro "1" -- "1" Editorial : publicadoPor
+Libro "1" -- "1" Genero : perteneceA
+Usuario "1" -- "1" Direccion : viveEn
+Editorial "1" -- "1" Direccion : ubicadaEn
+Prestamo "1" -- "1" Libro : tiene
+Prestamo "1" -- "1" Usuario : realizadoPor
+Prestamo "1" -- "1" EstadoPrestamo : estadoActual
 
 @enduml
-
 ```
 
 ----
