@@ -21,6 +21,7 @@ _Modelo en Cascada o Waterfall_
 	'left to right direction
 	skinparam conditionStyle InsideDiamond
 	skinparam linetype ortho
+	
 	|Fase 1|
 	start
 	:Requerimientos;

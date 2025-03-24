@@ -21,87 +21,94 @@ skinparam BackgroundColor LightGray
 skinparam conditionStyle InsideDiamond
 skinparam linetype ortho
 
-package "Bloques Básicos de Construccion" as BBC {
-  class Elemento {
-    + elemento : tipoElemento
-  }
-  
-  enum tipoElemento {
-    Estructural
-    Comportamiento
-    Agrupación
-    Anotación
-  }
-  
-  class Relación {
-    + relación : tipoRelación
-  }
-  
-  enum tipoRelación {
-    Asociación
-    Dependencia
-    Generalización
-    Realización
-    ...
-  }
-  
-  class Diagrama {
-    diagrama :tipoDiagrama
-  }
-  
-  enum tipoDiagrama {
-    Clases
-    Objetos
-    Casos de Uso
-    Secuencia
-    Comunicación
-    Actividades
-    Estados
-    Componentes
-    Despliegue
-    ...
-  }
-  
-  Elemento -- Relación
-  (Elemento, Relación) -l-> Diagrama
-  
-  Elemento "1" *-u- "1..*" tipoElemento
-  Relación "1" *-d- "1..*" tipoRelación
-  Diagrama "1" *-r- "1..*" tipoDiagrama
+package "Modelo Conceptual del UML" {
+	package "Bloques Básicos de Construccion" as BBC {
+	  class Elemento {
+	    + elemento : tipoElemento
+	  }
+	  
+	  enum tipoElemento {
+	    Estructural
+	    Comportamiento
+	    Agrupación
+	    Anotación
+	  }
+	  
+	  class Relación {
+	    + relación : tipoRelación
+	  }
+	  
+	  enum tipoRelación {
+	    Asociación
+	    Dependencia
+	    Generalización
+	    Realización
+	    ...
+	  }
+	  
+	  class Diagrama {
+	    diagrama :tipoDiagrama
+	  }
+	  
+	  enum tipoDiagrama {
+	    Clases
+	    Objetos
+	    Casos de Uso
+	    Secuencia
+	    Comunicación
+	    Actividades
+	    Estados
+	    Componentes
+	    Despliegue
+	    ...
+	  }
+	  
+	  Elemento -- Relación
+	  (Elemento, Relación) -l-> Diagrama
+	  
+	  Elemento "1" *-u- "1..*" tipoElemento
+	  Relación "1" *-d- "1..*" tipoRelación
+	  Diagrama "1" *-r- "1..*" tipoDiagrama
+	}
+	
+	package Reglas as pkgReglas {
+		class Regla {
+		  + regla :tipoRegla
+		}
+		
+		enum tipoRegla {
+		  Nomenclatura
+		  Visibilidad
+		  Integridad
+		  ...
+		}
+		Regla *-d- tipoRegla
+	}	
+	
+	package "Mecanismos Comunes" as pkgMC {
+		class "Mecanismos Comunes" {
+		  + mecanismo :tipoMecanismo
+		}
+		
+		enum tipoMecanismo {
+		  Adornos
+		  Divisiones Comunes
+		  Extensibilidad
+		  Especificaciones
+		  ...
+		}
+		
+		"Mecanismos Comunes" *-d- tipoMecanismo
+	}
+	
+	BBC <--- pkgReglas :Afecta
+	BBC <--- pkgMC :Afecta
 }
-
-class Regla {
-  + regla :tipoRegla
-}
-
-enum tipoRegla {
-  Nomenclatura
-  Visibilidad
-  Integridad
-  ...
-}
-
-Regla *-d- tipoRegla
-
-class "Mecanismos Comunes" {
-  + mecanismo :tipoMecanismo
-}
-
-enum tipoMecanismo {
-  Adornos
-  Divisiones Comunes
-  Extensibilidad
-  Especificaciones
-  ...
-}
-
-"Mecanismos Comunes" *-d- tipoMecanismo
-
-BBC <--- Regla :Afecta
-BBC <--- "Mecanismos Comunes" :Afecta
-
 @enduml
 ```
+{ #c3673e}
+
+
 Fuente: Elaboración propia
 
 ----

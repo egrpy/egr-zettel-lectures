@@ -14,6 +14,12 @@ Figura
 _Modelo Evolutivo por Prototipos_
 ```plantuml
 @startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+'left to right direction
+skinparam linetype ortho
+
 start
 
 :Identificación y Análisis de Requerimientos;
