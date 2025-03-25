@@ -10,6 +10,7 @@ Clase 03 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025
 Clase 04 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk !MOC Dinámica de Sistemas\|Dinámica de Sistemas]]
 Clase 05 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk !MOC Sistemas, Subsistemas y Suprasistemas\|Sistemas]]
 Clase 06 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk !MOC Sistemas (Fundamentos, Propiedades, Principios Básicos)\|Sistemas (Fronteras, Complejidad y Tipologías)]]
+Clase 07 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk !MOC Elementos de un Sistema (Corriente de Entrada y Proceso de Conversión)\|Zk !MOC Elementos de un Sistema (Corriente de Entrada y Proceso de Conversión)]]
 
 
 
