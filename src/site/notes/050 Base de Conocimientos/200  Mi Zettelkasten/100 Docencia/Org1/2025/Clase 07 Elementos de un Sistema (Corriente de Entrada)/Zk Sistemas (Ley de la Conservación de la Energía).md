@@ -6,7 +6,7 @@
 
 La **ley de la conservación de la energía** establece que la cantidad total de energía en un sistema físico aislado permanece constante. La energía no se crea ni se destruye, solo se transforma de una forma a otra. Esto significa que la energía total en un sistema es igual a la energía importada menos la energía exportada o utilizada ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]]).
 
-_**Cantidad de Energía en el Sistema**_ = _Energía Importada_ − _Energía Exportada o Utilizada_
+$$ Cantidad de Energía en el Sistema = Energía Importada − Energía Exportada o Utilizada $$
 
 Si no hay intercambio de energía con el entorno, la energía dentro del sistema permanece invariable. Sin embargo, si hay intercambio, la energía total del sistema puede cambiar debido a transformaciones de una forma de energía a otra, como la energía mecánica a energía térmica ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]]).
 
