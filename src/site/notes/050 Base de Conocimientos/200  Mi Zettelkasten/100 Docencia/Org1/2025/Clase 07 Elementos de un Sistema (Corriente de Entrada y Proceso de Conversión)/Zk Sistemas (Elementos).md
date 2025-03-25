@@ -36,12 +36,12 @@ La retroalimentación es un mecanismo crucial que permite al sistema ajustar su 
 - **Retroalimentación Positiva (Morfogénesis)**: Fomenta el crecimiento o cambio del sistema al reforzar las tendencias actuales.
 
 ----
-## Interacción entre Componentes
+## Interacción entre Elementos
 
-La interacción entre estos componentes es vital para el funcionamiento del sistema. Las corrientes de entrada alimentan el proceso de conversión, que a su vez produce corrientes de salida. La retroalimentación ajusta el proceso según sea necesario, asegurando que el sistema se mantenga estable o crezca según las condiciones del entorno ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rodrigues et al., 2022) General Systems Theory and Remanufacturing - Teoría general de sistemas y remanufactura\|Rodrigues et al., 2022]]).
+La interacción entre estos elementos es vital para el funcionamiento del sistema. Las corrientes de entrada alimentan el proceso de conversión, que a su vez produce corrientes de salida. La retroalimentación ajusta el proceso según sea necesario, asegurando que el sistema se mantenga estable o crezca según las condiciones del entorno ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rodrigues et al., 2022) General Systems Theory and Remanufacturing - Teoría general de sistemas y remanufactura\|Rodrigues et al., 2022]]).
 
 ----
-## Importancia de Cada Componente
+## Importancia de Cada Elemento
 
 - **Corrientes de Entrada**: Proporcionan los recursos necesarios para el funcionamiento.
 - **Proceso de Conversión**: Transforma las entradas en salidas útiles.
@@ -49,4 +49,4 @@ La interacción entre estos componentes es vital para el funcionamiento del sist
 - **Retroalimentación**: Ajusta y optimiza el funcionamiento del sistema.
 
 ----
-Los componentes de un sistema trabajan en conjunto para asegurar su eficiencia, efectividad y supervivencia en un entorno dinámico. La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]] proporciona un marco para analizar y comprender estas interacciones, lo que es crucial para la planificación y gestión de sistemas complejos ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Andrade Domínguez et al., 2024) Teoría general de sistemas - Un enfoque estratégico para la planificación institucional.\|Andrade Domínguez et al., 2024]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rodrigues et al., 2022) General Systems Theory and Remanufacturing - Teoría general de sistemas y remanufactura\|Rodrigues et al., 2022]]).
+Los elementos de un sistema trabajan en conjunto para asegurar su eficiencia, efectividad y supervivencia en un entorno dinámico. La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]] proporciona un marco para analizar y comprender estas interacciones, lo que es crucial para la planificación y gestión de sistemas complejos ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Andrade Domínguez et al., 2024) Teoría general de sistemas - Un enfoque estratégico para la planificación institucional.\|Andrade Domínguez et al., 2024]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rodrigues et al., 2022) General Systems Theory and Remanufacturing - Teoría general de sistemas y remanufactura\|Rodrigues et al., 2022]]).
