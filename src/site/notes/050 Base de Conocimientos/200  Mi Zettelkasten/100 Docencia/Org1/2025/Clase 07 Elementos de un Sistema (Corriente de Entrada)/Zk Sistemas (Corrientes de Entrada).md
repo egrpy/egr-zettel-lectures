@@ -4,7 +4,7 @@
 
 ## Corrientes de Entrada
 
-Las **corrientes de entrada** son los recursos que un sistema adquiere, obtienes de su entorno para su funcionamiento, mantenimiento o crecimiento. Según la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]], estas entradas pueden ser materiales, energéticas, informativas o de otro tipo, y son esenciales para que el sistema genere salidas y cumpla sus objetivos ([Johansen Bertoglio, 2013][Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas]; [Rodrigues et al., 2022][Zk Lit (Rodrigues et al., 2022) General Systems Theory and Remanufacturing - Teoría general de sistemas y remanufactura]).
+Las **corrientes de entrada** son los recursos que un sistema adquiere, obtienes de su entorno para su funcionamiento, mantenimiento o crecimiento. Según la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]], estas entradas pueden ser materiales, energéticas, informativas o de otro tipo, y son esenciales para que el sistema genere salidas y cumpla sus objetivos ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rodrigues et al., 2022) General Systems Theory and Remanufacturing - Teoría general de sistemas y remanufactura\|Rodrigues et al., 2022]]).
 
 ### Tipos de Corrientes de Entrada
 
@@ -40,7 +40,7 @@ Son flujos de datos, conocimiento o señales que el sistema procesa para su regu
 
 4. En una organización empresarial, los datos de mercado, feedback de clientes.
 
-5. En sistemas económicos, el dinero opera como **señal de control** para asignar recursos ([Johansen Bertoglio, 2013][Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas]).
+5. En sistemas económicos, el dinero opera como **señal de control** para asignar recursos ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio, 2013]]).
 
 ### Importancia de las Corrientes de Entrada
 
@@ -50,4 +50,4 @@ Las corrientes de entrada son fundamentales para el funcionamiento, objetivos, y
 
 2. **Objetivos del sistema**: Determinan la calidad y cantidad de salidas (ejemplo: una fábrica con insumos de alta calidad produce bienes competitivos).
 
-3. **Adaptabilidad**: Sistemas con entradas diversificadas (ej. información y energía) son más resilientes a cambios en el entorno.
+3. **Adaptabilidad**: Sistemas con entradas diversificadas, por ejemplo información y energía, son más resilientes a cambios en el entorno.
