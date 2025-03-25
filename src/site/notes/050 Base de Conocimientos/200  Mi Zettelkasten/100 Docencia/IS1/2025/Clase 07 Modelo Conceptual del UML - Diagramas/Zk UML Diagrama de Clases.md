@@ -6,9 +6,9 @@
 
 El diagrama de clases es un tipo de diagrama estructural que se utiliza para modelar la estructura estática de un sistema, mostrando las clases, sus atributos, métodos y las relaciones entre ellas. Es fundamental para diseñar y comprender la arquitectura de un sistema de software.
 
-| Tipos                                                          | Objetivo                                                                                                       |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|Estructural]] | Describe la estructura estática de un sistema, incluyendo clases, atributos, métodos y relaciones entre ellas. |
+| Tipos                                                   | Objetivo                                                                                                       |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|Estructural]] | Describe la estructura estática de un sistema, incluyendo clases, atributos, métodos y relaciones entre ellas. |
 
 ----
 ### Visualización
@@ -143,6 +143,7 @@ Prestamo "1" -- "1" EstadoPrestamo : estadoActual
 | Elementos más Frecuentes     | Relaciones                                   | Otros                                                                                                                                    |
 | ---------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Clases, interfaces, paquetes | Asociaciones, dependencias, generalizaciones | - Fundamental en el diseño de software.<br>- Utilizado para visualizar la estructura del sistema<br>- Deben llevar un nombre descriptivo |
+
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----

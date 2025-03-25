@@ -18,11 +18,8 @@ Se utilizan para modelar la organización y composición del sistema.
 **Elementos Incluidos**
 
 - Clases: Representan conceptos abstractos con atributos y métodos.
-
 - Objetos: Instancias de clases con valores específicos.
-
 - Componentes: Representan partes del sistema que pueden ser reutilizadas.
-
 - Nodos: Dispositivos físicos en un sistema.
 
 ----
@@ -32,16 +29,12 @@ Se utilizan para modelar la organización y composición del sistema.
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Elementos que describen cómo se comporta un sistema en el tiempo, incluyendo actividades, estados, transiciones y secuencias. | Se utilizan para modelar el comportamiento dinámico del sistema. |
 
-**Elementos Incluidos**:
+**Elementos Incluidos**
 
 - Actividades: Representan flujos de trabajo.
-	
 - Estados: Indican estados específicos de un objeto.
-	
 - Transiciones: Conectan estados.
-	
 - Secuencias: Muestran la secuencia temporal de mensajes entre objetos.
-
 - Casos de Uso: Describen interacciones entre actores y el sistema. Si bien el Caso de Uso es un clasificador desde el punto de vista del UML, en este contexto, se incluyen en la categoría de comportamiento porque describen cómo el sistema interactúa con sus usuarios para alcanzar objetivos específicos.
 
 ----
@@ -51,7 +44,7 @@ Se utilizan para modelar la organización y composición del sistema.
 | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Elementos que agrupan otros elementos para facilitar su gestión y organización, como paquetes. | Se utilizan para organizar grandes modelos y facilitar la navegación. |
 
-**Elementos Incluidos**:
+**Elementos Incluidos**
 
 - Paquetes: Contienen clases u otros paquetes.
 
@@ -62,10 +55,8 @@ Se utilizan para modelar la organización y composición del sistema.
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | Elementos que proporcionan información adicional sobre el modelo, como notas o comentarios. | Se utilizan para documentar y explicar el modelo. |
 
-- **Elementos Incluidos**:
-
+**Elementos Incluidos**
 - Notas: Cajas con texto que se conectan a otros elementos.
-	
 - Comentarios: Texto que se coloca cerca de los elementos del modelo.
 
 ----

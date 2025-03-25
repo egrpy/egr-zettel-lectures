@@ -6,9 +6,9 @@
 
 El diagrama de paquetes es un tipo de diagrama estructural que organiza los elementos del modelo en paquetes para facilitar su gestión y reutilización. Se utiliza para estructurar grandes modelos y facilitar la navegación.
 
-| Tipos                                                          | Objetivo                                                                                                   |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|Estructural]] | Describe cómo se organizan los elementos del modelo en paquetes para facilitar su gestión y reutilización. |
+| Tipos                                                   | Objetivo                                                                                                   |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|Estructural]] | Describe cómo se organizan los elementos del modelo en paquetes para facilitar su gestión y reutilización. |
 
 ----
 ### Visualización

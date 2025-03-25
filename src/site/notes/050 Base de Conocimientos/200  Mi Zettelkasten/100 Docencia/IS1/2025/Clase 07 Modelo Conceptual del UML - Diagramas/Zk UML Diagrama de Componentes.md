@@ -6,9 +6,9 @@
 
 El diagrama de componentes es un tipo de diagrama estructural que describe la estructura física de un sistema en términos de componentes y sus interfaces. Se utiliza para modelar la arquitectura de sistemas complejos y distribuidos.
 
-| Tipos                                                          | Objetivo                                                                                 |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|Estructural]] | Describe la estructura física de un sistema en términos de componentes y sus interfaces. |
+| Tipos                                                   | Objetivo                                                                                 |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|Estructural]] | Describe la estructura física de un sistema en términos de componentes y sus interfaces. |
 
 ----
 ### Visualización
@@ -34,7 +34,7 @@ GUIBuscarLibro --> BaseDeDatos : buscarLibros()
 
 #### Escenario Avanzado
 **Figura**
-_Ejemplo de Diagrama de xxxx más Complejo_
+_Ejemplo de Diagrama de Componentes más Complejo_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -64,6 +64,7 @@ ServidorWeb --> GUIBuscarLibro : proporcionar datos
 | Elementos más Frecuentes         | Relaciones | Otros                                               |
 | -------------------------------- | ---------- | --------------------------------------------------- |
 | Componentes, Interfaces, puertos | Conexiones | Utilizado para modelar la arquitectura de sistemas. |
+
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----

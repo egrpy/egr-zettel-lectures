@@ -4,7 +4,7 @@
 
 ### Diagramas UML 2.5.1 (Dinámicos)
 
-Describen el comportamiento de un sistema en el tiempo, mostrando cómo los objetos interactúan entre sí y cómo cambian sus estados. Estos diagramas se enfocan en la dinámica del sistema, en contraste con los diagramas estructurales, que se centran en la organización estática de los elementos del sistema.
+Describen el comportamiento de un sistema en el tiempo, mostrando cómo los objetos interactúan entre sí y cómo cambian sus estados. Estos diagramas se enfocan en la dinámica del sistema, en contraste con los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|diagramas estructurales]], que se centran en la organización estática de los elementos del sistema.
 
 #### Diagramas
 

@@ -28,4 +28,4 @@ Estos diagramas son fundamentales para diseñar y comprender la arquitectura de 
 
 - **Utilizados para Diseño y Análisis Estructural**: Son fundamentales para diseñar y analizar la arquitectura de sistemas, facilitando la comprensión de su estructura estática.
 
-Estas características resaltan cómo los diagramas estructurales se centran en la organización y composición del sistema, en contraste con los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|diagramas dinámicos]] que se enfocan en el comportamiento y las interacciones en el tiempo.
+Estas características resaltan cómo los diagramas estructurales se centran en la organización y composición del sistema, en contraste con los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|diagramas tipo dinámicos]] que se enfocan en el comportamiento y las interacciones en el tiempo.

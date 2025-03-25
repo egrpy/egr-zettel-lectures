@@ -6,9 +6,9 @@
 
 El diagrama de objetos es un tipo de diagrama estructural que muestra instancias de clases y sus relaciones en un momento específico. Se utiliza para visualizar escenarios de ejecución o pruebas de sistemas, ayudando a entender cómo se comportan los objetos en tiempo de ejecución.
 
-| Tipos                                                          | Objetivo                                                                                    |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|Estructural]] | Describe un momento específico del sistema, mostrando instancias de clases y sus relaciones |
+| Tipos                                                   | Objetivo                                                                                    |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|Estructural]] | Describe un momento específico del sistema, mostrando instancias de clases y sus relaciones |
 
 ----
 ### Visualización
@@ -176,6 +176,7 @@ Editorial2 -- Direccion3 : ubicadaEn
 | Elementos más Frecuentes              | Relaciones                 | Otros                                                                                                              |
 | ------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Objetos, que son instancias de clases | Asociaciones entre objetos | - Utilizado para visualizar escenarios de ejecución o pruebas de sistemas.<br>- Deben llevar un nombre descriptivo |
+
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----

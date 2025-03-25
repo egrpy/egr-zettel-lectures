@@ -82,6 +82,7 @@ GUIRegistrarPréstamo --d- prestamos : 6: registrarPréstamo() $down\n7: confirm
 | Elementos más Frecuentes                         | Relaciones                                                                                                                                              | Otros                                                                    |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Participantes (que pueden ser actores u objetos) | Vínculos (un solo vínculo entre dos participantes); Mensajes (ilustran interacciones entre participantes, representan operaciones o llamadas a métodos. | Utilizado para modelar la estructura de las interacciones entre objetos. |
+
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----

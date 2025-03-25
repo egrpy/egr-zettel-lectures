@@ -140,6 +140,7 @@ stop
 | Elementos más Frecuentes                                                                       | Relaciones                       | Otros                                                                                                  |
 | ---------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | Actividades, nodos de decisión, nodos de inicio y fin, calles, divisiones y uniones de flujos. | Flujo de control de actividades. | Utilizado para modelar procesos como algoritmos, procedimientos empresariales, flujos de trabajo, etc. |
+
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----

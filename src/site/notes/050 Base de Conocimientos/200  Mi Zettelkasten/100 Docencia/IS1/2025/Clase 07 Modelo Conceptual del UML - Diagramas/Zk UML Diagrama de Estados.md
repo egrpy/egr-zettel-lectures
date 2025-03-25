@@ -75,6 +75,7 @@ reservado --> disponible : [cancelar reserva] Cancelar reserva\n / \nnotificar c
 | Elementos más Frecuentes | Relaciones                 | Otros                                                                                                              |
 | ------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Estados, eventos         | Transiciones entre estados | Utilizado para modelar el comportamiento de objetos o grupos de este que cambian de estado en respuesta a eventos. |
+
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----

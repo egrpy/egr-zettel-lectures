@@ -6,8 +6,8 @@
 
 El diagrama de secuencia es un tipo de diagrama dinámico que muestra la secuencia temporal de mensajes entre objetos. Se utiliza para modelar interacciones entre objetos en el tiempo, ayudando a entender cómo se comportan los sistemas dinámicamente.
 
-| Tipos                                                       | Objetivo                                                                               |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Tipos                                            | Objetivo                                                                               |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|Dinámico]] | Describe la secuencia temporal de mensajes entre los participantes (actores, objetos). |
 
 ----
@@ -67,6 +67,7 @@ GUIBuscarLibro -->> Bibliotecario: mostrar listaLibros
 
 alt libro disponible
   Bibliotecario ->> GUIRegistrarPréstamo: registrarPréstamo()
+  create Prestamos
   GUIRegistrarPréstamo ->> Prestamos: registrarPréstamo()
   Prestamos -->> GUIRegistrarPréstamo: confirmarPréstamo()
   GUIRegistrarPréstamo -->> Bibliotecario: mostrar confirmación
@@ -83,6 +84,7 @@ end
 | Elementos más Frecuentes                         | Relaciones                                                                                          | Otros                                                                    |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Participantes (que pueden ser actores u objetos) | Mensajes (ilustran interacciones entre participantes, representan operaciones o llamadas a métodos. | Utilizado para modelar interacciones con énfasis temporal entre objetos. |
+
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----

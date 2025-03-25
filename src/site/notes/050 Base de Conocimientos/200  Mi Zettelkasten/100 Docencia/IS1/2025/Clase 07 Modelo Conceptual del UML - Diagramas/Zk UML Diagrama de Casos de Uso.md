@@ -6,9 +6,9 @@
 
 El diagrama de casos de uso es un tipo de diagrama estructural que describe las interacciones entre actores y el sistema para alcanzar objetivos específicos. Se utiliza para capturar requisitos funcionales y definir las funcionalidades del sistema.
 
-| Tipos                                                          | Objetivo                                                                                  |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|Estructural]] | Describe las interacciones entre actores y el sistema para alcanzar objetivos específicos |
+| Tipos                                                   | Objetivo                                                                                  |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|Estructural]] | Describe las interacciones entre actores y el sistema para alcanzar objetivos específicos |
 
 ----
 ### Visualización
@@ -88,6 +88,7 @@ rectangle {
 | Elementos más Frecuentes                 | Relaciones                                                           | Otros                                                                                                                    |
 | ---------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Actores, casos de uso, límite el sistema | Asociaciones, dependencias (inclusión, extensión), generalizaciones. | - Utilizado para capturar y analizar requisitos funcionales.<br>- Describe las interacciones entre actores y el sistema. |
+
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----

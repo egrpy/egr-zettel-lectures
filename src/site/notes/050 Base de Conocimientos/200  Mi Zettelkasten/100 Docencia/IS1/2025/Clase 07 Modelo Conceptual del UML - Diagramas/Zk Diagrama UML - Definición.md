@@ -5,12 +5,9 @@
 ## Diagrama UML
 
 **Definición**
-Un diagrama en UML es una representación visual de un conjunto de elementos del modelo. Puede ser un diagrama de clases, de objetos, de casos de uso, de secuencia, etc.
+Un diagrama en UML es una representación visual de un conjunto de elementos del modelo. Puede ser un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Clases\|diagrama de clases]], de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Objetos\|objetos]], de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Casos de Uso\|casos de uso]], de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Secuencia\|secuencia]], etc.
 
 **Propósito**
-Muestra una perspectiva particular del sistema, enfocándose en ciertos aspectos de su estructura o comportamiento.
+Muestra una perspectiva particular del sistema, enfocándose en ciertos aspectos de su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|Zk Diagramas UML 2.5.1 (Estructurales)]] o [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|comportamiento]].
 
-**Ejemplo**
-Un diagrama de clases muestra las clases, sus atributos y relaciones.
-
-[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Comparativo entre Diagrama, Modelo y Artefacto\|Comparativo entre Diagrama, Modelo y Artefacto]]
+Ver [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Comparativo entre Diagrama, Modelo y Artefacto\|Comparativo entre Diagrama, Modelo y Artefacto]].

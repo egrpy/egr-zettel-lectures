@@ -8,15 +8,15 @@
 
 El diagrama de despliegue es un tipo de diagrama estructural que describe cómo se despliegan los componentes físicos del sistema. Se utiliza para planificar la infraestructura física y la distribución de componentes en un sistema.
 
-| Tipos                                                          | Objetivo                                                         |
-| -------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|Estructural]] | Describe cómo se despliegan los componentes físicos del sistema. |
+| Tipos                                                   | Objetivo                                                         |
+| ------------------------------------------------------- | ---------------------------------------------------------------- |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|Estructural]] | Describe cómo se despliegan los componentes físicos del sistema. |
 
 ----
 ### Visualización
 #### Escenario Elemental
 **Figura**
-_Ejemplo de Diagrama de xxxx Simple_
+_Ejemplo de Diagrama de Despliegue Simple_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -36,7 +36,7 @@ estaciónConsulta -d-> servidorWeb
 
 #### Escenario Avanzado
 **Figura**
-_Ejemplo de Diagrama de xxxx más Elaborado_
+_Ejemplo de Diagrama de Despliegue más Elaborado_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -69,6 +69,7 @@ estacionTrabajo --> impresora : imprimir
 | Elementos más Frecuentes                                   | Relaciones              | Otros                                                                                               |
 | ---------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
 | Nodos (servidores, dispositivos), componentes desplegados. | Conexiones entre nodos. | Utilizado para planificar la infraestructura física y la distribución de componentes en un sistema. |
+
 _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizados.
 
 ----
