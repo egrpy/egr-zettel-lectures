@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk 010 Lectures Zettel by EGR/","title":["Zk 010 Lectures Zettel by EGR"],"tags":["digitalGarden","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk 010 Lectures Zettel by EGR/","title":["Zk 010 Lectures Zettel by EGR"],"tags":["digitalGarden","gardenEntry"]}
 ---
 
 [[050 Base de Conocimientos/990 Lectures Zettel/Zk 015 Lectures Zettel - Autor\|Dr. Emilio Gutiérrez Rodríguez]]
@@ -9,3 +9,4 @@
 
 ## Contenido
 [[050 Base de Conocimientos/990 Lectures Zettel/Zk 020 MOCs de Clases\|MOCs de Clases]]
+
