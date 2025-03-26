@@ -4,9 +4,13 @@
 
 ## Ley de los Incrementos
 
-La ley de los incrementos, en el contexto de la gestión de información, se refiere a la idea de que la cantidad total de información en un sistema es la suma de la información existente y la información importada ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]]). 
+La ley de los incrementos, en el contexto de la gestión de información, se refiere a la idea de que la cantidad total de información en un sistema es la suma de la información existente y la información importada ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]]), como se puede apreciar en fórmula indicada a continuación:
 
-$$ Is = Ie + Ii$$
+**Fórmula**
+_Ley de los Incrementos_
+$$ 
+Informaación_{enElSistema} = Energía_{importada} + Energía_{exportada}
+$$
 
 **_Información en el Sistema_** = **_Información Existente_** + **_Información Importada_**
 
