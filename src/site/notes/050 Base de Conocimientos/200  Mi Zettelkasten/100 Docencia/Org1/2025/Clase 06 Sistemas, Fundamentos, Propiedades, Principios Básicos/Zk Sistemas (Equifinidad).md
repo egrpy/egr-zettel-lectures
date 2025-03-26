@@ -16,7 +16,7 @@ La **equifinalidad** (o equifinidad) es un principio central de la [[050 Base
         
 2. **No linealidad**:
     
-    - Múltiples trayectorias pueden converger en un mismo resultado ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk La Complejidad del Sistema\|complejidad]] como facilitadora).
+    - Múltiples trayectorias pueden converger en un mismo resultado ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas (Complejidad de los Sistemas)\|complejidad]] como facilitadora).
         
 3. **Vinculación con objetivos**:
     

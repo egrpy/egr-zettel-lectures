@@ -130,26 +130,28 @@ Los bloques de construcción básicos de UML se dividen en tres categorías:
 ----
 #### Relaciones
 
-- **Asociación**: Representa una conexión entre elementos.
-- **Dependencia**: Indica que un elemento depende de otro.
-- **Generalización**: Muestra una relación "es un tipo de".
-- **Realización**: Conecta una interfaz con su implementación.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Relaciones Estructurales)#Asociación\|Asociación]]: Representa una conexión entre elementos.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Relaciones Estructurales)#Dependencia\|Dependencia]]: Indica que un elemento depende de otro.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Relaciones Estructurales)#Generalización\|Generalización]]: Muestra una relación "es un tipo de".
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Relaciones Estructurales)#Realización\|Realización]]: Conecta una interfaz con su implementación.
 
 ----
 #### Diagramas
 
-Son representaciones gráficas de conjuntos de elementos y relaciones. Algunos diagramas comunes:
+Son representaciones gráficas de conjuntos de elementos y relaciones. 
+Algunos diagramas comunes:
 
-- **Casos de uso**: Describen las interacciones entre usuarios y el sistema.
-- **Clases**: Muestran la estructura estática de un sistema.
-- **Objetos**: Representan instancias de clases.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Casos de Uso\|Casos de Uso]]: Describen las interacciones entre usuarios y el sistema.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Clases\|Clases]]: Muestran la estructura estática de un sistema.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Objetos\|Objetos]]: Representan instancias de clases.
 - **Interacción**:
-	- **Secuencia**: Muestra la secuencia de mensajes entre objetos, con un énfasis en lo temporal.
-	- **Colaboración** o **Comunicación**: Muestra la secuencia de mensajes entre objetos, con un énfasis estructural.
-- **Actividades**: Modelan el flujo de control de un proceso.
-- **Estados**: Describen los posibles estados de un objeto y sus transiciones.
-- **Componentes**: Muestran la arquitectura de software.
-- **Despliegue**: Representan la distribución física de componentes en hardware.
+	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Secuencia\|Secuencia]]: Muestra la secuencia de mensajes entre objetos, con un énfasis en lo temporal.
+	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Comunicación\|Colaboración o Comunicación]]: Muestra la secuencia de mensajes entre objetos, con un énfasis estructural.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Actividades\|Actividades]]: Modelan el flujo de control de un proceso.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Estados\|Estados]]: Describen los posibles estados de un objeto y sus transiciones.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Componentes\|Componentes]]: Muestran la arquitectura de software.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Paquetes\|Paquetes]]: Permite la agrupación de elementos o diagramas.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Despliegue\|Despliegue]]: Representan la distribución física de componentes en hardware.
 - Etc.
 
 ----
