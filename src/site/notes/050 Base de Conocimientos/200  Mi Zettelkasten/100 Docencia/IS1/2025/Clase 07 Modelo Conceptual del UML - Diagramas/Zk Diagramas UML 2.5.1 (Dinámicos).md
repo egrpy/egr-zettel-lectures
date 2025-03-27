@@ -2,21 +2,32 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)/","tags":["digitalGarden"]}
 ---
 
-### Diagramas UML 2.5.1 (Dinámicos)
+## Diagramas UML 2.5.1 (Dinámicos)
 
 Describen el comportamiento de un sistema en el tiempo, mostrando cómo los objetos interactúan entre sí y cómo cambian sus estados. Estos diagramas se enfocan en la dinámica del sistema, en contraste con los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|diagramas estructurales]], que se centran en la organización estática de los elementos del sistema.
 
-#### Diagramas
 
-| Diagrama                                                      | Observación                                                                                                                     |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Secuencia\|Diagrama de Secuencia]]       | Describe la secuencia temporal de mensajes entre objetos.                                                                       |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Comunicación\|Diagrama de Comunicación]] | Similar al diagrama de secuencia, pero enfocado en la estructura de los mensajes.                                               |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Actividades\|Diagrama de Actividades]]   | Muestra el flujo de trabajo y las actividades que se realizan en un proceso.                                                    |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Estados\|Diagrama de Estados]]           | Describe los estados que puede tener un objeto y las transiciones entre ellos.                                                  |
-| Diagrama de Interacción de Tiempo                             | Describe las restricciones temporales en las interacciones entre objetos.                                                       |
-| Diagrama de Interacción de Estado de Máquina                  | Describe el comportamiento de un objeto en términos de estados y transiciones, enfocado en la interacción con eventos externos. |
-| Diagrama de Interacción de Actividades                        | Describe la coordinación de actividades entre diferentes flujos de trabajo.                                                     |
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/is-1/2025/clase-06-introduccion-al-uml/zk-diagramas-del-lenguaje-unificado-de-modelado-uml-v2-5-1/#diagramas-de-comportamiento" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Diagramas de Comportamiento
+
+| Diagrama de                                                      | Descripción                                                                                                                                             |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Casos de Uso\|Casos de Uso]]                | Describe interacciones entre actores y el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk Sistema - Definición\|sistema]] para alcanzar metas específicas. El término sistema en el sentido amplio |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Actividades\|Actividades]]                  | Representa flujos de trabajo, procesos empresariales o algoritmos con acciones y decisiones.                                                            |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Secuencia\|Secuencia]]                      | Muestra interacciones entre objetos en orden cronológico, con mensajes y líneas de vida.                                                                |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Comunicación\|Comunicación o Colaboración]] | Enfocado en relaciones estructurales entre objetos durante una interacción (similar a secuencia).                                                       |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Estados\|Estados]]                          | Detalla los estados de un objeto y transiciones entre ellos, activadas por eventos.                                                                     |
+| Tiempos                                                          | Visualiza restricciones temporales en cambios de estado de objetos durante una interacción.                                                             |
+| Vista de Interacción                                             | Combina fragmentos de otros diagramas de interacción en un flujo de alto nivel (tipo actividad).                                                        |
+
+
+</div></div>
+
+
+
 ### Características
 
 - **Enfocados en el Comportamiento**: Muestran cómo los objetos interactúan entre sí y cómo cambian sus estados con el tiempo.

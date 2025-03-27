@@ -8,7 +8,7 @@ El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - Un
 
 ### Visualizar
 
-**Representación Gráfica**: UML ofrece una variedad de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Zk Modelos del Lenguaje Unificado de Modelado (UML) v2.5.1\|diagramas]]) que permiten visualizar los elementos y sus relaciones dentro de un sistema, facilitando la comprensión de su estructura y comportamiento [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017)]]. Esto es esencial para la comunicación efectiva entre los miembros del equipo, como se destaca en la Guía del Usuario de UML de [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario. Addison-Wesley\|Booch et al., (2006)]].
+**Representación Gráfica**: UML ofrece una variedad de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 05 El Modelado en la Ingeniería del Software/Zk Modelo - Definición\|modelos]] ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Diagramas del Lenguaje Unificado de Modelado (UML) v2.5.1\|diagramas]]) que permiten visualizar los elementos y sus relaciones dentro de un sistema, facilitando la comprensión de su estructura y comportamiento [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017)]]. Esto es esencial para la comunicación efectiva entre los miembros del equipo, como se destaca en la Guía del Usuario de UML de [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario. Addison-Wesley\|Booch et al., (2006)]].
 
 ### Especificar
 
@@ -16,7 +16,7 @@ El [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - Un
 
 ### Construir
 
-**Guía para Implementación**: Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Zk Modelos del Lenguaje Unificado de Modelado (UML) v2.5.1\|modelos UML]] sirven como base para la implementación del sistema. Los desarrolladores pueden traducir los diagramas en código, asegurando que el sistema cumpla con los requisitos especificados. Esto se refleja en cómo UML se utiliza para construir sistemas, según la historia y el propósito de UML[(OMG, s.f.)](https://www.omg.org/UML/uml-history-faq.htm).
+**Guía para Implementación**: Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Diagramas del Lenguaje Unificado de Modelado (UML) v2.5.1\|modelos UML]] sirven como base para la implementación del sistema. Los desarrolladores pueden traducir los diagramas en código, asegurando que el sistema cumpla con los requisitos especificados. Esto se refleja en cómo UML se utiliza para construir sistemas, según la historia y el propósito de UML[(OMG, s.f.)](https://www.omg.org/UML/uml-history-faq.htm).
 
 ### Documentar
 
