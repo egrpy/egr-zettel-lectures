@@ -27,6 +27,8 @@ left to right direction
 'top to bottom direction
 skinparam linetype ortho
 
+scale 1.5
+
 Estudiante -- Curso :asociación
 
 @enduml
@@ -53,6 +55,7 @@ left to right direction
 'top to bottom direction
 skinparam linetype ortho
 
+scale 1.5
 Departamento o-- Profesor :asociación por agregación
 @enduml
 ```
@@ -78,6 +81,7 @@ left to right direction
 'top to bottom direction
 skinparam linetype ortho
 
+scale 1.5
 Casa *-- Habitación :asociación por composición
 @enduml
 ```
@@ -103,6 +107,7 @@ left to right direction
 'top to bottom direction
 skinparam linetype ortho
 
+scale 1.5
 elementoIndependiente <.. elementoDependiente :dependencia
 
 @enduml
@@ -129,6 +134,7 @@ left to right direction
 'top to bottom direction
 skinparam linetype ortho
 
+scale 1.5
 Persona <|-- Estudiante :generalización
 
 @enduml
@@ -154,6 +160,7 @@ skinparam BackgroundColor LightGray
 left to right direction
 'top to bottom direction
 skinparam linetype ortho
+
 
 Interfaz <|.. ClaseConcreta : realización
 

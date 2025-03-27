@@ -16,7 +16,7 @@ Los mecanismos comunes de UML son patrones de modelado que unifican la sintaxis 
 | Uso        | - Ejemplo: Definir precondiciones de un método en una clase.                                                                                                                                                                                                                                                                                                   |
 
 **Figura**
-_Especificaciones no Visibles en Diagrama _
+_Especificaciones no Visibles en Diagrama_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -27,6 +27,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 1.3
 class CuentaBancaria { 
 	- saldo: Float 
 	+ retirar(monto: Float) { pre: monto > 0 }
@@ -54,12 +55,13 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 1.3
 class CuentaBancaria { 
 	- saldo: Float 
 	+ retirar(monto: Float) { pre: monto > 0 }
 }
 
-note left of CuentaBancaria : Restricción\nsaldo mínimo = 100.000 Gs end note
+note bottom of CuentaBancaria : Restricción\nsaldo mínimo = 100.000 Gs end note
 @enduml
 ```
 
@@ -81,7 +83,7 @@ note left of CuentaBancaria : Restricción\nsaldo mínimo = 100.000 Gs end note
 | Definición  | Adaptar UML a dominios específicos ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario. Addison-Wesley\|Booch et al. (2006)]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al.,2000) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al., 2000]]. |
 | Principales | Estereotipos y Valores Etiquetados                                                                                                                                                                                                                                                                                            |
 **Figura**
-_Mecanismos de Extensibilidad _
+_Mecanismos de Extensibilidad_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -92,6 +94,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 1.2
 class Persona <<GUI>> {
  
 }

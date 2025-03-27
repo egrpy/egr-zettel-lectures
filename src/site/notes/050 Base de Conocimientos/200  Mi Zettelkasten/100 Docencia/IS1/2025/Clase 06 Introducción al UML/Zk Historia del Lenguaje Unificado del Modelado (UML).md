@@ -25,6 +25,7 @@ skinparam BackgroundColor LightGray
 skinparam conditionStyle InsideDiamond
 skinparam linetype ortho
 
+scale 1.5
 :Rational: <|-d- :Booch:
 :Rational: <|-d- :Rumbaugh:
 :Rational: <|-d- :Jacobson:

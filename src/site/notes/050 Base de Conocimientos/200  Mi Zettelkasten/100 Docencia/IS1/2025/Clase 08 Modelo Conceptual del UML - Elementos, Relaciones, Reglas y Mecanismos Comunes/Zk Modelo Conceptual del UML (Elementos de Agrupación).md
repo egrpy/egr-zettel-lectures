@@ -26,6 +26,7 @@ skinparam BackgroundColor LightGray
 'left to right direction
 top to bottom direction
 skinparam linetype ortho
+scale 2
 
 package paquete { 
 

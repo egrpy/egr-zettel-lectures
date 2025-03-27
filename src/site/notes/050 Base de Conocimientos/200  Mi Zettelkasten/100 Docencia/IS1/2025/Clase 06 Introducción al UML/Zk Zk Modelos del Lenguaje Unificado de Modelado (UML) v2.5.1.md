@@ -8,33 +8,24 @@ Según el [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk (
 
 ### Diagramas Estructurales
 
-1. **Diagramas de Clases**: Muestran la estructura estática de un sistema, incluyendo clases y sus relaciones.
-
-2. **Diagramas de Objetos**: Representan instancias de clases y sus relaciones en un momento específico.
-
-3. **Diagramas de Paquetes**: Muestran la organización de los paquetes en el sistema.
-
-4. **Diagramas de Componentes**: Describen los componentes y sus dependencias.
-
-5. **Diagramas de Estructura Compuesta**: Muestran la estructura interna de un clasificador.
-
-6. **Diagramas de Despliegue**: Visualizan cómo se despliegan los artefactos en los nodos.
-
-7. **Diagramas de Perfil**: Permiten definir estereotipos personalizados y extensiones del metamodelo UML.
+| Diagrama de                                     | Descripción                                                                                                                                    |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Clases\|Clases]]           | Modela clases, interfaces, atributos, operaciones y relaciones estáticas (asociación, generalización).                                         |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Objetos\|Objetos]]         | Ilustra instancias específicas de clases y sus enlaces en un momento dado.                                                                     |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Paquetes\|Paquetes]]       | Organiza elementos del modelo (clases, componentes) en grupos lógicos (paquetes).                                                              |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Componentes\|Componentes]] | Representa componentes software, sus interfaces y dependencias en una arquitectura modular.                                                    |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Despliegue\|Despliegue]]   | Modela la distribución física de artefactos en nodos (hardware) y sus conexiones.                                                              |
+| Estructura Compuesta                            | Muestra la estructura interna de un clasificador (clase/componente) mediante partes y conectores. Es más bien una vista antes que un diagrama. |
+| Pefiles                                         | Define extensiones personalizadas de UML mediante estereotipos y restricciones.                                                                |
 
 ### Diagramas de Comportamiento
 
-8. **Diagramas de Casos de Uso**: Describen las interacciones entre actores y el sistema.
-
-9. **Diagramas de Actividad**: Modelan flujos de trabajo y procesos.
-
-10. **Diagramas de Máquina de Estados**: Muestran el comportamiento discreto a través de transiciones de estado.
-
-11. **Diagramas de Secuencia**: Focan en la secuencia de mensajes entre objetos.
-
-12. **Diagramas de Comunicación (Colaboración)**: Enfatizan la interacción entre objetos y su estructura interna.
-
-13. **Diagramas de Interacción General**: Incluyen varios tipos, como los diagramas de interacción y los diagramas de timing.
-
-14. **Diagramas de Interacción de Vista General**: Definen interacciones a través de una variante de diagramas de actividad, promoviendo una visión general del flujo de control.
-    
+| Diagrama de                                                      | Descripción                                                                                                                                             |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Casos de Uso\|Casos de Uso]]                | Describe interacciones entre actores y el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk Sistema - Definición\|sistema]] para alcanzar metas específicas. El término sistema en el sentido amplio |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Actividades\|Actividades]]                  | Representa flujos de trabajo, procesos empresariales o algoritmos con acciones y decisiones.                                                            |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Secuencia\|Secuencia]]                      | Muestra interacciones entre objetos en orden cronológico, con mensajes y líneas de vida.                                                                |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Comunicación\|Comunicación o Colaboración]] | Enfocado en relaciones estructurales entre objetos durante una interacción (similar a secuencia).                                                       |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk UML Diagrama de Estados\|Estados]]                          | Detalla los estados de un objeto y transiciones entre ellos, activadas por eventos.                                                                     |
+| Tiempos                                                          | Visualiza restricciones temporales en cambios de estado de objetos durante una interacción.                                                             |
+| Vista de Interacción                                             | Combina fragmentos de otros diagramas de interacción en un flujo de alto nivel (tipo actividad).                                                        |

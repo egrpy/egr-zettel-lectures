@@ -27,6 +27,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 1.5
 class Estudiante {
   - apellidos :string
   - nombres :string
@@ -58,6 +59,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 1.5
 Object Estudiante {
   apellidos = "Fernández Pérez"
   nombres = "Juan Carlos"
@@ -87,6 +89,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 2
 (Inscribir Estudiante)
 @enduml
 ```
@@ -111,6 +114,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 2
 [Servicio de Autenticación] as Auth
 @enduml
 ```
@@ -135,6 +139,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 2
 node "Servidor Web" as web
 @enduml
 ```

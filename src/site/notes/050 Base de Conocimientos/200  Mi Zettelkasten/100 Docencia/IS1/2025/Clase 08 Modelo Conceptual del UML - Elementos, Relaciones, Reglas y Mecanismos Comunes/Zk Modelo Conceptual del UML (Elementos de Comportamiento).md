@@ -24,10 +24,13 @@ skinparam style strictuml
 skinparam classAttributeIconSize 0
 skinparam BackgroundColor LightGray
 'left to right direction
-top to bottom direction
+'top to bottom direction
 skinparam linetype ortho
 
-(Aceptar Inscripción) as actividad
+scale 2
+
+:Aceptar Inscripción;
+
 @enduml
 ```
 
@@ -39,7 +42,6 @@ skinparam linetype ortho
 | Definición | Condición temporal de un objeto durante su ciclo de vida, determinada por eventos internos o externos [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario. Addison-Wesley\|(Booch et al., 2006)]]. |
 | Uso        | - Representar situaciones como `En espera`, `Activo`, o `Fallido` en máquinas de estados.<br>- Especificar restricciones de comportamiento en componentes.                                                                                                                        |
 
-
 **Figura**
 _Representación Gráfica del Estado y Estados Especiales (Inicial y Final)_
 ```plantuml
@@ -48,10 +50,11 @@ _Representación Gráfica del Estado y Estados Especiales (Inicial y Final)_
 skinparam style strictuml
 skinparam classAttributeIconSize 0
 skinparam BackgroundColor LightGray
-'left to right direction
-top to bottom direction
+left to right direction
+'top to bottom direction
 skinparam linetype ortho
 
+scale 1.5
 
 state enProceso
 enProceso :Entry / acción
@@ -86,6 +89,8 @@ skinparam BackgroundColor LightGray
 'top to bottom direction
 skinparam linetype ortho
 
+scale 1.5
+
 :Actvividad A;
 :Actividad B;
 
@@ -101,9 +106,11 @@ _Representación Gráfica de la Transición entre Estados_
 skinparam style strictuml
 skinparam classAttributeIconSize 0
 skinparam BackgroundColor LightGray
-'left to right direction
+left to right direction
 'top to bottom direction
 skinparam linetype ortho
+
+scale 1.5
 
 state Soltero
 state Casado

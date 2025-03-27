@@ -27,6 +27,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 1.2
 class gestor_pagos #pink
 Note bottom of gestor_pagos :No se recomienda el uso de snake_case
 
@@ -63,7 +64,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
-
+scale 1.5
 class GestorPagos {
 	+ idTransacción :integer
 	- tocken :string

@@ -27,6 +27,7 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 skinparam linetype ortho
 
+scale 2
 note "Esta es una nota\naclaratoria de..." as N1
 
 @enduml
