@@ -79,6 +79,8 @@ class GestorPagos {
 ----
 ### Reglas de Integridad
 
+Garantizar la coherencia y la validez de los datos y las relaciones representadas en el modelo. Estas reglas establecen restricciones y condiciones que deben cumplirse para que el modelo sea considerado correcto y consistente.
+
 **Principios**
 - **Cardinalidad**: Especificar rangos válidos (ej: `1..*`, `0..1`).
 - **No ciclos**: Prohibidas dependencias circulares entre paquetes.
@@ -86,6 +88,8 @@ class GestorPagos {
 
 ---
 ### **Reglas de Ejecución**
+
+Directrices y restricciones que gobiernan cómo los elementos del modelo interactúan y se comportan durante la simulación o ejecución del sistema que se está modelando.
 
 **Aplicación**
 - **Máquinas de estados**: Transiciones deben tener eventos desencadenantes.

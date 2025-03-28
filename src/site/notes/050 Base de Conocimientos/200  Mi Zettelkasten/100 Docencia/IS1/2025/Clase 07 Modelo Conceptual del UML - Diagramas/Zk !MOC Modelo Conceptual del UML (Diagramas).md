@@ -34,10 +34,10 @@ skinparam linetype ortho
 package "Modelo Conceptual del UML" {
   package "Bloques Básicos de Construccion" as BBC {
     class Elemento {
-      + elemento : tipoElemento
+      + elemento : tiposElemento
     }
     
-    enum tipoElemento {
+    enum TiposElementos {
       Estructural
       Comportamiento
       Agrupación
@@ -45,10 +45,10 @@ package "Modelo Conceptual del UML" {
     }
     
     class Relación {
-      + relación : tipoRelación
+      + relación : tiposRelación
     }
     
-    enum tipoRelación {
+    enum TiposRelaciones {
       Asociación
       Dependencia
       Generalización
@@ -57,10 +57,10 @@ package "Modelo Conceptual del UML" {
     }
     
     class Diagrama {
-      diagrama :tipoDiagrama
+      diagrama :tiposDiagrama
     }
     
-    enum tipoDiagrama {
+    enum TiposDiagramas {
       Clases
       Objetos
       Casos de Uso
@@ -74,14 +74,14 @@ package "Modelo Conceptual del UML" {
     }
     
     <> ElementoRelación
-    Elemento -d-> ElementoRelación:Colabora
-    Relación -d-> ElementoRelación:Colabora
-    ElementoRelación --> Diagrama :Forman
+    Elemento -d-> ElementoRelación :Colabora
+    Relación -d-> ElementoRelación :Colabora
+    ElementoRelación --> Diagrama  :Forman
   
     
-    Elemento "1" *-u- "1..*" tipoElemento
-    Relación "1" *-u- "1..*" tipoRelación
-    Diagrama "1" *-d- "1..*" tipoDiagrama
+    Elemento "1" *-u- "1..*" TiposElementos
+    Relación "1" *-u- "1..*" TiposRelaciones
+    Diagrama "1" *-d- "1..*" TiposDiagramas
   }
   
   package Reglas as pkgReglas {
@@ -89,13 +89,14 @@ package "Modelo Conceptual del UML" {
   	  + regla :tipoRegla
   	}
   	
-  	enum tipoRegla {
-  	  Nomenclatura
-  	  Visibilidad
-  	  Integridad
+  	enum TiposRegla {
+  	  nomenclatura
+  	  alcanceyContexto
+  	  visibilidad
+  	  integridad
   	  ...
   	}
-  	Regla *-d- tipoRegla
+  	Regla *-d- TiposRegla
   }	
   
   package "Mecanismos Comunes" as pkgMC {
@@ -103,19 +104,19 @@ package "Modelo Conceptual del UML" {
   	  + mecanismo :tipoMecanismo
   	}
   	
-  	enum tipoMecanismo {
-  	  Adornos
-  	  Divisiones Comunes
-  	  Extensibilidad
-  	  Especificaciones
+  	enum TipoMecanismo {
+  	  adornos
+  	  divisionesComunes
+  	  extensibilidad
+  	  especificaciones
   	  ...
   	}
   	
-  	"Mecanismos Comunes" *-d- tipoMecanismo
+  	"Mecanismos Comunes" *-d- TipoMecanismo
 	}
 	
-	BBC <--- pkgReglas :Afecta
-	BBC <--- pkgMC :Afecta
+	BBC --- pkgReglas :Afecta
+	BBC --- pkgMC :Afecta
 }
 @enduml
 ```

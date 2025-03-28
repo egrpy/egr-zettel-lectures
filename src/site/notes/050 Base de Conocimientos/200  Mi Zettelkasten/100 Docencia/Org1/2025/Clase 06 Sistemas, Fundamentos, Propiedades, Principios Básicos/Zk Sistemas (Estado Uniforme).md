@@ -4,7 +4,7 @@
 
 ## Estado Uniforme de Sistemas
 
-El **estado uniforme** (o estado estacionario) en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]] se refiere a la condición en la que un sistema mantiene un **equilibrio dinámico** a pesar de intercambiar materia, energía o información con su entorno. Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]], este estado no implica inmovilidad, sino una estabilidad funcional lograda mediante mecanismos de regulación interna.
+El **estado uniforme** (o estado estacionario) en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]] se refiere a la condición en la que un sistema mantiene un [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Sistemas Estables\|equilibrio dinámico]] a pesar de intercambiar materia, energía o información con su entorno. Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]], este estado no implica inmovilidad, sino una estabilidad funcional lograda mediante mecanismos de regulación interna.
 
 ### Características Clave
 

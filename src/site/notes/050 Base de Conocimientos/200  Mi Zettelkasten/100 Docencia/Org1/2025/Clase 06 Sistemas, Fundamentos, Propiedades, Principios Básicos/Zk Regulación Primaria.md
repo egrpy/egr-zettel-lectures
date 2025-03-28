@@ -12,7 +12,7 @@ La **regulación primaria** en la [[050 Base de Conocimientos/200  Mi Zettelka
     
     - Actúa en tiempo real para neutralizar fluctuaciones (ejemplo: termostato que ajusta temperatura).
         
-2. **Retroalimentación negativa** ([[Zk Sistemas (Mecanismos de Retroalimentación Negativa o Morfostadis)\|morfostasis]]):
+2. **Retroalimentación negativa** ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Negativa o Morfostasis)\|morfostasis]]):
     
     - Reduce diferencias entre el estado actual y el deseado.
         

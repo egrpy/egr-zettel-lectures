@@ -90,4 +90,4 @@ En este caso, el bucle de equilibrio (Evaporación >+ Lluvia >+ Almacenamiento d
 
 Cuando la evaporación aumenta, más agua se evapora, lo que eventualmente conduce a más lluvia, que a su vez aumenta el almacenamiento de agua en el suelo. A medida que el suelo se satura, la evaporación disminuye debido a la relación negativa entre el almacenamiento de agua en el suelo y la evaporación.
 
-Por lo tanto, el modelo puede considerarse **estable** porque incluye un bucle de equilibrio que ayuda a mantener el sistema en un estado estable a pesar de las perturbaciones. Sin embargo, la estabilidad real dependerá de los parámetros específicos del sistema, como la intensidad de las relaciones y las condiciones iniciales.
+Por lo tanto, el modelo puede considerarse **estable** porque incluye un bucle de equilibrio que ayuda a mantener el sistema en un [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Sistemas Estables\|estado estable]] a pesar de las perturbaciones. Sin embargo, la estabilidad real dependerá de los parámetros específicos del sistema, como la intensidad de las relaciones y las condiciones iniciales.

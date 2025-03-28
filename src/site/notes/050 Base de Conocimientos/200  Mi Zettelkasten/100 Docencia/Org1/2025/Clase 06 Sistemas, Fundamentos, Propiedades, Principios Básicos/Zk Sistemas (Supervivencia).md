@@ -21,11 +21,11 @@ La **supervivencia** en la T[[050 Base de Conocimientos/200  Mi Zettelkasten/1
 
 ### Mecanismos de Supervivencia
 
-1. **Morfostasis** ([[Zk Sistemas (Mecanismos de Retroalimentación Negativa o Morfostadis)\|Retroalimentación Negativa]]):
+1. **Morfostasis** ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Negativa o Morfostasis)\|Retroalimentación Negativa]]):
     
     - Mantiene el equilibrio interno (ejemplo: homeostasis térmica en mamíferos).
         
-2. **Morfogénesis** ([[Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|Retroalimentación Positiva]]):
+2. **Morfogénesis** ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|Retroalimentación Positiva]]):
     
     - Reconfiguración estructural ante cambios disruptivos (ejemplo: migración empresarial a mercados digitales).
         

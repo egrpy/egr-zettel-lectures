@@ -29,7 +29,7 @@ La **equifinalidad** (o equifinidad) es un principio central de la [[050 Base
 | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------ |
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas (Diferenciación)\|Diferenciación]]                                                      | Permite subsistemas especializados para abordar problemas de formas distintas | Departamentos en una organización          |
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Regulación Secundaria\|Regulación Secundaria]]                                                   | Adaptan la estructura del sistema a nuevas condiciones                        | Cambio de estrategia comercial ante crisis |
-| [[Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|Retroalimentación Positiva]] | Amplifica variaciones que conducen al mismo objetivo                          | Innovación disruptiva en empresas          |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|Retroalimentación Positiva]] | Amplifica variaciones que conducen al mismo objetivo                          | Innovación disruptiva en empresas          |
 
 ### **Ejemplos**
 

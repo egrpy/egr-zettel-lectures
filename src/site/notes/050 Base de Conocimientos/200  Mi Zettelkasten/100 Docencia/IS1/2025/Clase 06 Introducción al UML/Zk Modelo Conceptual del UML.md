@@ -24,10 +24,10 @@ skinparam linetype ortho
 package "Modelo Conceptual del UML" {
   package "Bloques Básicos de Construccion" as BBC {
     class Elemento {
-      + elemento : tipoElemento
+      + elemento : tiposElemento
     }
     
-    enum tipoElemento {
+    enum TiposElementos {
       Estructural
       Comportamiento
       Agrupación
@@ -35,10 +35,10 @@ package "Modelo Conceptual del UML" {
     }
     
     class Relación {
-      + relación : tipoRelación
+      + relación : tiposRelación
     }
     
-    enum tipoRelación {
+    enum TiposRelaciones {
       Asociación
       Dependencia
       Generalización
@@ -47,10 +47,10 @@ package "Modelo Conceptual del UML" {
     }
     
     class Diagrama {
-      diagrama :tipoDiagrama
+      diagrama :tiposDiagrama
     }
     
-    enum tipoDiagrama {
+    enum TiposDiagramas {
       Clases
       Objetos
       Casos de Uso
@@ -64,14 +64,14 @@ package "Modelo Conceptual del UML" {
     }
     
     <> ElementoRelación
-    Elemento -d-> ElementoRelación:Colabora
-    Relación -d-> ElementoRelación:Colabora
-    ElementoRelación --> Diagrama :Forman
+    Elemento -d-> ElementoRelación :Colabora
+    Relación -d-> ElementoRelación :Colabora
+    ElementoRelación --> Diagrama  :Forman
   
     
-    Elemento "1" *-u- "1..*" tipoElemento
-    Relación "1" *-u- "1..*" tipoRelación
-    Diagrama "1" *-d- "1..*" tipoDiagrama
+    Elemento "1" *-u- "1..*" TiposElementos
+    Relación "1" *-u- "1..*" TiposRelaciones
+    Diagrama "1" *-d- "1..*" TiposDiagramas
   }
   
   package Reglas as pkgReglas {
@@ -79,13 +79,14 @@ package "Modelo Conceptual del UML" {
   	  + regla :tipoRegla
   	}
   	
-  	enum tipoRegla {
-  	  Nomenclatura
-  	  Visibilidad
-  	  Integridad
+  	enum TiposRegla {
+  	  nomenclatura
+  	  alcanceyContexto
+  	  visibilidad
+  	  integridad
   	  ...
   	}
-  	Regla *-d- tipoRegla
+  	Regla *-d- TiposRegla
   }	
   
   package "Mecanismos Comunes" as pkgMC {
@@ -93,19 +94,19 @@ package "Modelo Conceptual del UML" {
   	  + mecanismo :tipoMecanismo
   	}
   	
-  	enum tipoMecanismo {
-  	  Adornos
-  	  Divisiones Comunes
-  	  Extensibilidad
-  	  Especificaciones
+  	enum TipoMecanismo {
+  	  adornos
+  	  divisionesComunes
+  	  extensibilidad
+  	  especificaciones
   	  ...
   	}
   	
-  	"Mecanismos Comunes" *-d- tipoMecanismo
+  	"Mecanismos Comunes" *-d- TipoMecanismo
 	}
 	
-	BBC <--- pkgReglas :Afecta
-	BBC <--- pkgMC :Afecta
+	BBC --- pkgReglas :Afecta
+	BBC --- pkgMC :Afecta
 }
 @enduml
 ```
@@ -122,10 +123,10 @@ Los bloques de construcción básicos de UML se dividen en tres categorías:
 ----
 #### Elementos
 
-- **Estructurales**: Representan las partes estáticas de un sistema, como clases, objetos e interfaces.
-- **Comportamiento**: Representan los aspectos dinámicos de un sistema, como interacciones y máquinas de estados.
-- **Agrupación**: Organizan los elementos en grupos, como paquetes.
-- **Anotación**: Proporcionan comentarios y explicaciones, como notas.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Elementos Estructurales)\|Estructurales]]: Representan las partes estáticas de un sistema, como clases, objetos e interfaces.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Elementos de Comportamiento)\|Comportamiento]]: Representan los aspectos dinámicos de un sistema, como interacciones y máquinas de estados.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Elementos de Agrupación)\|Agrupación]]: Organizan los elementos en grupos, como paquetes.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Elementos de Anotación)\|Anotación]]: Proporcionan comentarios y explicaciones, como notas.
 
 ----
 #### Relaciones
@@ -159,18 +160,20 @@ Algunos diagramas comunes:
 
 Las reglas de UML definen cómo se utilizan los Bloques Básicos de Construcción:
 
-- **Nomenclatura**: Establece convenciones para nombrar elementos.
-- **Visibilidad**: Especifica quién puede acceder a los elementos.
-- **Integridad**: Asegura la coherencia y validez del modelo.
-- Etc.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Reglas)#Reglas de Nombres\|Nomenclatura]]: Establece convenciones para nombrar elementos.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Reglas)#Reglas de Visibilidad\|Visibilidad]]: Especifica quién puede acceder a los elementos.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Reglas)#Reglas de Integridad\|Integridad]]: Asegura la coherencia y validez del modelo.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Reglas)#Reglas de Alcance y Contexto\|Alcance y Contexto]]: Determinan el ámbito de validez de un elemento.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Reglas)#**Reglas de Ejecución**\|Ejecución]]: Definen interacción y el comportamiento de elementos durante la simulación o ejecución.
 
 ----
 ### Mecanismos Comunes
 
 Los mecanismos comunes son herramientas que se aplican en todo UML:
 
-- **Especificaciones**: Proporcionan descripciones detalladas de los elementos.
-- **Adornos**: Aportan información adicional a los elementos gráficos.
-- **Extensibilidad**: Permite personalizar y ampliar UML, por ejemplo [[Zk Estereotipos UML\|Estereotipos]].
-- **Divisiones comunes**: Permiten la separación de modelos en diferentes vistas.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Mecanismos Comunes)#Especificaciones\|Especificaciones]]: Proporcionan descripciones detalladas de los elementos.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Mecanismos Comunes)#Adornos\|Adornos]]: Aportan información adicional a los elementos gráficos.
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Mecanismos Comunes)#Mecanismos de Extensibilidad\|Mecanismos de Extensibilidad]]: Permite personalizar y ampliar UML, por ejemplo [[Zk Estereotipos UML\|Estereotipos]].
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Mecanismos Comunes)#Divisiones Comunes\|Divisiones Comunes]]: Permiten la separación de modelos en diferentes vistas.
+
 

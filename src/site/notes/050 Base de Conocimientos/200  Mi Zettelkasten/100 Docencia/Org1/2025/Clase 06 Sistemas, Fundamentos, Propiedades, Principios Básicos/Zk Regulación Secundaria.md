@@ -16,7 +16,7 @@ Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 20
     
     - Actúa cuando las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Regulación Primaria\|regulaciones primarias]] son insuficientes para mantener el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas (Estado Uniforme)\|estado uniforme]].
         
-3. **Retroalimentación positiva** ([[Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|morfogénesis]]):
+3. **Retroalimentación positiva** ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|morfogénesis]]):
     
     - Introduce innovaciones que alteran el equilibrio previo para generar nuevos estados estables.
         
