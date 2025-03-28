@@ -58,8 +58,7 @@ Las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clas
     
 ### El Sistema como una Caja Negra
 
-## Conclusión
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Enfoque de Corrientes de Entrada y Salida)\|enfoque de corriente de entrada y salida]] es una metodología de análisis de sistemas en la cual un sistema es considerado como una **caja negra**. Este enfoque permite estudiar el comportamiento del sistema sin necesidad de conocer su estructura interna [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen, 2013]]).
 
----
 
 
