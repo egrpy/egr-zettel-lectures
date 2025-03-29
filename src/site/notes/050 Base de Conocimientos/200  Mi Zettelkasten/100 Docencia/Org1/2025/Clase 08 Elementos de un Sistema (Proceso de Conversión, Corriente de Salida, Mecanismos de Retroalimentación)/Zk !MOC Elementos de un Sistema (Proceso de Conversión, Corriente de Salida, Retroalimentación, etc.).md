@@ -49,16 +49,65 @@ Los sistemas deben adquirir, comprar, negociar, etc., los recursos necesarios ([
 
 Las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Estrategias de Integración)\|estrategias de integración]], tanto [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Estrategias de Integración Vertical)\|vertical]] como [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Estrategias de Integración Horizontal)\|horizontal]], emergen como mecanismos para facilitar la obtención de estos recursos.
 
-
 #### Leyes y Principios
 
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Ley de la Conservación de la Energía)\|Ley de la Conservación de la Energía]]: Indica que la energía no se crea ni se destruye, solo se transforma.
-    
+
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Principio de Variedad de Ashby)\|Principio de Variedad de Ashby]]: Sugiere que un sistema debe tener variedad para enfrentar la variedad del entorno.
-    
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Ley de los Incrementos)\|Ley de los Incrementos]]: Implica el crecimiento y desarrollo de los sistemas a través de la acumulación de información.
+
 ### El Sistema como una Caja Negra
 
-El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Enfoque de Corrientes de Entrada y Salida)\|enfoque de corriente de entrada y salida]] es una metodología de análisis de sistemas en la cual un sistema es considerado como una **caja negra**. Este enfoque permite estudiar el comportamiento del sistema sin necesidad de conocer su estructura interna [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen, 2013]]).
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Enfoque de Corrientes de Entrada y Salida)\|enfoque de corriente de entrada y salida]] es una estrategia de análisis de sistemas en la cual un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk Sistema - Definición\|sistema]] es considerado como una [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Caja Negra\|caja negra]]. Este enfoque permite estudiar el comportamiento del sistema sin necesidad de conocer su estructura interna [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen, 2013]]).
 
+## Conclusión
+Los elementos de un sistema (corrientes de entrada, proceso de conversión, corrientes de salida y mecanismos de retroalimentación) interactúan dinámicamente para mantener la estabilidad, adaptabilidad y eficiencia del sistema. Estos componentes, respaldados por principios como la **Ley de Conservación de la Energía** y el **Principio de Variedad de Ashby**, permiten analizar sistemas complejos desde el enfoque de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]].
 
+Los sistemas de control y las estrategias de integración (vertical/horizontal) son fundamentales para gestionar recursos escasos y optimizar procesos.
 
+El modelo de **caja negra**, aplicado al análisis de entradas y salidas, simplifica el estudio de sistemas sin requerir conocimiento interno detallado.
+
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+'left to right direction
+skinparam conditionStyle InsideDiamond
+skinparam linetype ortho
+
+ElementosDeSistemas <|-- CorrienteEntrada
+ElementosDeSistemas <|-- CorrienteSalida
+ElementosDeSistemas <|-- ProcesoConversión
+ElementosDeSistemas <|-- Retroalimentacion
+
+CorrienteEntrada o--- Material
+CorrienteEntrada o--- Energia
+CorrienteEntrada o--- Información
+
+CorrienteSalida o--- Material
+CorrienteSalida o--- Energia
+CorrienteSalida o--- Información
+
+Retroalimentacion --> Positiva :Regula
+Retroalimentacion --> Negativa :Regula
+
+ProcesoConversión --> CorrienteEntrada : Utiliza
+ProcesoConversión --> CorrienteSalida : Produce
+
+SistemaDeControl ---> CorrienteEntrada :Interactúa
+SistemaDeControl ---> CorrienteSalida :Interactúa
+SistemaDeControl ---> Retroalimentacion :Acciona
+
+Positiva --> RegulaciónSecundaria : Utiliza
+Negativa --> RegulaciónPrimaria : Utiliza
+
+RegulaciónPrimaria --> ProcesoConversión: Induce Equilibrio
+RegulaciónSecundaria --> ProcesoConversión: Induce Innovaciones
+
+ProcesoConversión --> LeyConservaciónEnergía :Transformacion
+CorrienteEntrada --> PrincipioVariedadAshby :Requiere Variedad
+ProcesoConversión -- LeyIncrementos 
+LeyIncrementos --> Información :Aumenta
+@enduml
+```

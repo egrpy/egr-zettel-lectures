@@ -131,7 +131,7 @@ _Nota: Elaboración propia basada en [[Zk Lit (von Bertalanffy, 1989)\|von Berta
 
 ## **Importancia de la Complejidad**
 
-1. **Adaptabilidad**: Los sistemas complejos pueden reorganizarse ante perturbaciones mediante la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Regulación Secundaria\|regulación secundaria]].
+1. **Adaptabilidad**: Los sistemas complejos pueden reorganizarse ante perturbaciones mediante la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas (Regulación Secundaria)\|regulación secundaria]].
 
 2. **Resiliencia**: La redundancia funcional (ejemplo: especies con roles similares) mitiga riesgos de colapso.
 
