@@ -67,6 +67,8 @@ Los sistemas de control y las estrategias de integración (vertical/horizontal) 
 
 El modelo de **caja negra**, aplicado al análisis de entradas y salidas, simplifica el estudio de sistemas sin requerir conocimiento interno detallado.
 
+**Figura**
+_Mapa Conceptual del los Elementos de un Sistema_
 ```plantuml
 @startuml
 !pragma layout smetana
