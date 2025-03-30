@@ -4,7 +4,6 @@
 
 ## Modelo UML
 
-**Definición**
 Un modelo en UML es una representación abstracta del sistema que se está diseñando o analizando. Incluye múltiples diagramas que, juntos, proporcionan una visión completa del sistema.
 
 **Propósito**
