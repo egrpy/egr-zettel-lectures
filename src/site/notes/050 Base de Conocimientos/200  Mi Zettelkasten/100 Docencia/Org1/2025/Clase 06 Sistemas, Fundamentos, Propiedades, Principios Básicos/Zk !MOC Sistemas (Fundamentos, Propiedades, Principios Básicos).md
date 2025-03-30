@@ -45,7 +45,6 @@ En esta clase, hemos profundizado en la comprensión de los sistemas explorando 
 Las dos clases han cubierto una amplia gama de conceptos fundamentales en la teoría de sistemas. Desde la jerarquía y organización de sistemas hasta la complejidad y los tipos de sistemas, hemos establecido una base sólida para entender cómo los sistemas funcionan y se relacionan entre sí. Estos conocimientos son esenciales para analizar y diseñar sistemas en diversas disciplinas, desde la biología hasta la ingeniería y las ciencias sociales.
 
 
-
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
