@@ -9,6 +9,11 @@
 
 En el análisis del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk Modelo Conceptual del UML\|Modelo Conceptual del UML]], exploramos las características generales del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Modelo Conceptual del UML (Diagrama de Casos de Uso)\|Diagrama de Casos de Uso]]. En esta clase, profundizaremos en su estudio para que, al finalizar las sesiones previstas, puedan interpretar y elaborar diagramas de casos de uso con una aplicación precisa de su semántica y sintaxis.
 
+#### Ejercicio
+
+>[!Todo] [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Ejercicio de Clase 01.1\|Zk Diagrama de Casos de Uso - Ejercicio de Clase 01.1]]
+>Desarrollar el ejercicio.
+
 ----
 ### Desarrollo
 
@@ -25,9 +30,11 @@ Para el caso del Diagrama de Casos de Uso tenemos:
 	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|Actores]]
 	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Sujeto)\|Sujeto (Sistema)]]
 	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Caso de Uso)\|Caso de Uso]]
-	- 
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones\|Relaciones]]
 
+>[!Todo] [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Ejercicio de Clase 01.2\|Zk Diagrama de Casos de Uso - Ejercicio de Clase 01.2]]
+>Desarrollar el ejercicio.
+	
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones\|Relaciones]]
 
 En las siguientes secciones, cada uno de estos elementos y sus relaciones serán explorados en mayor detalle, proporcionando una comprensión completa de su aplicación en el análisis y diseño de sistemas. El diagrama de casos de uso es una herramienta fundamental para comprender los requerimientos funcionales del sistema, y para poder definir el alcance del mismo.
 
