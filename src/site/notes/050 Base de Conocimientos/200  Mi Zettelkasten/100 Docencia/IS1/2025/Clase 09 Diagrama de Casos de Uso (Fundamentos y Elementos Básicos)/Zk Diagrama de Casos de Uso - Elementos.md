@@ -4,7 +4,9 @@
 
 ## Elementos del Diagrama de Casos de Uso
 
-Un **diagrama de casos de uso** es una herramienta fundamental en el modelado de sistemas, que permite visualizar las interacciones entre los actores y el sistema sujeto. Está compuesto por elementos clave que trabajan juntos para describir cómo los actores logran objetivos específicos dentro del sistema ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006, p. 244]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017, sección 18.1]]).
+Un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Modelo Conceptual del UML (Diagrama de Casos de Uso)\|diagrama de casos de uso]] es una herramienta fundamental en el modelado de sistemas, que permite visualizar las interacciones entre los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] y el sistema sujeto. Está compuesto por elementos clave que trabajan juntos para describir cómo los actores logran objetivos específicos dentro del sistema ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006, p. 244]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017, sección 18.1]]).
+
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk UML - Actores - Roles - Equipo de Fútbol\|Zk UML - Actores - Roles - Equipo de Fútbol]]
 
 ### Elementos Fundamentales
 

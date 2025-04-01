@@ -44,7 +44,7 @@ La complejidad en el desarrollo de software puede ser un obstáculo significativ
 
 **Modelado y Análisis Detallado**
 
-El uso de herramientas de modelado, como [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk UML - El Lenguaje Unificado de Modelado\|UML]] (Lenguaje de Modelado Unificado), permite visualizar y analizar el sistema desde múltiples perspectivas. Esta práctica facilita la identificación temprana de áreas de complejidad y la planificación de soluciones adecuadas. Un análisis exhaustivo desde las etapas iniciales del proyecto contribuye a una gestión más eficiente de la complejidad a lo largo del ciclo de vida del software ([Ramirez Chaparro, 2020](https://repository.unad.edu.co/jspui/bitstream/10596/38052/1/cvramirezc.pdf)).
+El uso de herramientas de modelado, como [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk UML - El Lenguaje Unificado de Modelado\|UML]] (Lenguaje de Modelado Unificado), permite visualizar y analizar el sistema desde múltiples perspectivas. Esta práctica facilita la identificación temprana de áreas de complejidad y la planificación de soluciones adecuadas. Un análisis exhaustivo desde las etapas iniciales del proyecto contribuye a una gestión más eficiente de la complejidad a lo largo del ciclo de vida del software ([Ramirez Chaparro, 2020](https://repository.unad.edu.co/jspui/bitstream/10596/38052/1/cvramirezc.pdf)).
 
 **Refactorización y Diseño Modular**
 

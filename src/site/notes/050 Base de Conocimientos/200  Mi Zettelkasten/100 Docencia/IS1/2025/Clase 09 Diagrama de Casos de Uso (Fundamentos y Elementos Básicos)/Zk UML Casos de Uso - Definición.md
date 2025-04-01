@@ -16,7 +16,7 @@ Los actores interactúan con el sistema sin conocer sus detalles internos, solo 
 
 ### Ejemplo Práctico
 
-Un caso de uso como "Realizar un pago" ilustra cómo se aplica esta definición en la práctica, involucrando a actores como clientes y sistemas de pago. Ver otros [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Historia - Un Mapa de Aventuras\|ejemplos ilustrativos]].
+Un caso de uso como "Realizar un pago" ilustra cómo se aplica esta definición en la práctica, involucrando a actores como clientes y sistemas de pago. Ver otros [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Un Mapa de Aventuras\|ejemplos ilustrativos]].
 
 ### Influencia en el Desarrollo
 

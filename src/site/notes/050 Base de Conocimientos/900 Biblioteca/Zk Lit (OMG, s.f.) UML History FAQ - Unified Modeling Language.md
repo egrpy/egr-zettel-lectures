@@ -3,4 +3,4 @@
 ---
 
 ## Referencia
-_UML History FAQ | Unified Modeling Language_. (s. f.). Recuperado 9 de septiembre de 2024, de [https://www.uml.org/uml-history-faq.htm](https://www.uml.org/uml-history-faq.htm)
+OMG. (s. f.). _UML History FAQ | Unified Modeling Language_. Recuperado 9 de septiembre de 2024, de [https://www.uml.org/uml-history-faq.htm](https://www.uml.org/uml-history-faq.htm)

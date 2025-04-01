@@ -4,6 +4,3 @@
 
 ## Referencia
 OMG. (2017). _About the Unified Modeling Language Specification Version 2.5.1_. [https://www.omg.org/spec/UML](https://www.omg.org/spec/UML))
-## Enlaces
-## Documento
-[https://www.omg.org/spec/UML](https://www.omg.org/spec/UML)
