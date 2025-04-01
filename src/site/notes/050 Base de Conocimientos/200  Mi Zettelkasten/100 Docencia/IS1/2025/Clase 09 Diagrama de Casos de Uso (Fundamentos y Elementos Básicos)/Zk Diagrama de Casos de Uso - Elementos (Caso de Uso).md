@@ -6,6 +6,13 @@
 
 Un **caso de uso** es una unidad funcional coherente que describe cómo un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Sujeto)\|sujeto]] (sistema, subsistema o cualquier componente, en el amplio sentido de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 05 Sistemas, Subsistemas, Suprasistemas/Zk Sistema - Definición\|TGS]]), modelado como una [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Caja Negra\|caja negra]], interactúa con uno o más [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] para lograr un objetivo específico. Incluye todas lassecuencias principales, variaciones y excepciones del comportamiento esperado, junto con las respuestas asociadas. Aunque los casos de uso son conceptualmente independientes entre sí, pueden surgir dependencias implícitas debido a objetos compartidos en la implementación ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2000) Booch, G., Rumbaugh, J., y Jacobson, I. (2000). El lenguaje Unificado de Modelado (1a ed.). Addison-Wesley.\|Booch et al. (2006, 246)]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG (2017, sección 18.1)]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2000) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al. (2000, 70)]]).
 
+Un **caso de uso** es una unidad funcional que describe cómo un sistema (modelado como [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Caja Negra\|caja negra]]) interactúa con actores externos para lograr objetivos específicos, bajo los principios de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|TGS]]. Constituye una herramienta fundamental en ingeniería de sistemas para:
+
+- Especificar **qué** debe hacer el sistema (no cómo)
+- Delimitar responsabilidades sistémicas
+- Establecer contratos funcionales con actores
+
+
 ### Características
 
 | Característica            | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -79,23 +86,22 @@ En sistemas sin interfaz gráfica, como APIs o procesos batch, los casos de uso 
 
 #### Ejemplo Práctico: Inscribir a Curso
 
-Un estudiante interactúa con el sistema académico para inscribirse en un curso:
+Un estudiante interactúa con el sistema académico para inscribirse en una asignatura:
 
 - **Actor Principal**:
 	- Estudiante.
 
 - **Precondiciones**:
-	- El estudiante debe estar autenticado.
+	- El estudiante debe estar matriculado
+	- El estudiante debe haber aprobado las asignaturas previas
 
 - **Flujo Principal**:
-    - Seleccionar curso.
-    - Verificar disponibilidad.
+    - Seleccionar asignatura
     - Registrar inscripción.
-    - Confirmar inscripción.
     
 - **Flujos Alternos**:
-    - Si no hay cupos disponibles, ofrecer alternativas.
-    - Si hay conflictos horarios, solicitar nueva selección.
+    - Si hay conflictos horarios, con otras asignaturas, ver Solicitar Reducción de Asistencia si corresponde
+    - Si hay conflictos horarios, con otras asignaturas, ver Seleccionar en otra carrera
 
 - **Postcondiciones**:
 	- Inscripción registrada y visible en el perfil del estudiante.
