@@ -88,8 +88,8 @@ Estudiante2 -u-> UC8 : Rinde final
 UC2 ..> UC9
 UC3 ..> UC4
 UC3 ..> UC9
-UC9 <|.. UC5
-UC9 <|.. UC7
+UC9 <|-- UC5
+UC9 <|-- UC7
 UC5 ..> UC6
 UC7 ..> UC8
 @enduml

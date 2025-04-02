@@ -17,10 +17,12 @@ Se utilizan para modelar la organización y composición del sistema.
 
 **Elementos Incluidos**
 
-- Clases: Representan conceptos abstractos con atributos y métodos.
-- Objetos: Instancias de clases con valores específicos.
-- Componentes: Representan partes del sistema que pueden ser reutilizadas.
-- Nodos: Dispositivos físicos en un sistema.
+| Elemento    | Descripción                                                 |
+| ----------- | ----------------------------------------------------------- |
+| Clases      | Representan conceptos abstractos con atributos y métodos.   |
+| Objetos     | Instancias de clases con valores específicos.               |
+| Componentes | Representan partes del sistema que pueden ser reutilizadas. |
+| Nodos       | Dispositivos físicos en un sistema.                         |
 
 ----
 ### Comportamiento
@@ -31,11 +33,13 @@ Se utilizan para modelar la organización y composición del sistema.
 
 **Elementos Incluidos**
 
-- Actividades: Representan flujos de trabajo.
-- Estados: Indican estados específicos de un objeto.
-- Transiciones: Conectan estados.
-- Secuencias: Muestran la secuencia temporal de mensajes entre objetos.
-- Casos de Uso: Describen interacciones entre actores y el sistema. Si bien el Caso de Uso es un clasificador desde el punto de vista del UML, en este contexto, se incluyen en la categoría de comportamiento porque describen cómo el sistema interactúa con sus usuarios para alcanzar objetivos específicos.
+| Elemento     | Descripción                                                                                                                                                                                                                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Actividades  | Representan flujos de trabajo.                                                                                                                                                                                                                                                                   |
+| Estados      | Indican estados específicos de un objeto.                                                                                                                                                                                                                                                        |
+| Transiciones | Conectan estados.                                                                                                                                                                                                                                                                                |
+| Secuencias   | Muestran la secuencia temporal de mensajes entre objetos.                                                                                                                                                                                                                                        |
+| Casos de Uso | Describen interacciones entre actores y el sistema. Si bien el Caso de Uso es un clasificador desde el punto de vista del UML, en este contexto, se incluyen en la categoría de comportamiento porque describen cómo el sistema interactúa con sus usuarios para alcanzar objetivos específicos. |
 
 ----
 ### Agrupación
@@ -46,7 +50,9 @@ Se utilizan para modelar la organización y composición del sistema.
 
 **Elementos Incluidos**
 
-- Paquetes: Contienen clases u otros paquetes.
+| Elemento | Descripción                        |
+| -------- | ---------------------------------- |
+| Paquetes | Contienen clases u otros paquetes. |
 
 ----
 ### Anotación
@@ -56,8 +62,11 @@ Se utilizan para modelar la organización y composición del sistema.
 | Elementos que proporcionan información adicional sobre el modelo, como notas o comentarios. | Se utilizan para documentar y explicar el modelo. |
 
 **Elementos Incluidos**
-- Notas: Cajas con texto que se conectan a otros elementos.
-- Comentarios: Texto que se coloca cerca de los elementos del modelo.
+
+| Elemento    | Descripción                                            |
+| ----------- | ------------------------------------------------------ |
+| Notas       | Cajas con texto que se conectan a otros elementos.     |
+| Comentarios | Texto que se coloca cerca de los elementos del modelo. |
 
 ----
 ### Cuadro Comparativo
