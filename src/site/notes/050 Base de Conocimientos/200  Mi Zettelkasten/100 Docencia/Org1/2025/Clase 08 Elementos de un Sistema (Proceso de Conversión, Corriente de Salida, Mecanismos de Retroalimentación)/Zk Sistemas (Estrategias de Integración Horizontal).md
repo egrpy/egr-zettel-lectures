@@ -14,3 +14,14 @@ La **integración horizontal** consiste en la expansión de una organización 
 | Automotriz    | Un fabricante de vehículos adquiere otra empresa del mismo sector para fortalecer su capacidad de producción, ampliar su portafolio de modelos y competir globalmente [BBC, 28/03/2010](https://www.bbc.com/mundo/economia/2010/03/100328_volvo_china_geely_crz).                                                                                   |
 | Tecnología    | Una empresa desarrolladora de software compra una compañía rival que ofrece productos similares, con el objetivo de unificar sus tecnologías, atraer a los clientes del competidor y aumentar su cuota de mercado [Abc Color, 28/01/2023](https://www.abc.com.py/tag/software-natura/).                                                             |
 | Alimentación  | Una empresa productora de bebidas adquiere otras marcas similares para diversificar su portafolio y dominar segmentos específicos del mercado [Diario Ultima Hora, 28/03/2007](https://www.ultimahora.com/ambev-absorbe-otra-cervecera-el-brasil-n29753).                                                                                           |
+
+### Beneficios
+
+| Beneficio                   | Descripción                                                                                                                |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Reducción de la Competencia | Al adquirir competidores directos, se disminuye la rivalidad en el mercado.                                                |
+| Economía de Escala          | La integración horizontal permite optimizar recursos y reducir costos operativos.                                          |
+| Mayor Poder de Negociación  | Con un mayor control del mercado, las organizaciones pueden negociar mejores condiciones con proveedores y distribuidores. |
+| Diversificación de Cartera  | Se amplía la oferta de productos o servicios para satisfacer diferentes nichos del mercado.                                |
+
+Esta estrategia es especialmente efectiva cuando las organizaciones buscan consolidarse dentro de un sector específico y aprovechar sinergias operativas o comerciales.
