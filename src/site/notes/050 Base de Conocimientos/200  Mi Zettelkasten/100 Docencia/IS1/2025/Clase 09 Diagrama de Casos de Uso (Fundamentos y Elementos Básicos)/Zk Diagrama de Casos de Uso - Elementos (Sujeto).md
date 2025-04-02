@@ -21,7 +21,7 @@ En un **diagrama de casos de uso**, el **sujeto** (también conocido como el 
 El sujeto se representa mediante un rectángulo que rodea los casos de uso. Esta delimitación ayuda a identificar claramente los límites del sistema y las interacciones con el entorno externo ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006, p. 260]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017, p. 647]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al., 2007, 190]]). 
 
 **Figura**
-_Representación Gráfica del Sujeto Subsistema de Pagos_
+_Representación Gráfica del Sujeto_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -31,18 +31,23 @@ skinparam BackgroundColor LightGray
 left to right direction
 'top to bottom direction
 skinparam linetype ortho
-scale 1.3
 
-actor Actor1
-actor Actor2
+rectangle "Sujeto (Sistema o Subsistema)" as Sujeto {
+  usecase "Caso de Uso 1" as UC1
+  usecase "Caso de Uso 2" as UC2
+  usecase "Caso de Uso 3" as UC3
+}
 
-rectangle "Sujeto" { 
-	Actor1 --> (Caso de Uso 1) :Inicia el CU
-	note bottom of (Caso de Uso 1)
-		Caso de Uso
-	endnote
-	(Caso de Uso 1) -- Actor2
-} 
+actor "Actor Externo 1" as Actor1
+actor "Actor Externo 2" as Actor2
+
+Actor1 --> UC1 : Interacción
+Actor1 --> UC2 : Interacción
+Actor2 --> UC3 : Interacción
+
+UC1 ..> Sujeto : Aspecto del comportamiento
+UC2 ..> Sujeto : Aspecto del comportamiento
+UC3 ..> Sujeto : Aspecto del comportamiento
 
 @enduml
 ```
