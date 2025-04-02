@@ -15,7 +15,7 @@ _Corriente de Entrada_
 
 #### Materiales
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/org1/2025/clase-07-elementos-de-un-sistema-corriente-de-entrada/zk-sistemas-corriente-de-naturaleza-material/#1126d2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -53,7 +53,7 @@ Las corrientes de naturaleza energética representan los **flujos de energía** 
 ----
 #### Información
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/org1/2025/clase-07-elementos-de-un-sistema-corriente-de-entrada/zk-sistemas-corriente-de-naturaleza-informativa/#c3e862" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -78,8 +78,8 @@ Las corrientes de naturaleza informativa son **flujos de datos**, **conocimiento
 
 Las corrientes de entrada son fundamentales para el funcionamiento, objetivos, y adaptabilidad de cualquier sistema. A continuación, se detallan las razones:
 
-1. **Funcionamiento del sistema**: Sin entradas, el sistema no puede operar (ejemplo: un automóvil sin combustible).
-    
-2. **Objetivos del sistema**: Determinan la calidad y cantidad de salidas (ejemplo: una fábrica con insumos de alta calidad produce bienes competitivos).
-    
-3. **Adaptabilidad**: Sistemas con entradas diversificadas, por ejemplo información y energía, son más resilientes a cambios en el entorno. Además, en el contexto de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]], las corrientes de entrada son esenciales para mantener la estabilidad y adaptabilidad del sistema, ya que permiten la interacción efectiva con el entorno y la respuesta a las necesidades externas [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|(Von Bertalanffy, 1989)]].
+| Motivo                     | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Funcionamiento del sistema | Sin entradas, el sistema no puede operar (ejemplo: un automóvil sin combustible).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Objetivos del Sistema      | Determinan la calidad y cantidad de salidas (ejemplo: una fábrica con insumos de alta calidad produce bienes competitivos).                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Adaptabilidad              | Sistemas con entradas diversificadas, por ejemplo información y energía, son más resilientes a cambios en el entorno. Además, en el contexto de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]], las corrientes de entrada son esenciales para mantener la estabilidad y adaptabilidad del sistema, ya que permiten la interacción efectiva con el entorno y la respuesta a las necesidades externas [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|(Von Bertalanffy, 1989)]]. |

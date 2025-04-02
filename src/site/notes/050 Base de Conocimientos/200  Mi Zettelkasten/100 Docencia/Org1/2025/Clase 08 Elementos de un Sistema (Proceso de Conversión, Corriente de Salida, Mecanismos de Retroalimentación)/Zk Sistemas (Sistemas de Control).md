@@ -29,8 +29,6 @@ El sistema de control de un sistema, interactúa con los demás elementos para g
 | Proceso de Conversión | El control del proceso de conversión es crucial para asegurar que las corrientes de salida cumplan con los estándares deseados.        |
 | Corrientes de Salida  | Los sistemas de control ayudan a regular la calidad y cantidad de las corrientes de salida.                                            |
 | Retroalimentación     | La retroalimentación es esencial para que los sistemas de control ajusten su funcionamiento en respuesta a cambios internos o externos |
-Figura
-_Elementos del Sistema y Sistema de Control_
 
 ## Ejemplos
 
