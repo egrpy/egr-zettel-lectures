@@ -15,7 +15,7 @@ Los **actores** en UML son entidades externas que interactúan con el [[050 Ba
 ----
 ### Características
 
- [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al. (2007, 69()]] en su libro Lenguaje Unificado de Modelado: Guía del Usuario, distingue las siguientes características:
+ [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al. (2007, 69)]] en su libro Lenguaje Unificado de Modelado: Guía del Usuario, distingue las siguientes características:
 
 | Caracterísitca            | Descripción                                                                                                                                                                                                                          |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
