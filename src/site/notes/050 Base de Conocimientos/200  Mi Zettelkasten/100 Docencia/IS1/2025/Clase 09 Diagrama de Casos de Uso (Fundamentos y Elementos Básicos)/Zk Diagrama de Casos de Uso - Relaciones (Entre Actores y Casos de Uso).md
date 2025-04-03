@@ -6,7 +6,6 @@
 
 En un diagrama de casos de uso, los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] se relacionan con el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Sujeto)\|sujeto]] a través de las funcionalidades representadas por los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Caso de Uso)\|casos de uso]]. Estas relaciones se modelan mediante **asociaciones**, que indican cómo los actores interactúan o se comunican con los casos de uso ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006, p. 244]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017, sección 18]]). 
 
-
 ### Representación Gráfica
 
 En UML, una asociación entre un actor y un caso de uso se representa como una línea simple que conecta ambos elementos. Esta línea indica que el actor participa en el caso de uso, ya sea iniciándolo o colaborando en su ejecución.
@@ -51,6 +50,10 @@ _Ejemplo de Representación Gráfica de Asociación Entre Actor y Caso de Uso_
 #### Texto
 #### Otro?
 
+
+### Casos de Uso con Varios Actores no Simultáneos
+
+Se refiere al caso en que varios actores pueden usar el caso de uso pero no se requiere que todos estén presentes [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Generalización de Actores para Ejecución de Casos de Uso de Usuarios No Concurrentes\|Generalización de Actores para Ejecución de Casos de Uso de Usuarios No Concurrentes]]
 
 #### Ejemplos
 
