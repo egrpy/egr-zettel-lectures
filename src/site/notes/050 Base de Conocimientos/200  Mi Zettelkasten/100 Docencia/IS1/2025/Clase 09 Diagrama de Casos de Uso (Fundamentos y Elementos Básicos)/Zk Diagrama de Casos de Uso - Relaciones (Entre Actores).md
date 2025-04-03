@@ -50,15 +50,6 @@ _Explicación:_
 
 ### Ejemplo
 
-Supongamos la interacción con un sistema Smart TV como el ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Sujeto)\|sujeto]]). La figura anterior resulta útil para modelar cómo los distintos miembros de una familia interactúan con el sistema según sus respectivos roles.
-
-Tomando como base la la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Actores)#^5fc200\|Estructura Jerárquica de una Familia Tipo]] ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]]), supongamos la interacción con el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Sujeto)\|sujeto]] (Sistema Smart TV), los actores pueden organizarse jerárquicamente para modelar interacciones según roles familiares:
-
-1. **Actor General**: Persona (puede ver contenido básico).
-2. **Actores Especializados**:
-    - _Tutor_: Configura controles parentales y restricciones horarias.
-    - _Niño_: Accede solo a contenido aprobado por el Tutor.
-
 #### Modelado de Roles Familiares en un Sistema Smart TV
 
 Para modelar cómo los miembros de una familia interactúan con un **sistema Smart TV** ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Sujeto)\|sujeto]]), podemos utilizar una jerarquía de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] basada en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Actores)#^5fc200\|Estructura Familiar Tipo]]. Este enfoque refleja roles y responsabilidades específicas.
