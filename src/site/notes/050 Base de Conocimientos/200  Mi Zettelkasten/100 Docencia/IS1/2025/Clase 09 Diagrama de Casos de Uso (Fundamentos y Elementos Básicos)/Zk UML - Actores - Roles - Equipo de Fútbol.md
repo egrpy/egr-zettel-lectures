@@ -3,12 +3,13 @@
 ---
 
 ## Idea Principal
-En el fútbol, un deporte colectivo, el éxito del equipo depende de la colaboración y el esfuerzo conjunto de todos sus jugadores. Cada uno de los 11 jugadores en el campo puede desempeñar distintos roles, como arquero, defensor, mediocampista o atacante, y cada rol conlleva responsabilidades específicas que contribuyen al funcionamiento del equipo.
 
-En el fútbol, un deporte colectivo, el éxito del equipo depende de la colaboración y el esfuerzo conjunto de todos sus jugadores. Cada uno de los 11 jugadores en el campo puede asumir distintos **roles**, como arquero, defensor, mediocampista o atacante. Cada rol conlleva responsabilidades específicas que contribuyen al funcionamiento del equipo y al logro de sus objetivos.
+En el fútbol, un deporte colectivo, el éxito del equipo depende de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en la Teoría General de Sistemas\|colaboración]] y el esfuerzo conjunto de todos sus jugadores. Cada uno de los 11 jugadores en el campo puede asumir distintos [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Rol\|roles]], como arquero, defensor, mediocampista o atacante. Cada rol conlleva responsabilidades específicas que contribuyen al funcionamiento del equipo y al logro de sus objetivos.
 
 **Figura**
-_Actores y Roles en un Equipo de Fútbol_
+_Roles en un Equipo de Fútbol_
+{ #5aa78c}
+
 ```plantuml
 @startuml
 	!pragma layout smetana
@@ -31,6 +32,9 @@ _Actores y Roles en un Equipo de Fútbol_
     atacante --|> jugador
 @enduml
 ```
+{ #aacf7a}
+
+
  
  El concepto de actor y rol en este contexto ilustra que un actor (jugador) puede asumir diferentes roles, y que estos roles pueden compartir o tener habilidades únicas.
  

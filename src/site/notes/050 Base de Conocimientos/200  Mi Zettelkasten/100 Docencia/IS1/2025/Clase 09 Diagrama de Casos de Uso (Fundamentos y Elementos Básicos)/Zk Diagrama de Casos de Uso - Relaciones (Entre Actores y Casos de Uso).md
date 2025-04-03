@@ -90,21 +90,22 @@ _Pago de Cuota de Universidad Vía Boca de Cobranza (Externa)_
 _Pago de Cuota Vía Caja Interna de la Universidad)_
 ```plantuml
 @startuml
-!pragma layout smetana
-	skinparam style strictuml
-	skinparam classAttributeIconSize 0
-	skinparam BackgroundColor LightGray
+  !pragma layout smetana
+  skinparam style strictuml
+  skinparam classAttributeIconSize 0
+  skinparam BackgroundColor LightGray
   left to right direction
-	'top to bottom direction
-	skinparam linetype ortho
+  'top to bottom direction
+  skinparam linetype ortho
 
+  scale 1.5
   rectangle "Sistema Universidad" {
     usecase "Procesar Pago\nen Caja" as UC
   }
-  
+
   actor Estudiante
   actor Cajero
-  
+
   Estudiante --> UC : Paga Cuota
   UC -- Cajero : Registra Pago
 @enduml
