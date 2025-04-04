@@ -4,15 +4,14 @@
 
 ## Ley de los Incrementos
 
-La ley de los incrementos, en el contexto de la gestión de información, se refiere a la idea de que la cantidad total de información en un sistema es la suma de la información existente y la información importada ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]]), como se puede apreciar en fórmula indicada a continuación:
+La ley de los incrementos, se refiere a que la cantidad total de información en un sistema es la suma de la información existente y la información importada ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]]), como se puede apreciar en fórmula indicada a continuación:
 
 **Fórmula**
 _Ley de los Incrementos_
-$$ 
+>[!important]
+>$$ 
 Informaación_{enElSistema} = Energía_{importada} + Energía_{exportada}
 $$
-
-**_Información en el Sistema_** = **_Información Existente_** + **_Información Importada_**
 
 ### Aplicación a la Gestión de Información
 
@@ -28,4 +27,8 @@ $$
 
 ### Importancia
 
-La ley de los incrementos es importante en la gestión de información porque ayuda a los administradores a comprender cómo la cantidad total de información en el sistema cambia con el tiempo. Esto permite planificar mejor la capacidad del sistema, asegurarse de que la información esté organizada y accesible, y tomar decisiones informadas basadas en datos actualizados.
+La **Ley de los Incrementos** es un principio aplicable a la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]] que establece que, cualquier sistema que reciba, procese e integre información relevante para su funcionamiento y entorno puede **mejorar su desempeño, aumentar su adaptabilidad y evolucionar en complejidad**.
+
+Este principio se basa en la idea de que los sistemas **aprenden** cuando acumulan y estructuran información, y **se ajustan**cuando aplican este conocimiento para optimizar su funcionamiento. En sistemas dinámicos, este proceso de retroalimentación permite **reducir la entropía, mejorar la toma de decisiones y fortalecer la resiliencia** ante cambios del entorno.
+
+En términos de **inteligencia de sistemas**, la capacidad de transformar información en conocimiento funcional es clave para la **autoregulación, evolución y sostenibilidad** del sistema en el tiempo.

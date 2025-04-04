@@ -12,8 +12,23 @@ En términos prácticos de aplicación en sistemas complejos, esto implica que l
 
 ### Aspectos Clave
 
-**Variedad interna vs. externa**:
-    
-- La variedad del sistema (elementos, procesos) debe igualar la del entorno (perturbaciones, cambios).
+**Variedad interna vs. externa**: La variedad del sistema (elementos, procesos) debe igualar la del entorno (perturbaciones, cambios, etc.).
 
-- Ejemplo: Empresas con múltiples departamentos (finanzas, logística) gestionan mejor crisis complejas [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2024) Ciencias de la Complejidad - Teoría General de Sistemas, Pensamiento Sistémico y sus Aplicaciones Prácticas en las Ciencias Económicas, Ambientales y Sociales\|García (2024, p. 89)]].
+### Ejemplos
+
+Este principio resalta la necesidad de adaptabilidad y equilibrio en sistemas abiertos. A continuación, se presentan ejemplos de su aplicación:
+
+**Gestión Organizacional**
+
+En el contexto empresarial, la TGS propone que las organizaciones deben desarrollar estructuras internas con variedad suficiente para responder a cambios externos. Por ejemplo, una empresa que enfrenta fluctuaciones en la demanda de sus productos podría implementar:
+
+- Subsistemas flexibles de producción. 
+- Mecanismos de retroalimentación con análisis de datos de mercado.
+
+**Sistemas de Información Interdisciplinarios**
+
+Los proyectos de sistemas de información, requieren integrar conocimientos de ingeniería, psicología,  comunicaciones, etc. Para gestionar la diversidad de datos y necesidades de usuarios.
+
+**Empresas con Áreas Especializadas**
+
+Empresas con múltiples departamentos (finanzas, logística, etc.) gestionan mejor crisis complejas [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2024) Ciencias de la Complejidad - Teoría General de Sistemas, Pensamiento Sistémico y sus Aplicaciones Prácticas en las Ciencias Económicas, Ambientales y Sociales\|García (2024, p. 89)]].
