@@ -8,7 +8,7 @@ La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase
 
 #### Representación Gráfica
 
-La cardinalidad se indica mediante [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk UML - Multiplicidad\|multiplicidades]] en la asociación entre un  [[Zk Diagrama de Casos de Uso - Elementos (Actor)\|actor]] y un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Caso de Uso)\|caso de uso]]:
+La cardinalidad se indica mediante [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk UML - Multiplicidad\|multiplicidades]] en la asociación entre un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actor]] y un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Caso de Uso)\|caso de uso]]:
 
 | Multiplicidad en           | Ejemplo                                                                                           |
 | -------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ _Notación UML de la Cardinalidad_
 
 ##### Multiplicidad en el Extremo del Actor
 
-Cuando un caso de uso está asociado a un actor con multiplicidad mayor a `1`, significa que **múltiples instancias del actor pueden participar simultáneamente** en la misma ejecución del caso de uso. La interacción exacta depende del contexto:
+Cuando un caso de uso está asociado a un actor con [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk UML - Multiplicidad\|multiplicidades]] mayor a `1`, significa que **múltiples instancias del actor pueden participar simultáneamente** en la misma ejecución del caso de uso. La interacción exacta depende del contexto:
 
 Figura
 _Cardinalidad del Lado del Actor_
@@ -73,7 +73,7 @@ _Cardinalidad del Lado del Actor_
 
 ##### Multiplicidad en el Extremo del Caso de Uso
 
-Cuando un actor tiene multiplicidad mayor a `1` en el extremo del caso de uso, significa que **una instancia del actor puede participar en múltiples ejecuciones del mismo caso de uso**.
+Cuando un actor tiene [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk UML - Multiplicidad\|multiplicidades]] mayor a `1` en el extremo del caso de uso, significa que **una instancia del actor puede participar en múltiples ejecuciones del mismo caso de uso**.
 
 Figura
 _Cardinalidad del Lado del Caso de Uso_
