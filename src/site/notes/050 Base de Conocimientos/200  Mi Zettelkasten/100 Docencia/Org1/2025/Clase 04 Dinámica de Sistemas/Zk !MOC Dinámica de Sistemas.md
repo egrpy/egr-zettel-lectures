@@ -37,5 +37,8 @@ Ahora, profundicemos en el modelo del [[050 Base de Conocimientos/200  Mi Zettel
 Versión Original: [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V1\|Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua]]
 Versión Nueva: [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) V2 con Nueva Variable\|Diagrama de Bucle Causal (Ejemplo del Ciclo de Vida del Agua) con una Nueva Variable]]
 
+### Otros ejemplos
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Diagrama de Bucle Causal (Ejemplo de Dinámica Causal de la Resistencia a la Insulina y el Metabolismo)\|Dinámica Causal de la Resistencia a la Insulina y el Metabolismo]]
+
 ## Herramientas para Modelado
 [[050 Base de Conocimientos/200  Mi Zettelkasten/010 Informática/Zk Software para Modelado  de Dinámica de Sistemas\|Software para Modelado  de Dinámica de Sistemas]]
