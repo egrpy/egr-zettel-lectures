@@ -3,7 +3,7 @@
 ---
 
 ## Explicación
-El [[050 Base de Conocimientos/200  Mi Zettelkasten/030 El Sistema Zettelkasten/Zk ("Zettelkasten", 2024)\|Zettelkasten]] facilita la redacción de ensayos, conferencias y documentos al organizar ideas, argumentos, citas y referencias en notas atómicas interconectadas. Este sistema, que construye una red de conocimiento, permite aplicar estas ideas en diversos contextos y proyectos [[050 Base de Conocimientos/200  Mi Zettelkasten/030 El Sistema Zettelkasten/Zk Lit (Ahrens, 2020) El Método Zettelkasten, Cómo tomar notas de forma eficaz para impulsar la escritura y el aprendizaje de estudiantes, académicos y escritores de no ficción\|(Ahrens, 2020)]].
+El [[050 Base de Conocimientos/200  Mi Zettelkasten/030 El Sistema Zettelkasten/Zk ("Zettelkasten", 2024)\|Zettelkasten]] facilita la redacción de ensayos, conferencias y documentos al organizar ideas, argumentos, citas y referencias en notas atómicas interconectadas. Este sistema, que construye una red de conocimiento, permite aplicar estas ideas en diversos contextos y proyectos [[050 Base de Conocimientos/200  Mi Zettelkasten/030 El Sistema Zettelkasten/Zk (Ahrens, 2020) El Método Zettelkasten, Cómo tomar notas de forma eficaz para impulsar la escritura y el aprendizaje de estudiantes, académicos y escritores de no ficción\|(Ahrens, 2020)]].
 
 **Pasos:**
 

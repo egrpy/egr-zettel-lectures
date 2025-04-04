@@ -8,8 +8,8 @@ La **ley de la conservación de la energía** establece que la cantidad total de
 
 **Fórmula**
 _Ley de la Conservación de la Energía_
-
-$$ 
+>[!important]
+>$$ 
 Energía_{total} = Energía_{importada} - Energía_{exportada}
 $$
 
