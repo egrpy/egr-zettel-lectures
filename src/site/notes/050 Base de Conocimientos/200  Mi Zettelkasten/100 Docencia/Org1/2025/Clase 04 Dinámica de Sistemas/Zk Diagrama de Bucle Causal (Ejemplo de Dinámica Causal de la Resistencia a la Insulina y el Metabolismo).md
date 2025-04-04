@@ -28,7 +28,7 @@ Fuente: [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Suarez, F., 2015). Di
     - Más energía disponible puede aumentar el metabolismo.
         
 
-#### 2. Los Bucles Causales
+#### 2. Bucles Causales del Diagrama
 
 El diagrama presenta tres **bucles de refuerzo (bucles positivos)**, lo que indica que el sistema descrito está dominado por **dinámicas de crecimiento o deterioro progresivo**.
 
