@@ -29,6 +29,6 @@ $$
 
 La **Ley de los Incrementos** es un principio aplicable a la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]] que establece que, cualquier sistema que reciba, procese e integre información relevante para su funcionamiento y entorno puede **mejorar su desempeño, aumentar su adaptabilidad y evolucionar en complejidad**.
 
-Este principio se basa en la idea de que los sistemas **aprenden** cuando acumulan y estructuran información, y **se ajustan**cuando aplican este conocimiento para optimizar su funcionamiento. En sistemas dinámicos, este proceso de retroalimentación permite **reducir la entropía, mejorar la toma de decisiones y fortalecer la resiliencia** ante cambios del entorno.
+Este principio se basa en la idea de que los sistemas **aprenden** cuando acumulan y estructuran información, y **se ajustan**cuando aplican este conocimiento para optimizar su funcionamiento. En sistemas dinámicos, este proceso de retroalimentación permite **reducir la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]], mejorar la toma de decisiones y fortalecer la resiliencia** ante cambios del entorno.
 
 En términos de **inteligencia de sistemas**, la capacidad de transformar información en conocimiento funcional es clave para la **autoregulación, evolución y sostenibilidad** del sistema en el tiempo.
