@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Actores)/","tags":["digitalGarden","diagramaCasosDeUso","relaciones"]}
 ---
 
-## Diagrama de Casos de Uso - Relaciones (Entre Actores)
+## Diagrama de Casos de Uso - Relaciones Entre Actores
 
-En UML, la única relación admitida entre [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] es la **generalización** (herencia), que permite modelar roles especializados que heredan características de un rol más general. Esta relación refleja cómo actores específicos comparten comportamientos comunes mientras añaden funcionalidades únicas ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006, p. 244]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017, p. 647]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al., 2007, 69]]). 
+En UML, la única relación admitida entre [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] es la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk Modelo Conceptual del UML (Relaciones)#Generalización\|generalización]] (herencia), que permite modelar roles especializados que heredan características de un rol más general. Esta relación refleja cómo actores específicos comparten comportamientos comunes mientras añaden funcionalidades únicas ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006, p. 244]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017, p. 647]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al., 2007, 69]]). 
 
 ### Características Clave
 
@@ -27,7 +27,7 @@ left to right direction
 'top to bottom direction
 skinparam linetype ortho
 
-scale 1.5
+scale 1.3
 actor Persona
 actor Padre
 actor Madre
@@ -50,9 +50,9 @@ _Explicación:_
 
 ### Ejemplo
 
-1. Modelado de Roles Familiares en un Sistema Smart TV
+1. Modelado de Roles en el entorno de una familia tipo para en un sujeto (Sistema Smart TV)
 
-	Para modelar cómo los miembros de una familia interactúan con un **sistema Smart TV** ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Sujeto)\|sujeto]]), podemos utilizar una jerarquía de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] basada en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Actores)#^5fc200\|Estructura Familiar Tipo]]. Este enfoque refleja roles y responsabilidades específicas.
+	Para modelar cómo los miembros de una familia interactúan con un **sSstema Smart TV** ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Sujeto)\|sujeto]]), podemos utilizar una jerarquía de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] basada en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Actores)#^5fc200\|Estructura Familiar Tipo]]. Este enfoque refleja roles y responsabilidades específicas.
 
 	**Jerarquía de Actores**
 	
@@ -64,7 +64,7 @@ _Explicación:_
 	    
 	    - **Tutor**: Configura controles parentales, restricciones horarias y define políticas de acceso (ejemplo: bloquear contenido inapropiado).
 	        
-	    - **Niño**: Accede únicamente a contenido aprobado por el Tutor y no puede modificar configuraciones del sistema.
+	    - **Hijo**: Accede únicamente a contenido aprobado por el Tutor y no puede modificar configuraciones del sistema.
 
 2. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk UML - Actores - Roles - Equipo de Fútbol\|Actores y Roles en un Equipo de Fútbol]]
 

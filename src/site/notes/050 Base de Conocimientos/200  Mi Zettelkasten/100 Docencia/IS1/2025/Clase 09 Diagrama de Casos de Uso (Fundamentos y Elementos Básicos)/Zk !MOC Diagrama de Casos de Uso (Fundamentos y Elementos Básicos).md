@@ -67,18 +67,18 @@ Cada elemento desempeña un papel fundamental en la captura de requisitos funcio
 
 ##### Relaciones
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/is-1/2025/clase-09-diagrama-de-casos-de-uso-fundamentos-y-elementos-basicos/zk-diagrama-de-casos-de-uso-relaciones/#diagrama-de-casos-de-uso-relaciones" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 ## Diagrama de Casos de Uso - Relaciones
 
-Las relaciones crean conexiones entre los elementos del diagrama, proporcionando coherencia y significado al conjunto. En el contexto del Diagrama de Casos de Uso se pueden distinguir las siguientes relaciones entre los elementos:
+Las relaciones crean conexiones entre los elementos del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagrama UML - Definición\|diagrama]], proporcionando coherencia y significado al conjunto. En el contexto del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Modelo Conceptual del UML (Diagrama de Casos de Uso)\|Diagrama de Casos de Uso]] se pueden distinguir las siguientes relaciones entre los elementos:
 
 >[!Tip] Relaciones
 >- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Actores)\|Entre Actores]]
 >- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Actores y Casos de Uso)\|Entre Actores y Casos de Uso]]
->- [[Zk Diagrama de Casos de Uso - Relaciones (Entre Casos de Uso)\|Entre Casos de Uso]]
+>- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Casos de Uso)\|Entre Casos de Uso]]
 
 
 
