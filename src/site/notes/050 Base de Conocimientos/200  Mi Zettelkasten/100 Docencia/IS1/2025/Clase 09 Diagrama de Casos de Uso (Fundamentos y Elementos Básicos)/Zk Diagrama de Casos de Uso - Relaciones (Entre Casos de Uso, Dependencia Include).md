@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Casos de Uso, Dependencia Include)/","tags":["digitalGarden","diagramaCasosDeUso","relaciones"]}
 ---
 
-## Relación de Dependencia `<<include>>` del Diagrama de Casos de Uso
+## Relación de Dependencia include del Diagrama de Casos de Uso
 
 La relación `<<include>>`, es una dependencia que indica que un caso de uso base **requiere obligatoriamente** la ejecución de otro caso de uso incluido para completar su flujo principal. Esta relación se utiliza para evitar duplicar funcionalidades comunes en múltiples casos de uso, promoviendo la reutilización y la modularidad ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006, capítulos 17 y 18]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017, sección 18]]). 
 
@@ -55,5 +55,5 @@ _Nota:_
 | Evitar ciclos                            | `A .> B` y `B .> C`                   | `A .> B` y `B .> A` (ciclo infinito)                               |
 | Mantener nombres descriptivos            | `<<include>>` con etiquetas claras    | `<<incl>>` (abreviación ambigua)                                   |
 
-### Comparación de Relaciones de Dependencia `<<include>>` y `<<extend>>`
+### Comparación de Relaciones de Dependencia include y extend
 Ver [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones (Entre Casos de Uso, Comparación de Dependencias include y extend)\|Comparación de Dependencias include y extend]]
