@@ -8,3 +8,5 @@
 | -------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
 | Obligatoriedad | El caso incluido es obligatorio.                         | El caso extendido es opcional/condicional.                   |
 | Dirección      | El caso base depende del incluido (base apunta incluído) | El caso extendido depende del base (extendido apunta a base) |
+| Ejemplo        | `Realizar Reserva .> Validar Usuario :<<include>>`       | `Aplicar Descuento .> Realizar :<<extend>>`                  |
+| **Ejemplo**    | `Aplicar Descuento .> Realizar Compra`                   | `Realizar Reserva .> Validar Usuario`                        |

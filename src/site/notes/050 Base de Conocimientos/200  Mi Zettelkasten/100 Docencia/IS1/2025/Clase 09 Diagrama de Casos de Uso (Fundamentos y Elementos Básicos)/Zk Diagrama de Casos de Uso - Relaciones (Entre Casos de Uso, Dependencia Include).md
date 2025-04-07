@@ -20,6 +20,8 @@ La relación `<<include>>` es esencial para modelar dependencias obligatorias 
 
 Se representa mediante una línea punteada con una flecha abierta, etiquetada con `<<include>>`, desde el caso base al caso incluido.
 
+Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Caso de Uso, Punto de Inclusión)\|puntos de inclusión]] se documentan en la especificación textual del caso base.
+
 #### Ejemplo
 **Figura**
 _Ejemplo de Relación de Dependencia `<<include>>`_
@@ -43,7 +45,7 @@ _Ejemplo de Relación de Dependencia `<<include>>`_
 _Nota:_
 - Caso de Uso Base: `(Realizar Reserva)`
 - Caso de Uso Incluido: `(Validar Usuario)`
-- El caso de uso `(Validar Usuario)` es incluido de manera obligatoria por `(Realizar Reserva)` en un punto específico de su secuencia llamado [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Caso de Uso, Punto de Inclusión)\|punto de inclusión]].
+- El caso de uso `(Validar Usuario)` es incluido de manera obligatoria por `(Realizar Reserva)` en puntos específicos de su secuencia llamado [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Caso de Uso, Punto de Inclusión)\|punto de inclusión]].
 
 ### Reglas y Buenas Prácticas
 
