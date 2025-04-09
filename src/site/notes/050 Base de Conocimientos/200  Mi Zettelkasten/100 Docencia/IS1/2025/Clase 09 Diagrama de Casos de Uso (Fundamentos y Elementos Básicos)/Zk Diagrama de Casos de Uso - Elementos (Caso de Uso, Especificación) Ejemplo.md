@@ -39,11 +39,14 @@ _Nota:_ En el ejemplo se incluyen otros casos de uso con la finalidad de mostrar
 
 #### Identificación
 - **Nombre:** Inscribir a Asignatura
-- **Actor(es):** Estudiante (primario)
-- **Precondiciones:**
-    - El estudiante debe estar registrado en el sistema académico.
-    - El período de inscripción debe estar abierto.
-    - El estudiante debe cumplir con los requisitos previos de la asignatura.
+
+#### Actor(es)
+- Estudiante (primario)
+
+#### Precondiciones
+- El estudiante debe estar registrado en el sistema académico.
+- El período de inscripción debe estar abierto.
+- El estudiante debe cumplir con los requisitos previos de la asignatura.
 
 #### Escenario
 - El estudiante no cuenta con beca

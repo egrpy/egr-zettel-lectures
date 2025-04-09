@@ -32,17 +32,12 @@ Este enfoque permite comprender cómo los actores, casos de uso y el sistema suj
 
 ##### Elementos
 
-Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos\|Elementos del Diagrama de Casos de Uso]] son:
+Los Elementos del Diagrama de Casos de Uso son:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/is-1/2025/clase-09-diagrama-de-casos-de-uso-fundamentos-y-elementos-basicos/zk-diagrama-de-casos-de-uso-elementos/#b18946" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050-base-de-conocimientos/200-mi-zettelkasten/100-docencia/is-1/2025/clase-09-diagrama-de-casos-de-uso-fundamentos-y-elementos-basicos/zk-diagrama-de-casos-de-uso-elementos/#elementos-fundamentales" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
-
-
-## Elementos del Diagrama de Casos de Uso
-
-Un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Modelo Conceptual del UML (Diagrama de Casos de Uso)\|diagrama de casos de uso]] es una herramienta fundamental en el modelado de sistemas, que permite visualizar las interacciones entre los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] y el sistema sujeto. Está compuesto por elementos que trabajan juntos para describir cómo los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Actores)\|actores]] desde fuera, logran objetivos específicos dentro del sistema ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006, p. 244, 246, 261]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017, sección 18.1]]).
 
 ### Elementos Fundamentales
 
@@ -53,10 +48,6 @@ Un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Elementos (Caso de Uso)\|Casos de Uso]] | Describen las funcionalidades del sistema desde la perspectiva del actor, incluyendo los resultados esperados (objetivos) [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al., 2007, 70)]].                                                                                                                                                                                                                                                                                        | ![umlUseCase.png](/img/user/050%20Base%20de%20Conocimientos/200%20%20Mi%20Zettelkasten/100%20Docencia/IS1/2025/Clase%2009%20Diagrama%20de%20Casos%20de%20Uso%20(Fundamentos%20y%20Elementos%20B%C3%A1sicos)/000%20Adjuntos/umlUseCase.png)<br> |
 
 _Nota:_ A parte de los elementos, para formar diagramas son necesarias las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos y Elementos Básicos)/Zk Diagrama de Casos de Uso - Relaciones\|relaciones]].
-
-### Propósito de los Elementos
-
-Cada elemento desempeña un papel fundamental en la captura de requisitos funcionales y en la definición del comportamiento esperado del sistema. Los diagramas de casos de uso permiten delimitar con claridad los límites del sistema y las interacciones con su entorno externo [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|(Booch et al., 2006, capítulos 17 y 18)]].
 
 
 </div></div>
@@ -108,3 +99,109 @@ Campderrich, Falgueras, Benet. Ingeniería del software, Editorial UOC, 2003. Pr
 Central, [https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3206903](https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3206903).
 
 Casas, Roma, Jordi, and i Caralt,Jordi Conesa. Diseño conceptual de bases de datos en UML, Editorial UOC, 2014. ProQuest Ebook Central, [https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3222912](https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3222912).
+
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam classAttributeIconSize 0
+skinparam BackgroundColor LightGray
+skinparam linetype ortho
+
+class DiagramaCasosdeUso {}
+
+class Elemento {
+  + tipo : TipoElemento
+}
+
+enum TipoElemento {
+  Actor
+  CasodeUso
+  Sujeto
+}
+
+
+class EspecificacionTextual {
+  + nombre :string
+  + actores: string
+  + preCondiciones :string
+  + escenario :string
+  + flujoPrincipal :list<string>
+}
+
+class FlujoAlternativo {
+  + identificador : string
+  + pasos : list<string>
+}
+
+class Excepcion {
+  + identificador : string
+  + excepcion : string
+}
+
+class PosCondicion {
+  + identificador : string
+  + posCondición : string
+}
+
+class Relacion {
+  + tipo : TipoRelacion
+  + origen : Elemento
+  + destino : Elemento
+}
+
+enum TipoRelación {
+  Asociacion
+  DependenciaExtend
+  DependenciaInclude
+  GeneralizacionActores
+  GeneralizacionCasosdeUso
+}
+
+DiagramaCasosdeUso *-- "0..*" Elemento : contiene
+DiagramaCasosdeUso *-- "0..*" Relacion : contiene
+
+Relacion --> Elemento : origen
+Relacion --> Elemento : destino
+
+Elemento --> TipoElemento : tipo de
+Relacion --> TipoRelación : tipo de
+
+EspecificacionTextual *-- "0..*" FlujoAlternativo
+EspecificacionTextual *-- "0..*" PosCondicion
+EspecificacionTextual *-- "0..*" Excepcion
+
+Elemento "0..1" --> "0..1" EspecificacionTextual
+note on link
+  {solo si elemento.tipo = CasodeUso}
+end note
+
+' Restricciones actualizadas
+note as Restriccion
+  **Reglas de relaciones:**
+  1. **Asociación**: 
+     - Actor, Caso de Uso.
+     - Admite Multiplicidad
+  
+  2. **[[Zk Diagrama de Casos de Uso - Relaciones (Entre Casos de Uso, Dependencia Include)|Dependencia include]]**:
+     - CasodeUso, CasodeUso.
+     - Ejecución obligatoria en el punto de inclusión.
+     - Dirección: Caso base → Caso incluido.
+  
+  3. **Dependencia <<extend>>**:
+     - CasodeUso, CasodeUso.
+     - Ejecución **opcional** (condicionada).
+     - Dirección: Caso base ← Caso que extiende.
+  
+  4. **Generalización entre Actores**:
+     - Actor, Actor
+     
+  5. **Generalización entre Casos de Uso**:
+     - CasodeUso, CasodeUso
+end note
+
+Relacion .r. Restriccion : <<constraint>>
+
+@enduml
+
+```
