@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 12 Diagrama de Casos de Uso (Caso Práctico)/Sistema de Biblioteca/30 Captura de Requerimientos/Zk Ejemplo Sistema de Biblioteca (Lista de Requerimientos del Sistema)/","tags":["digitalGarden","sistema","UML","diagramaCasosDeUso"]}
+---
+
+## Lista de Requerimientos del Sistema
+
+### Requerimientos Funcionales (RF)
+
+1. **RF001:** Buscar libros por título, autor o categoría.
+2. **RF002:** Realizar préstamos de libros disponibles.
+3. **RF003:** Devolver libros prestados.
+4. **RF004:** Administrar catálogo (agregar/modificar/eliminar).
+5. **RF005:** Generar recibo digital para préstamos/devoluciones.
+6. **RF006:** Consultar historial de préstamos.
+7. **RF007:** Gestionar usuarios (crear/modificar/eliminar).
+8. **RF008:** Renovar préstamos bajo condiciones específicas.
+
+----
+### Requerimientos No Funcionales (RNF)
+
+1. **RNF001:** Interfaz intuitiva y fácil de usar.
+2. **RNF002:** Soporte para 500 usuarios concurrentes.
+3. **RNF003:** Base de datos MySQL.
+4. **RNF004:** Manejo de roles (estudiantes / investigadores).
+
+----
+### Requerimientos del Dominio o Restricciones
+
+1. **RD001:** Accesible desde Chrome/Firefox.
+2. **RD002:** Tiempo de respuesta ≤3 segundos en búsquedas.
+
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 12 Diagrama de Casos de Uso (Caso Práctico)/Sistema de Biblioteca/40 Análisis de Requerimientos/Zk Ejemplo Sistema de Biblioteca (Matriz Requerimientos vs Casos de Uso)\|Zk Ejemplo Sistema de Biblioteca (Matriz Requerimientos vs Casos de Uso)]]
