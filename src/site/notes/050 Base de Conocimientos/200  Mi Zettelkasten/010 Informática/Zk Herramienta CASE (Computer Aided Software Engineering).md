@@ -25,6 +25,7 @@ Entre los beneficios de utilizar herramientas CASE se incluyen ([Burkhard y Jens
 - **Mejora en la calidad del software**: mediante la estandarización de procesos y documentación .
 - **Facilitación de la colaboración**: al proporcionar un entorno común para desarrolladores, analistas y otros stakeholders.​
 
+----
 ### Ejemplo de Herramientas CASE de Pago
 
 | Nombre               | Fabricante      | Diagramas UML Soportados | Etapas del SDLC Soportadas         | Curva de Aprendizaje | Tipo de Licencia |
@@ -35,16 +36,18 @@ Entre los beneficios de utilizar herramientas CASE se incluyen ([Burkhard y Jens
 | IBM Rational Rose    | IBM             |          Todos           | Análisis, Diseño, Implementación   |         Alta         |    Comercial     |
 | MagicDraw            | No Magic        |          Todos           | Requisitos, Diseño, Implementación |         Alta         |    Comercial     |
 
+----
 ### Ejemplo de Herramientas CASE de Código Abierto
 
 | Nombre   | Fabricante         | Diagramas UML Soportados | Etapas del SDLC Soportadas         | Curva de Aprendizaje | Tipo de Licencia |
 | -------- | ------------------ | :----------------------: | ---------------------------------- | :------------------: | :--------------: |
 | Modelio  | Modeliosoft        |       UML 2, BPMN        | Requisitos, Diseño, Implementación |        Media         |       GPL        |
-| ArgoUML  | Tigris.org         |         UML 1.4          | Diseño                             |        Media         |       BSD        |
+| ArgoUML  | Tigris             |         UML 1.4          | Diseño                             |        Media         |       BSD        |
 | StarUML  | MKLab              |          UML 2           | Diseño, Implementación             |        Media         |       GPL        |
 | Umbrello | KDE                |          UML 2           | Diseño                             |         Baja         |       GPL        |
 | Papyrus  | Eclipse Foundation |          UML 2           | Requisitos, Diseño                 |         Alta         |       EPL        |
 
+----
 ### Herramientas No CASE con Soporte UML y Otros Modelos
 
 Existen herramientas que, aunque no se consideran CASE en sentido estricto, permiten la creación de diagramas UML y otros modelos utilizados en la ingeniería del software. Estas se dividen en:​
@@ -54,6 +57,7 @@ Existen herramientas que, aunque no se consideran CASE en sentido estricto, perm
 
 Estas herramientas son útiles para la documentación y comunicación de diseños, pero no ofrecen funcionalidades completas de ingeniería de software como las herramientas CASE.​
 
+----
 ## Top 5 Herramientas No CASE (Graficadores)
 
 | Nombre                                         | Fabricante      | Diagramas UML Soportados                        | Curva de Aprendizaje | Tipo de Graficador | Tipo de Licencia |
@@ -64,6 +68,7 @@ Estas herramientas son útiles para la documentación y comunicación de diseño
 | [Mermaid](https://mermaid.js.org)              | Knut Sveidqvist | Clase, Secuencia, etc.                          |        Media         |  Basado en Texto   |       MIT        |
 | [yEd](https://www.yworks.com/products/yed)     | yWorks          | Clase, Actividad                                |         Baja         |       Visual       |      Libre       |
 
+----
 ### Cuadro Comparativo: Herramientas CASE vs. Graficadores
 
 | Característica            | Herramientas CASE | Graficadores  |
