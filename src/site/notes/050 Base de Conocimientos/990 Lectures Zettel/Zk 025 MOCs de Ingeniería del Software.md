@@ -13,7 +13,8 @@ Clase 06 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/
 Clase 07 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk !MOC Modelo Conceptual del UML (Diagramas)\|Modelo Conceptual del UML (Diagramas)]]
 Clase 08 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk !MOC Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes\|Modelo Conceptual del UML (Elementos, Relaciones, Reglas y Mecanismos Comunes)]]
 Clase 09 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)/Zk !MOC Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)\|Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)]]
-Clase 12 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 12 Diagrama de Casos de Uso (Caso Práctico)/Zk !MOC Diagrama de Casos de Uso (Aplicaciones 1)\|Zk !MOC Diagrama de Casos de Uso (Aplicaciones 1)]]
+Clase 12 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 12 Diagrama de Casos de Uso (Caso Práctico)/Zk !MOC Diagrama de Casos de Uso (Ejemplos)\|Diagrama de Casos de Uso (Ejemplos)]]
+
 
 
 

@@ -6,6 +6,8 @@
 
 ### Requerimientos Funcionales (RF)
 
+El sistema debe permitir:
+
 1. **RF001:** Buscar libros por título, autor o categoría.
 2. **RF002:** Realizar préstamos de libros disponibles.
 3. **RF003:** Devolver libros prestados.
@@ -18,15 +20,15 @@
 ----
 ### Requerimientos No Funcionales (RNF)
 
+El sistema debe cumplir con:
+
 1. **RNF001:** Interfaz intuitiva y fácil de usar.
 2. **RNF002:** Soporte para 500 usuarios concurrentes.
-3. **RNF003:** Base de datos MySQL.
-4. **RNF004:** Manejo de roles (estudiantes / investigadores).
+3. **RNF003:** Base de datos relacional.
+4. **RNF004:** Manejo de roles (estudiante / investigador / bibliotecario).
 
 ----
 ### Requerimientos del Dominio o Restricciones
 
 1. **RD001:** Accesible desde Chrome/Firefox.
-2. **RD002:** Tiempo de respuesta ≤3 segundos en búsquedas.
-
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 12 Diagrama de Casos de Uso (Caso Práctico)/Sistema de Biblioteca/40 Análisis de Requerimientos/Zk Ejemplo Sistema de Biblioteca (Matriz Requerimientos vs Casos de Uso)\|Zk Ejemplo Sistema de Biblioteca (Matriz Requerimientos vs Casos de Uso)]]
+2. **RD002:** Tiempo de respuesta ≤ 3 segundos en búsquedas.

@@ -29,7 +29,8 @@ _Matriz [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/C
 | **Administrar Catálogo** |       |       |       |   X   |       |       |       |       |   X    |   X    |   X    |   X    |   X   |       |
 | **Gestionar Usuarios**   |       |       |       |       |       |       |   X   |       |   X    |   X    |   X    |   X    |   X   |       |
 | **Generar Recibo**       |       |       |       |       |   X   |       |       |       |   X    |   X    |   X    |        |   X   |       |
+
 _Notas:_
-- **RNF1 (Interfaz intuitiva):** Aplica a todos los casos de uso.
-- **RNF3 (MySQL):** Todos los CU que interactúan con la base de datos.
-- **Pseudo2 (Tiempo ≤3s):** Aplica específicamente a "Buscar Libros".
+- **RNF001 (Interfaz intuitiva):** Aplica a todos los casos de uso.
+- **RNF003 (MySQL):** Todos los CU que interactúan con la base de datos.
+- **RD002 (Tiempo ≤3s):** Aplica específicamente a "Buscar Libros".
