@@ -98,3 +98,6 @@ _Explicación:_
 </div></div>
 
 
+### Uso de la Relación de Generalización para Casos de Uso con Usuarios Multiples pero no Concurrentes
+
+Para más detalles ver [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)/Zk Diagrama de Casos de Uso - Relaciones (Entre Actores, Uso de la Relación de Generalización para Casos de Uso con Usuarios Multiples pero no Concurrentes)\|Caso de Uso con Usuarios Multiples pero no Concurrentes]]

@@ -123,4 +123,4 @@ Las siguiente notaciones pueden enriquecer la semántica de las asociaciones ent
 
 #### Aspectos Avanzados
 
-1. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)/Zk Diagrama de Casos de Uso - Generalización de Actores para Ejecución de Casos de Uso de Usuarios No Concurrentes\|Casos de Uso con Varios Actores no Concurrentes]]. Se refiere al caso en que varios actores pueden usar el caso de uso pero no se requiere que todos estén presentes. 
+1. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)/Zk Diagrama de Casos de Uso - Relaciones (Entre Actores, Uso de la Relación de Generalización para Casos de Uso con Usuarios Multiples pero no Concurrentes)\|Casos de Uso con Varios Actores no Concurrentes]]. Se refiere al caso en que varios actores pueden usar el caso de uso pero no se requiere que todos estén presentes. 
