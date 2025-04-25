@@ -4,7 +4,7 @@
 
 ## Elementos de un Sistema
 
-Los sistemas están compuestos por varios elementos que interactúan entre sí para permitir su funcionamiento y supervivencia. Estos elementos incluyen las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Elementos)#Corrientes de Entrada\|corrientes de entrada]], el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Elementos)#Proceso de Conversión\|proceso de conversión]], las [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Elementos)#Corrientes de Salida\|corrientes de salida]], y los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Elementos)#Mecanismos de Retroalimentación\|mecanismos de retroalimentación]].
+Los sistemas están compuestos por varios elementos que interactúan entre sí para permitir su funcionamiento y supervivencia. Estos elementos incluyen las [[#Corrientes de Entrada|corrientes de entrada]], el [[#Proceso de Conversión|proceso de conversión]], las [[#Corrientes de Salida|corrientes de salida]], y los [[#Mecanismos de Retroalimentación|mecanismos de retroalimentación]].
 
 **Figura**
 _Elementos de un sistema, un Esquema Básico_
