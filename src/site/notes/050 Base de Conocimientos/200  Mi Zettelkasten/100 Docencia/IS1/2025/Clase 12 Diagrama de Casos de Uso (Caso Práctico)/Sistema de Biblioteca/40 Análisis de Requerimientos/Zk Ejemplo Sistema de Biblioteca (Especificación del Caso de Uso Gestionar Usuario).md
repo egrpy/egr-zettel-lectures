@@ -20,10 +20,10 @@
 3. Confirmar cambios en BD.
 
 **Flujo Alternativo**
-
+- **A1:** Si los datos ingresados son inválidos, el sistema muestra un mensaje de error y solicita la corrección de los mismos.
 
 **Excepciones**
-1. Usuario ya existe, error de duplicidad.
+- **E1:** Si el usuario ya existe al intentar agregarlo, el sistema muestra un mensaje de error por duplicidad.
 
 **Poscondiciones**
-1. Registro Actualizado.
+- El registro de usuarios queda actualizado en la base de datos.
