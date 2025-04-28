@@ -4,6 +4,10 @@
 
 ## Lista de Requerimientos del Sistema
 
+La [[Zk Captura de Requerimientos (Lista de Requerimientos)\|Lista de Requerimientos]] constituye uno de los principales productos derivados de la fase de [[Zk Ciclo de Vida del Desarrollo delSoftware (Captura de Requerimientos)\|Captura de Requerimientos]]. Este documento sintetiza, de manera estructurada y precisa, las funcionalidades y restricciones que debe satisfacer el sistema para responder adecuadamente a las necesidades de los usuarios y los objetivos del negocio.
+
+A continuación, se presenta la lista de requerimientos correspondiente al sistema ejemplificado:
+
 ### Requerimientos Funcionales (RF)
 
 El sistema debe permitir:
@@ -32,3 +36,9 @@ El sistema debe cumplir con:
 
 1. **RD001:** Accesible desde Chrome/Firefox.
 2. **RD002:** Tiempo de respuesta ≤ 3 segundos en búsquedas.
+
+### Análisis de Requerimientos
+
+Esta lista constituye la base sobre la cual se desarrollarán las siguientes fases del proyecto, asegurando la alineación entre las expectativas de los stakeholders y las capacidades del sistema a construir.
+
+Para un estudio detallado y la justificación de cada requerimiento, ver [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 12 Diagrama de Casos de Uso (Caso Práctico)/Sistema de Biblioteca/40 Análisis de Requerimientos/Zk Ejemplo Sistema de Biblioteca (Análisis de Requerimientos del Sistema)\|Análisis de Requerimientos del Sistema]].
