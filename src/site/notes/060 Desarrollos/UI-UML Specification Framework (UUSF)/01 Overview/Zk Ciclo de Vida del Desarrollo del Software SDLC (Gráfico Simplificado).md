@@ -6,8 +6,6 @@
 
 **Figura**
 _Ciclo de Vida de Desarrollo del Software (Fases)_
-{ #b4a202}
-
 ```plantuml
 @startuml
 	!pragma layout smetana
@@ -27,7 +25,5 @@ _Ciclo de Vida de Desarrollo del Software (Fases)_
 	stop
 @enduml
 ```
-{ #982edf}
-
 
 _Fuente_: [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|(Pressman, 2013)]], [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Weitzenfeld, 2005) Ingenieria de software orientada a objetos con UML, Java e Internet\|(Weitzenfeld, 2005)]]
