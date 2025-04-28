@@ -4,7 +4,7 @@
 
 ## Lista de Requerimientos del Sistema
 
-La [[Zk Captura de Requerimientos (Lista de Requerimientos)\|Lista de Requerimientos]] constituye uno de los principales productos derivados de la fase de [[Zk Ciclo de Vida del Desarrollo delSoftware (Captura de Requerimientos)\|Captura de Requerimientos]]. Este documento sintetiza, de manera estructurada y precisa, las funcionalidades y restricciones que debe satisfacer el sistema para responder adecuadamente a las necesidades de los usuarios y los objetivos del negocio.
+La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Captura de Requerimientos (Lista de Requerimientos)\|Lista de Requerimientos]] constituye uno de los principales productos derivados de la fase de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (Captura de Requerimientos)\|Captura de Requerimientos]]. Este documento sintetiza, de manera estructurada y precisa, las funcionalidades y restricciones que debe satisfacer el sistema para responder adecuadamente a las necesidades de los usuarios y los objetivos del negocio.
 
 A continuación, se presenta la lista de requerimientos correspondiente al sistema ejemplificado:
 
