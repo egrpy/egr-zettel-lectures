@@ -10,7 +10,3 @@
 
 ## Contenido
 [[050 Base de Conocimientos/990 Lectures Zettel/Zk 020 MOCs de Clases\|MOCs de Clases]]
-
-[[000 Bandeja de Entrada/Prueba Plantuml Diagrama con Wikilinks 1\|Prueba Plantuml Diagrama con Wikilinks 1]]
-[[000 Bandeja de Entrada/Prueba Plantuml Diagrama con Wikilinks 2\|Prueba Plantuml Diagrama con Wikilinks 2]]
-
