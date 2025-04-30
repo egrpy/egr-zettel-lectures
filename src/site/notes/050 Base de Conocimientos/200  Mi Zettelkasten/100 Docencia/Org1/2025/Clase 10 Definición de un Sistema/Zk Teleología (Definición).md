@@ -14,10 +14,8 @@ Según la enciclopedia [_Teleología | Definición, ejemplos y debate | Britanni
 - Se opone a las explicaciones puramente mecánicas o causales (causas eficientes).
 - Se aplica comúnmente a la **conducta humana racional**, interpretada como orientada a fines.
 - También se ha usado para explicar fenómenos naturales como si tuvieran un propósito.
-- **Aristóteles** propuso que una explicación completa incluye:
+- **Aristóteles** propuso que una explicación completa que incluye:
     - **Causa final** (el fin o propósito),
     - **Causa eficiente** (el origen del cambio),
     - **Causa material** (de qué está hecho),
     - **Causa formal** (la forma o estructura).
-
-
