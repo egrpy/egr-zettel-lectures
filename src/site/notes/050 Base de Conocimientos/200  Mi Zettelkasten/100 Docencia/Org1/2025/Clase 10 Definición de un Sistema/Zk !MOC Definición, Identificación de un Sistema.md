@@ -14,11 +14,24 @@ Siguiendo los postulados de [[Zk Winston T. Chuschman\|Churchman]], mencionado e
 
 Para lograr esta definición, Churchman propone un método estructurado en cinco dimensiones interdependientes:
 
-1. **Objetivos del Sistema Total**, que orientan su funcionamiento.
-2. **Medio Circundante**, que establece las condiciones y restricciones externas.
-3. **Recursos Disponibles**, tanto materiales como inmateriales.
-4. **Componentes Estructurales**, que conforman su arquitectura interna.
-5. **Mecanismos de Dirección**, responsables de la coordinación y adaptación.
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman)/#dimensiones-para-el-analisis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Dimensiones para el Análisis
+
+En The Systems Approach (1969) y su traducción El Enfoque de Sistemas, [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Churchman (1987)]] propone que el análisis para el entendimiento de un sistema requiere atender cinco dimensiones fundamentales:
+
+1. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, Los Objetivos del Sistema Total)\|Los objetivos del sistema total]], concretamente su forma de actuar ante situaciones.
+2. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, El Medio Ambiente en el que Opera (Vive) el Sistema)\|El medio Ambiente en el que opera (vive) el Sistema]], entendido como aquello que está fuera del control directo del sistema pero que lo condiciona).
+3. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, Los Recursos Internos del Sistema)\|Los recursos internos disponibles]].
+4. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, Los Componentes o Partes de los Sistemas y sus Actividades)\|Los componentes o partes y sus actividades]].
+5. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, La Dirección o Administración del Sistema)\|La dirección o administración del sistema]].
+
+
+</div></div>
+
 
 Este abordaje no sigue una secuencia lineal, sino que se caracteriza por su **naturaleza iterativa**: cada etapa puede requerir revisiones críticas de las fases anteriores, asegurando coherencia entre las partes y el todo. Este enfoque lógico busca superar reduccionismos, integrando tanto la dinámica interna del sistema como su interacción con el entorno [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen, 2013, cap. 8)]].
 
