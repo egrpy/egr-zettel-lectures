@@ -24,7 +24,7 @@ Los recursos internos de un sistema son aquellos elementos bajo su control direc
 | Potenciales   | Capacidad de escalar IA generativa, acuerdos estratégicos en fase de negociación            |
 
 ### Identificación de los Recursos
-Según  [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Chruchman (1987)]], un recurso es interno si el sistema responde **SÍ** a:
+Según  [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Churchman (1987)]], un recurso es interno si el sistema responde **SÍ** a:
 
 1. ¿Puede alterar sus características o distribución?
 2. ¿Contribuye directamente a sus objetivos centrales?
@@ -43,7 +43,7 @@ Según  [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El E
     
 - **Estática en evaluación:** No monitorear la obsolescencia dinámica (ejemplo: equipos de vídeo vigilancia no actualizados ante avances).
 
-## Innovación en Recursos Potenciales
+### Innovación en Recursos Potenciales
 
 Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen (2013)]]:
 

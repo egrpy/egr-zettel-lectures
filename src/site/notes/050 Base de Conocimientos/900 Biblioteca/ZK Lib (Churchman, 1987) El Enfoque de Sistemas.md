@@ -9,4 +9,4 @@
 ![[ZK Lib (Churchman, 1987) El Enfoque de Sistemas.pdf]]
 
 ## Enlaces
-[(Chruchman, 1987)](https://online.fliphtml5.com/ivsff/gnme/#p=129)
+[(Churchman, 1987)](https://online.fliphtml5.com/ivsff/gnme/#p=129)

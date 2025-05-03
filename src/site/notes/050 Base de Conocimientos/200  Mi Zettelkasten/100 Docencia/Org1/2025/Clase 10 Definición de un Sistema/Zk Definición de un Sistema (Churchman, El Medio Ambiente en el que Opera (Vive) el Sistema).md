@@ -22,7 +22,7 @@ _Nota:_
 
 ### Características
 
-Siguiendo a [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Chruchman (1987)]], las características más importantes son:
+Siguiendo a [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Churchman (1987)]], las características más importantes son:
 
 - **Determina restricciones:** Impone límites fijos (ejemplo: regulaciones gubernamentales para plataformas digitales).
 
@@ -33,7 +33,7 @@ Siguiendo a [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) 
 
 ### Criterios para su Identificación
 
-Siguiendo a [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Chruchman (1987)]], debemos responder a las siguientes cuestiones básicas:
+Siguiendo a [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Churchman (1987)]], debemos responder a las siguientes cuestiones básicas:
 
 1. **¿Puede el sistema modificarlo?** Si la respuesta es **NO**, es parte del medio.
 2. **¿Afecta sus objetivos?** Si la respuesta es **SÍ**, es parte del medio.
@@ -66,4 +66,4 @@ Siguiendo a [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) 
 
 - **Diseño de fronteras dinámicas:** En sistemas híbridos (ejemplo: teletrabajo), el medio incluye tanto espacios físicos (hogares) como digitales (plataformas como Zoom, Meet, etc.), que requieren ajustes continuos.
 
-Comprender el medio ambiente permite al sistema anticipar riesgos y aprovechar oportunidades, aunque no los controle. La clave está en distinguir entre lo modificable (recursos internos) y lo dado (restricciones externas), tal como señalan [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Chruchman (1987)]] y [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]].
+Comprender el medio ambiente permite al sistema anticipar riesgos y aprovechar oportunidades, aunque no los controle. La clave está en distinguir entre lo modificable (recursos internos) y lo dado (restricciones externas), tal como señalan [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Churchman (1987)]] y [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]].
