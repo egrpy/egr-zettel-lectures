@@ -14,6 +14,7 @@ Clase 07 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/
 Clase 08 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 08 Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes/Zk !MOC Modelo Conceptual del UML - Elementos, Relaciones, Reglas y Mecanismos Comunes\|Modelo Conceptual del UML (Elementos, Relaciones, Reglas y Mecanismos Comunes)]]
 Clase 09 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)/Zk !MOC Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)\|Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)]]
 Clase 12 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 12 Diagrama de Casos de Uso (Caso Práctico)/Zk !MOC Diagrama de Casos de Uso (Ejemplos)\|Diagrama de Casos de Uso (Ejemplos)]]
+Clase 13 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk !MOC Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)\|Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)]]
 
 
 
