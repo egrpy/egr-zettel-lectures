@@ -11,8 +11,6 @@
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Introducción, Características, su Usos)\|Zk Diagrama de Clases (Introducción, Características, su Usos)]]
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Presentación de Elementos y Relaciones)\|Zk Diagrama de Clases (Presentación de Elementos y Relaciones)]]
 
-[[Zk ©... incluir definición, Presentación (usar plantuml), partes (nombre, atributos, operaciones), responsabilidades de la clase
-
 [[Zk Diagrama de Clases (Elemento, Clase, Atributos\|Zk Diagrama de Clases (Elemento, Clase, Atributos]]
 [[Zk Diagrama de Clases (Elemento, Clase, Operaciones, Métodos\|Zk Diagrama de Clases (Elemento, Clase, Operaciones, Métodos]]
 
