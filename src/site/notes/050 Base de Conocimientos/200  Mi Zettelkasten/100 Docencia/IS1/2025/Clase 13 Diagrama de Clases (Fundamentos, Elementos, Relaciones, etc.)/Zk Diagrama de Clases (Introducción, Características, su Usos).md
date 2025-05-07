@@ -68,6 +68,7 @@ class Estudiante {
 Persona <|-- Estudiante
 
 @enduml
+
 ```
 
 

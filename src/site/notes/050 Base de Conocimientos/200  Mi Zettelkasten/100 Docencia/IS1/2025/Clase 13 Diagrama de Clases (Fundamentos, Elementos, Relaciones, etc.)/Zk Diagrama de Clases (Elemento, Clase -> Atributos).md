@@ -1,0 +1,2 @@
+`=`                                                                                                                                                                              |
+| Multiplicidad       | Indica cuántos valores puede almacenar el atributo. Se muestra entre corchetes tras el tipo (por ejemplo, `
