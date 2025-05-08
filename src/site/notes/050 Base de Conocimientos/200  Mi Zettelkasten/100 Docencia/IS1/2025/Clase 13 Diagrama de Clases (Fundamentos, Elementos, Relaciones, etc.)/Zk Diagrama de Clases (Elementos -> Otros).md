@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Elementos -> Otros)/","tags":["digitalGarden"]}
 ---
 
-## Diagrama de Clases (Elementos -> Otros)
+## Diagrama de Clases (Elementos - Otros)
 
 > [!info]  **Resumen:**  
 > Además de clases, atributos, operaciones y relaciones, los diagramas de clases UML pueden incluir una variedad de elementos adicionales que enriquecen la semántica y flexibilidad del modelado. Estos elementos permiten representar conceptos avanzados, patrones de diseño, plantillas, restricciones y otros aspectos estructurales del sistema ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al., 2007)]]).
