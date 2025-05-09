@@ -34,5 +34,13 @@ Este abordaje no sigue una secuencia lineal, sino que se caracteriza por su **n
 Al aplicar este marco de análisis e investigación a sistemas complejos, en especial los sociales como una organización, una empresa, se evidencia la necesidad de comprender no solo sus elementos constitutivos, sino también las relaciones [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en la Teoría General de Sistemas\|sinérgicas]] que emergen de su interdependencia. Así, la definición del sistema trasciende la mera descripción de componentes, incorporando su propósito [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Teleología en la Teoría General de Sistemas\|teleológico]] y su capacidad adaptativa en un contexto dinámico.
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/ZK Definición de un Sistema (Dirección de Sistemas vs Misión de Dirección)/#d0a5dc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
+
+A menudo, en el estudio de sistemas complejos, surgen dudas al distinguir entre la **Dirección del Sistema** y la **Misión de Dirección**. Aunque ambos conceptos están estrechamente relacionados y suelen aparecer juntos en la literatura sistémica, en realidad hacen referencia a aspectos diferentes y complementarios dentro de la organización y el funcionamiento de cualquier sistema. Comprender esta diferencia es fundamental para analizar cómo se gobiernan, coordinan y adaptan los sistemas, y para evitar confusiones entre la función esencial de dirección, presente en todo sistema viable, y el subsistema o instancia concreta que la ejerce en la práctica ([[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Churchman, 1987]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio, 2013]]). 
+
+</div></div>
+
+
+Para mayor detalle ver [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/ZK Definición de un Sistema (Dirección de Sistemas vs Misión de Dirección)\|Dirección de Sistemas vs Misión de Dirección]].
