@@ -10,11 +10,11 @@ Los objetivos reales u operacionales son las metas concretas que determinan la a
 
 Siguiendo a [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Churchman (1987)]], las características más importantes son:
 
-- **Medibles:** Se expresan mediante indicadores específicos (ejemplo: tiempo de uso en plataformas digitales, tasa de retención de clientes).
-
-- **Acción-consecuencia:** El sistema está dispuesto a sacrificar otros objetivos para alcanzarlos.
-
-- **Críticos para la supervivencia:** Determinan la asignación de recursos y la adaptación al medio.
+| Característica                  | Explicación                                                                                                                    |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Medibles                        | Se expresan mediante indicadores específicos (ejemplo: tiempo de uso en plataformas digitales, tasa de retención de clientes). |
+| Críticos para la superviviencia | Determinan la asignación de recursos y la adaptación al medio.                                                                 |
+| Acción / Consecuencia           | El sistema está dispuesto a sacrificar otros objetivos para alcanzarlos.                                                       |
 
 ### Ejemplos
 
