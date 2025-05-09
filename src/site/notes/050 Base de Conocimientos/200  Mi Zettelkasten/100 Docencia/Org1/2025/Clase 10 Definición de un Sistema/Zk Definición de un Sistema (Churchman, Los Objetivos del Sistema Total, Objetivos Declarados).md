@@ -4,7 +4,7 @@
 
 ## Objetivos Declarados de un Sistema
 
-Son enunciados formales que un sistema utiliza para legitimarse ante su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, El Medio Ambiente en el que Opera (Vive) el Sistema)\|medio]]. Funcionan como mecanismos de cohesión interna y justificación ética, pero no siempre reflejan las prioridades operativas.
+Son enunciados formales que un sistema utiliza para legitimarse ante su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, El Medio en el que Opera (Vive) el Sistema)\|medio]]. Funcionan como mecanismos de cohesión interna y justificación ética, pero no siempre reflejan las prioridades operativas.
 
 ### Funciones
 

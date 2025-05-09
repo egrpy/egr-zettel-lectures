@@ -9,27 +9,13 @@ Según [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El En
 ### Funciones Esenciales
 Siguiendo a [[050 Base de Conocimientos/900 Biblioteca/ZK Lit (Churchman, 1987) El Enfoque de Sistemas\|Churchman (1987)]], mencionado en [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen (2013)]], las funciones esenciales de la dirección son:
 
-- **Planificación iterativa:** Diseño de estrategias que se ajustan dinámicamente a cambios internos/externos (ejemplo: actualizaciones de algoritmos en plataformas de streaming según preferencias de usuarios).
+| Función                | Explicación                                                                                                                                                                         |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planificación          | Diseño de estrategias que se ajustan dinámicamente a cambios internos/externos (ejemplo: actualizaciones de algoritmos en plataformas de streaming según preferencias de usuarios). |
+| Asignación de recursos | Distribución flexible entre subsistemas, priorizando según impacto en objetivos globales (ejemplo: presupuestos ágiles en startups tecnológicas).                                   |
+| Control                | Monitoreo mediante indicadores clave ([[Zk KPI\|KPIs]]) y corrección de desviaciones (ejemplo: sistemas de IA para detectar fallos en cadenas de suministro).                       |
 
-- **Asignación recursiva de recursos:** Distribución flexible entre subsistemas, priorizando según impacto en objetivos globales (ejemplo: presupuestos ágiles en startups tecnológicas).
-
-- **Control cibernético:** Monitoreo mediante indicadores clave ([[Zk KPI\|KPIs]]) y corrección de desviaciones (ejemplo: sistemas de IA para detectar fallos en cadenas de suministro).
-
-### Ejemplos
-
-1. **Plataforma de comercio electrónico:**
-    
-    - _Dirección:_ Uso de machine learning para reasignar ancho de banda en tiempo real durante picos de tráfico (Black Friday).
-
-    - _Control adaptativo:_ Ajuste automático de servidores cloud ante caídas repentinas, minimizando pérdidas económicas.
-
-2. **Gobierno digital municipal:**
-    
-    - _Retroalimentación ciudadana:_ Apps que canalizan quejas vecinales, permitiendo reorientar recursos de mantenimiento urbano en zonas críticas.
-
-    - _Principio de excepción:_ Intervención solo cuando indicadores de satisfacción bajan del 80% (ej: reparación de baches prioritarios).
-
-**Errores comunes en la administración sistémica:**
+### Errores Comunes en la Administración Sistémica
 
 - **Enfoque en control coercitivo:** Imponer métricas rígidas de productividad en equipos remotos, ignorando variables como fatiga digital o contexto cultural (ejemplo: empresas que miden "horas activas" en lugar de resultados).
 

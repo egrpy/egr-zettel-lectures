@@ -7,22 +7,21 @@
 ### Introducción
 
 ### Desarrollo
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Introducción, Características, su Usos)\|Zk Diagrama de Clases (Introducción, Características, su Usos)]]
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Presentación de Elementos y Relaciones)\|Zk Diagrama de Clases (Presentación de Elementos y Relaciones)]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Introducción, Definición, Características y sus Usos)\|Zk Diagrama de Clases (Introducción, Definición, Características y sus Usos)]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Elementos)\|Zk Diagrama de Clases (Elementos)]]
 	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Elemento, Clase - Atributos)\|Zk Diagrama de Clases (Elemento, Clase - Atributos)]]
-	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Elemento, Clase - Atributos)1\|Zk Diagrama de Clases (Elemento, Clase - Atributos)1]]
 	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Elemento, Clase -  Operaciones, Métodos)\|Zk Diagrama de Clases (Elemento, Clase -  Operaciones, Métodos)]]
-	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones)\|Zk Diagrama de Clases (Relaciones)]]
-		- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Asociación)\|Zk Diagrama de Clases (Relaciones, Asociación)]]
-		- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Agregación)\|Zk Diagrama de Clases (Relaciones, Agregación)]]
-		- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Composición)\|Zk Diagrama de Clases (Relaciones, Composición)]]
-		- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Generalización)\|Zk Diagrama de Clases (Relaciones, Generalización)]]
-		- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Dependencia)\|Zk Diagrama de Clases (Relaciones, Dependencia)]]
-		- [[Zk Diagrama de Clases (Clases Asociativas)\|Zk Diagrama de Clases (Clases Asociativas)]]
-	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Elementos -> Otros)\|Zk Diagrama de Clases (Elementos -> Otros)]]
-	- [[Zk Diagrama de Clases (Clases Persistente)\|Zk Diagrama de Clases (Clases Persistente)]]
-	- [[Zk Diagrama de Clases (Técnicas Comunes de Modelado)\|Zk Diagrama de Clases (Técnicas Comunes de Modelado)]]
-	- [[Zk Diagrama de Clases (Relacional con Otros Diagramas)\|Zk Diagrama de Clases (Relacional con Otros Diagramas)]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones)\|Zk Diagrama de Clases (Relaciones)]]
+	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Asociación)\|Zk Diagrama de Clases (Relaciones, Asociación)]]
+	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Agregación)\|Zk Diagrama de Clases (Relaciones, Agregación)]]
+	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Composición)\|Zk Diagrama de Clases (Relaciones, Composición)]]
+	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Generalización)\|Zk Diagrama de Clases (Relaciones, Generalización)]]
+	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Dependencia)\|Zk Diagrama de Clases (Relaciones, Dependencia)]]
+	- [[Zk Diagrama de Clases (Clases Asociativas)\|Zk Diagrama de Clases (Clases Asociativas)]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Elementos -> Otros)\|Zk Diagrama de Clases (Elementos -> Otros)]]
+- [[Zk Diagrama de Clases (Clases Persistente)\|Zk Diagrama de Clases (Clases Persistente)]]
+- [[Zk Diagrama de Clases (Técnicas Comunes de Modelado)\|Zk Diagrama de Clases (Técnicas Comunes de Modelado)]]
+- [[Zk Diagrama de Clases (Relacional con Otros Diagramas)\|Zk Diagrama de Clases (Relacional con Otros Diagramas)]]
 
 ----
 ## Referencias

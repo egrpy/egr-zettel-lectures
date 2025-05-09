@@ -30,10 +30,9 @@ Describen el comportamiento de un sistema en el tiempo, mostrando cómo los obje
 
 ### Características
 
-- **Enfocados en el Comportamiento**: Muestran cómo los objetos interactúan entre sí y cómo cambian sus estados con el tiempo.
-
-- **Modelan Procesos y Flujos**: Ayudan a entender cómo se realizan las tareas y procesos dentro del sistema.
-
-- **Utilizados para Análisis de Comportamiento**: Son fundamentales para analizar y diseñar sistemas dinámicos.
-
+| Característica                             | Explicación                                                                              |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Enfocados en el Comportamiento             | Muestran cómo los objetos interactúan entre sí y cómo cambian sus estados con el tiempo. |
+| Modelan Procesos y Flujos                  | Ayudan a entender cómo se realizan las tareas y procesos dentro del sistema.             |
+| Utilizados para Análisis de Comportamiento | Son fundamentales para analizar y diseñar sistemas dinámicos.                            |
 Estas características resaltan cómo los diagramas dinámicos se centran en el comportamiento y las interacciones entre objetos en el tiempo, en contraste con los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Estructurales)\|diagramas estructurales]] que se enfocan en la organización y composición estática del sistema.

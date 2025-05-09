@@ -32,10 +32,10 @@ Estos diagramas se utilizan para diseñar y comprender la arquitectura de un sis
 
 #### Características
 
-- **Enfocados en la Organización**: Muestran cómo están organizados los elementos del sistema, incluyendo clases, objetos, componentes y sus relaciones.
+| Característica                                | Explicación                                                                                                                    |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Enfocados en la Organización                  | Muestran cómo están organizados los elementos del sistema, incluyendo clases, objetos, componentes y sus relaciones.           |
+| Modelan la Estructura Estática                | Ayudan a entender la composición y las relaciones entre los componentes del sistema sin considerar el comportamiento dinámico. |
+| Utilizados para Diseño y Análisis Estructural | Son fundamentales para diseñar y analizar la arquitectura de sistemas, facilitando la comprensión de su estructura estática.   |
 
-- **Modelan la Estructura Estática**: Ayudan a entender la composición y las relaciones entre los componentes del sistema sin considerar el comportamiento dinámico.
-
-- **Utilizados para Diseño y Análisis Estructural**: Son fundamentales para diseñar y analizar la arquitectura de sistemas, facilitando la comprensión de su estructura estática.
-
-Estas características resaltan cómo los diagramas estructurales se centran en la organización y composición del sistema, en contraste con los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|diagramas tipo dinámicos]] que se enfocan en el comportamiento y las interacciones en el tiempo.
+Estas características resaltan cómo los diagramas estructurales se centran en la organización y composición del sistema, en contraste con los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|diagramas dinámicos]] que se enfocan en el comportamiento y las interacciones en el tiempo.

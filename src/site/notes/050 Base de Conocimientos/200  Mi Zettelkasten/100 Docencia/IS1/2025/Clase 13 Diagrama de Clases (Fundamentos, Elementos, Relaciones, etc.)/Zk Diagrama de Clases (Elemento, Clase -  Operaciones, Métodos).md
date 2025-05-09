@@ -5,15 +5,17 @@
 ## Diagrama de Clases (Elemento, Clase - Operaciones, Métodos)
 
 > [!info]  **Resumen**  
-> Las operaciones definen los servicios que una clase ofrece, mientras los métodos especifican su implementación concreta. Este zettel detalla su sintaxis, tipos y buenas prácticas para modelar comportamientos en UML[[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017)]].
+> Las **operaciones** definen los servicios que una clase ofrece, mientras los **métodos** especifican su implementación concreta. Este zettel detalla su sintaxis, tipos y buenas prácticas para modelar comportamientos en UML[[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017)]].
+
 
 ### 1. Operación vs. Método
 
-- **Operación**: Declaración abstracta de un servicio que una clase ofrece a su entorno.
-- **Método**: Implementación concreta de una operación en un lenguaje específico [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al., 2007)]].
+| Operación                                                                                                                      | Método                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Declaración abstracta de un servicio que una clase ofrece a su entorno [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017)]]. | Implementación concreta de una operación en un lenguaje específico [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al., 2007)]]. |
 
 **Figura**
-_Ejemplo de la Representación la Operación de una Clase_
+_Ejemplo de la Representación las Operaciones de una Clase CuentaBancaria_
 ```plantuml
 @startuml
 !pragma layout smetana
