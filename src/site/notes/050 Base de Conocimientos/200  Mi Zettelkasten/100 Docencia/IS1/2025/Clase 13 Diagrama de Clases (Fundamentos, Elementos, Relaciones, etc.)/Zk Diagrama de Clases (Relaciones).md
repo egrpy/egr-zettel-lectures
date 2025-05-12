@@ -16,7 +16,7 @@
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Composición)\|Composición]]       | Rombo relleno        | Relación "todo-parte" con dependencia vital      |
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Generalización)\|Generalización]] | Flecha hueca         | Herencia entre clases (relación padre-hijo)      |
 | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Dependencia)\|Dependencia]]       | Línea punteada       | Uso temporal o débil entre clases                |
-| [[Zk Diagrama de Clases (Clases Asociativas)\|Clase Asociativa]]       | Rectángulo vinculado | Clase que gestiona atributos de una asociación   |
+| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk Diagrama de Clases (Relaciones, Clases Asociativas)\|Clase Asociativa]]       | Rectángulo vinculado | Clase que gestiona atributos de una asociación   |
 
 **Figura**
 _Ejemplos de Relaciones_
