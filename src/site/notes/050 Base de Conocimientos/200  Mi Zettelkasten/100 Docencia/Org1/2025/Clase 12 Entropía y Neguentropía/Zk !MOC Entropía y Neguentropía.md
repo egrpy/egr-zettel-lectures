@@ -17,3 +17,5 @@ Además, profundizaremos en el papel fundamental de la **información** y la 
 3. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Neguentropía en Sistemas Abiertos)\|Neguentropía en Sistemas Abiertos]]
 4. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Sistemas Viables)\|Sistemas Viables]]
 5. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Información vs Entropía)\|Información vs Entropía]]
+6. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Principio de Variedad de Ashby)\|Principio de Variedad de Ashby]]
+7. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Integración de Conceptos con Principio de Ashby)\|Zk Entropía y Neguentropía (Integración de Conceptos con Principio de Ashby)]]
