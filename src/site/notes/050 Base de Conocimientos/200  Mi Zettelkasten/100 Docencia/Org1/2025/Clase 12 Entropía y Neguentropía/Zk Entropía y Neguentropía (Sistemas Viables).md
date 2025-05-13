@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Sistemas Viables)/","tags":["digitalGarden"]}
+---
+
+## Sistemas Viables
+
+Un sistema viable es aquel que logra mantener su estructura y función en el tiempo, equilibrando la entropía (tendencia al desorden) mediante la importación de **neguentropía** (orden y energía externa). Su supervivencia depende de su capacidad para adaptarse, autorregularse y generar excedentes energéticos ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio, 2013)]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|von Bertalanffy, 1989]]).
+
+### Características
+
+| Característica                       | Explicación                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adaptabilidad                        | Capacidad de ajustar procesos internos ante cambios del entorno (ejemplo: una empresa que modifica su estrategia ante fluctuaciones del mercado) [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen Bertoglio, 2013)]].<br>        <br>Requiere **retroalimentación** para detectar desviaciones y corregirlas (ejemplo: termostato que regula temperatura).                      |
+| Generación de excedentes energéticos | Debe importar más energía (neguentropía) de la que consume en procesos básicos (ejemplo: utilidades empresariales destinadas a I+D) [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen Bertoglio, 2013)]].<br>        <br>Sin excedentes, el sistema no puede invertir en mantención o innovación, acelerando su entropía.                                                        |
+| Organización jerárquica              | Subsistemas especializados que reducen complejidad (ejemplo: departamentos en una empresa) [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|(von Bertalanffy, 1989)]].<br>        <br>Cumplen funciones críticas: producción, apoyo, adaptación y control (modelo de Katz y Kahn) y base de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman)\|metodología de Churchman]] |
+
+La viabilidad de un sistema depende de su habilidad para **transformar entropía en orden** mediante intercambios con el entorno.
+
+> _"Un sistema viable no lucha contra el caos, sino que lo administra convirtiendo desorden en recurso"_ [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen Bertoglio, 2013)]].
