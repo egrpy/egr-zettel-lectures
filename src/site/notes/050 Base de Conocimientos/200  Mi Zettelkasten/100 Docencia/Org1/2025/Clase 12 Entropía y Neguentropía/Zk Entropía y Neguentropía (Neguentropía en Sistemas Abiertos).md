@@ -4,9 +4,9 @@
 
 ## Neguentropía en Sistemas Abiertos
 
-La neguentropía o entropía negativa es como el contrapeso a la entropía, su función es buscar el equilibrio y volver al sistema de un estado de desorden a uno ordenado.
+La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía o entropía negativa]] es como el contrapeso a la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]], su función es buscar el equilibrio y volver al sistema de un estado de desorden a uno ordenado.
 
-Un sistema abierto importa neguentropía para contrarrestar la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]] interna, manteniendo su estructura y función [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|(von Bertalanffy, 1989)]].
+Un sistema abierto importa [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía]] para contrarrestar la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]] interna, manteniendo su estructura y función [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|(von Bertalanffy, 1989)]].
 
 El mecanismo subyacente, consiste en que los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Abiertos\|sistemas abiertos]] transforman energía externa (ejemplo: nutrientes, recursos financieros) en orden interno.
 

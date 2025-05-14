@@ -23,6 +23,8 @@ Siguiendo a [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertogli
 | Identificación errónea                               | En universidades, los "departamentos de investigación" no siempre incluyen a docentes que publican artículos, aunque contribuyan a la misión académica.           |
 
 ## Las Misiones Esenciales para la Supervivencia del Sistema 
+{ #ea651a}
+
 
 Según Katz y Kahn, mencionados en [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen (2013)]], las misiones esenciales son:
 

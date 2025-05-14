@@ -5,7 +5,8 @@
 ## El Enfoque de la Teoría General de Sistemas
 El enfoque de la Teoría General de Sistemas (TGS), desarrollado principalmente por Ludwig von Bertalanffy y ampliado por otros [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Exponentes de la Teoría General de Sistemas\|autores]], representa un cambio paradigmático en la comprensión de fenómenos complejos. La TGS propone una [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Paradigma Holístico en la Teoría General de Sistemas\|visión holística]] de los sistemas, considerándolos como un todo interconectado, donde las interacciones entre sus partes son esenciales para entender su funcionamiento, tal como lo describe [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|von Bertalanffy (1989)]].
 
-Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|Von Bertalanffy (1989)]], algunas características clave de la TGS son:
+Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|Von Bertalanffy (1989)]], algunas características de la TGS son:
+
 - **Visión holística:** Los sistemas deben entenderse como un todo, no solo como la suma de sus partes individuales.
 - **Interdependencia:** Los componentes de un sistema están interrelacionados; los cambios en una parte afectan al conjunto.
 - **Apertura:** Los sistemas pueden ser **abiertos** o **cerrados** en relación con su entorno.
