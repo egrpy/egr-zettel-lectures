@@ -25,6 +25,10 @@ Estos elementos permiten a los sistemas mantener su **viabilidad a largo plazo**
 6. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Principio de Variedad de Ashby)\|Principio de Variedad de Ashby]]
 7. [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Integración de Conceptos con Principio de Ashby)\|Integración de Conceptos con Principio de Ashby]]
 
+### Un Ejemplo Real y Práctico
+
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía como Estrategia contra la Obsolescencia Sistémica\|Neguentropía como Estrategia contra la Obsolescencia Sistémica]]
+
 ### Conclusión
 
 Para consolidar los conceptos, se revisará la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Historia de una Habitación) (Versión Sistémica)\|versión sistémica de la analogía inicial]], donde se evidencian los principios analizados: desde la inevitabilidad termodinámica del desorden hasta la gestión activa de la complejidad mediante neguentropía y adaptabilidad.
