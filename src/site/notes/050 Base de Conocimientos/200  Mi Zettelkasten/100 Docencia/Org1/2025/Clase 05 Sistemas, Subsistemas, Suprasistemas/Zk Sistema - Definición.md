@@ -40,7 +40,7 @@ Todas estas definiciones comparten elementos comunes como la **interacción** en
 A partir de las perspectivas de estos autores, podemos formular una definición integradora:
 Un sistema es un conjunto de elementos interconectados y coordinados que interactúan entre sí y con su entorno, formando un todo organizado y dinámico. Estos elementos pueden ser objetos, partes o subsistemas que mantienen al sistema unido de manera estable, y están delineados por límites identificables que lo distinguen de su ambiente o (suprasistema, supersistema). Los sistemas buscan alcanzar objetivos específicos a través de la interacción y coordinación de sus componentes, lo que da lugar a propiedades emergentes que no pueden explicarse únicamente por las características de sus partes aisladas.
 
->[!Important] Elementos Clave
+>[!Important] Elementos 
  
 **Interacción y Coordinación**
  Los sistemas consisten en elementos que interactúan y se coordinan entre sí.
