@@ -4,46 +4,72 @@
 
 ## Uniendo Conceptos del Principio de Organicidad
 
+###  Equilibrio Dinámico en Sistemas Abiertos
+
+- Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Abiertos\|sistemas abiertos]] mantienen un equilibrio dinámico, no estático, gracias a la constante interacción con su entorno.
+    
+- Este [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk Principio de Organicidad (Equilibrio Dinámico de Sistemas)\|equilibrio]] se logra mediante la importación de energía e información ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía]]) que compensa la tendencia natural al desorden ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]]).
+    
+- La estabilidad sistémica no implica inmovilidad, sino fluctuaciones controladas dentro de márgenes viables.
+
+----
 ### Entropía y Neguentropía
 
-La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]] representa la tendencia natural de los sistemas hacia el desorden y la desorganización, especialmente en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Cerrados\|sistemas cerrados]]. Según la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Leyes de la Termodinámica)\|segunda ley de la termodinámica]], en sistemas aislados, la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]] siempre aumenta, llevando al colapso ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio, 2013)]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (von Bertalanffy, 1989) Teoría General de los Sistemas Fundamentos, Desarrollo, Aplicaciones\|von Bertalanffy, 1989]]).
+- La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]] es la tendencia natural de los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Cerrados\|sistemas cerrados]] hacia el desorden y la desorganización.
+    
+- Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Abiertos\|sistemas abiertos]] pueden contrarrestar la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]] importando neguentropía (orden, organización, energía útil) del entorno.
+    
+- La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía]] es esencial para la subsistencia y evolución de los sistemas vivos y sociales.
 
-**Ejemplo**
-Un edificio abandonado se degrada con el tiempo ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]] ↗️).
-
-La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía (entropía negativa)]] es la capacidad de los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Abiertos\|sistemas abiertos]] para importar energía/información del entorno y mantener su organización. Permite contrarrestar la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]] mediante:
-
-- **Intercambio energético**: Importación de recursos (ejemplo: alimentos en organismos).
-- **Innovación**: Generación de estructuras nuevas (ejemplo: tecnologías en empresas).
-
-### Principio de Variabilidad de Laszlo
-
-Establece que la estabilidad sistémica no es inmovilidad, sino **fluctuaciones controladas dentro de márgenes viables**. Un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Sistemas Viables)\|sistema viable]] mantiene su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk Principio de Organicidad (Equilibrio Dinámico de Sistemas)\|equilibrio dinámico]] mediante ajustes internos ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Homeostasis\|homeostasis]]) y cambios estructurales ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|morfogénesis]]) [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen Bertoglio, 2013)]].
-
-
+---
 ### Homeostasis y Morfogénesis
 
+- La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Homeostasis\|homeostasis]] es el mecanismo de autorregulación que permite mantener variables internas dentro de límites viables frente a perturbaciones externas.
+    
+- La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|morfogénesis]] implica cambios estructurales que permiten la adaptación y evolución del sistema ante cambios más profundos o persistentes del entorno.
 
-| Concepto                                                                                | Explicación                                                                                                                           |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Homeostasis\|Homeostasis]]                                                         | Mecanismos de retroalimentación negativa que corrigen desviaciones para mantener variables clave (ejemplo: termorregulación corporal) |
-| [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|Morfogénesis]] | Retroalimentación positiva que impulsa cambios estructurales (ejemplo: digitalización de empresas post-pandemia)                      |
+----
+### Principio de Organicidad
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk Principio de Organicidad (Evolución en Equilibrio y Neguentropía)/#bb0e0c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+- Existe una tendencia natural en los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Abiertos\|sistemas abiertos]] hacia la organización y la complejidad, lo que permite su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas (Supervivencia)\|supervivencia]] y desarrollo a largo plazo.
+    
+- El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk Principio de Organicidad (Equilibrio Dinámico de Sistemas)\|principio de organicidad]] se manifiesta en la capacidad de los sistemas para autoorganizarse y evolucionar, a pesar de la tendencia [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entrópica]] al caos.
 
+----
+### Ley de la Variabilidad de Laszlo
 
+- La estabilidad de un sistema no se basa en la ausencia de cambio, sino en la capacidad de fluctuar dentro de márgenes que garantizan la supervivencia.
+    
+- La variabilidad interna (ajustes y adaptaciones) permite a los sistemas responder a la variabilidad externa (cambios del entorno) sin perder su identidad básica.
+
+----
+### Compatibilización de Entropía y Neguentropía
+
+- Aunque la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]] tiende a desorganizar el sistema, la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía]] (importada del entorno) permite combatir y superar esa tendencia.
+    
+- La viabilidad del sistema depende de su capacidad para generar un excedente de energía ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía]]) sobre la requerida para el proceso de transformación principal, destinándola a mantener y mejorar la organización interna y las relaciones con el entorno.
+
+---
+### Evolución en Equilibrio
+
+- El equilibrio de los sistemas no es inerte, sino que implica la acumulación de pequeños cambios que, a largo plazo, producen transformaciones evolutivas.
+    
+- Los sistemas presentan fuerzas que resisten cambios bruscos y fuerzas que impulsan cambios lentos y evolutivos, permitiendo la adaptación progresiva.
+
+---
+### Legalización y Viabilidad
+
+- La aceptación del sistema por su entorno (legalización) es fundamental para su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas (Supervivencia)\|supervivencia]].
+    
+- La viabilidad sistémica se basa en la capacidad de mantener el equilibrio dinámico, ajustando sus procesos internos y su relación con el entorno, y asegurando la coherencia entre sus objetivos, recursos y medios.
+
+---
+### Esquema Gráfico
 
 Figura
-_Mecanismos_ 
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk Principio de Organicidad (Evolución en Equilibrio y Neguentropía)/#9c7ad0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
+_Esquema Gráfico de Conceptos_
 ```plantuml
+@startuml
 !pragma layout smetana
 skinparam style strictuml
 skinparam classAttributeIconSize 0
@@ -51,45 +77,37 @@ skinparam BackgroundColor LightGray
 top to bottom direction
 'skinparam linetype ortho
 
-class Entorno
+class "Sistema\nAbierto" as SA {
+  + nombre: String
+  + mantenerEquilibrio(): void
+}
 
-Entorno --> Sistema : Energía/Información\n(neguentropía)
-Sistema --> Entorno : Productos/Servicios\n(entropía)
-Sistema --> Homeostasis : Retroalimentación\nnegativa
-Sistema --> Morfogénesis : Retroalimentación\npositiva
+class "Equilibrio\nDinámico" as ED
+class "Entropía" as E
+class "Neguentropía" as N
+class "Homeostasis" as H
+class "Principio de\nOrganicidad" as PO
+class "Ley de\nVariabilidad de\nLaszlo" as LVL
+class "Evolución en\nEquilibrio" as EE
+class "Legalización\ndel Sistema" as LS
+class "Viabilidad\ndel Sistema" as VS
+
+SA --> ED : manifiesta
+SA --> E : contiene
+SA --> N : contiene
+SA --> H : usa
+SA --> M : usa
+SA --> PO : se basa en
+SA --> LVL : aplica
+SA --> EE : experimenta
+SA --> LS : requiere
+SA --> VS : asegura
+
+ED --> H
+ED --> M
+ED --> LVL
+EE --> N
+VS --> LS
+
 @enduml
 ```
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk Principio de Organicidad (Evolución en Equilibrio y Neguentropía)/#neguentropia-como-motor-evolutivo" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-### Neguentropía como Motor Evolutivo 
-
-La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía]] no solo neutraliza la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]], sino que permite:
-
-| Oportunidades | Explicación                                                                                   |
-| ------------- | --------------------------------------------------------------------------------------------- |
-| Innovación    | Desarrollo de nuevas formas de resolver (ejemplo: computación cuántica).                      |
-| Aprendizaje   | Incorporación de información para mejorar procesos (ejemplo: algoritmos de machine learning). |
-| Simbiosis     | Alianzas entre sistemas para optimizar recursos (ejemplo: economía circular).                 |
-
-
-</div></div>
-]    
-
-### Legalización y Viabilidad del Sistema
-
-- **Legalización**: Aceptación del sistema por su entorno, basada en la utilidad de sus corrientes de salida (ejemplo: empresas que reducen contaminación para ser aceptadas) 
-
-- **Viabilidad**: Capacidad de mantener equilibrio dinámico mediante:
-    - **Retroalimentación adaptativa**: Uso de información para ajustes.
-    - **Resiliencia**: Recuperación tras perturbaciones extremas
-
-## Síntesis Final
-
-Los sistemas abiertos sobreviven y evolucionan mediante un **equilibrio dinámico** entre fuerzas entrópicas y neguentrópicas. La viabilidad depende de su habilidad para generar neguentropía (innovar, aprender, adaptarse) y mantener la homeostasis, mientras se legalizan en su entorno mediante contribuciones positivas. 
