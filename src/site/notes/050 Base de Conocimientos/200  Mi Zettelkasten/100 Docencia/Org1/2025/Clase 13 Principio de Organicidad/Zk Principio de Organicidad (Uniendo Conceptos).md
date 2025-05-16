@@ -6,9 +6,9 @@
 
 ###  Equilibrio Dinámico en Sistemas Abiertos
 
-- Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Abiertos\|sistemas abiertos]] mantienen un equilibrio dinámico, no estático, gracias a la constante interacción con su entorno.
+- Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Abiertos\|sistemas abiertos]] mantienen un equilibrio dinámico, no estático, gracias a la constante interacción con su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, El Medio en el que Opera (Vive) el Sistema)\|entorno]].
     
-- Este [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk Principio de Organicidad (Equilibrio Dinámico de Sistemas)\|equilibrio]] se logra mediante la importación de energía e información ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía]]) que compensa la tendencia natural al desorden ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]]).
+- Este [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk Principio de Organicidad (Equilibrio Dinámico de Sistemas)\|equilibrio]] se logra mediante la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Corrientes de Entrada)\|importación]] de energía e información ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía]]) que compensa la tendencia natural al desorden ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Entropía\|entropía]]).
     
 - La estabilidad sistémica no implica inmovilidad, sino fluctuaciones controladas dentro de márgenes viables.
 
