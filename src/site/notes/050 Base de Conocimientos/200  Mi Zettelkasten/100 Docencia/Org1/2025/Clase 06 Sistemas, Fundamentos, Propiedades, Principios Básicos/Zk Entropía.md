@@ -12,7 +12,7 @@ La entropía se define como una medida del desorden o la incertidumbre en un sis
 
 ### Tipos de Entropía
 
-- **Entropía Termodinámica**: Se refiere al desorden molecular en un sistema físico. A medida que la entropía aumenta, la energía disponible para realizar trabajo disminuye ([[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa, 2016]]).
+- **Entropía Termodinámica**: Se refiere al desorden molecular en un sistema físico. A medida que la entropía aumenta, la energía disponible para realizar trabajo disminuye ([[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Lit (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa, 2016]]).
 
 - **Entropía de la Información**: Desarrollada por Claude Shannon, mide la incertidumbre o la cantidad de información en un mensaje. En sistemas complejos, esta entropía puede ser usada para evaluar la complejidad de las interacciones y la diversidad de los componentes [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen, 2013)]].
 

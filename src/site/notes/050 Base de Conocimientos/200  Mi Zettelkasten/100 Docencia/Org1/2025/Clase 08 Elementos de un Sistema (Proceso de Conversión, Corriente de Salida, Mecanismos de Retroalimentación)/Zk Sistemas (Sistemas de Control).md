@@ -21,7 +21,7 @@ _Sistema de Control_
 
 ----
 ### Relación con los Elementos de un Sistema
-El sistema de control de un sistema, interactúa con los demás elementos para gestionar el funcionamiento del sistema [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|(Ossa Ossa, 2016)]].
+El sistema de control de un sistema, interactúa con los demás elementos para gestionar el funcionamiento del sistema [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Lit (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|(Ossa Ossa, 2016)]].
 
 | Elemento del Sistema  | Relación                                                                                                                               |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |

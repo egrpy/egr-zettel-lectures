@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk !MOC Entropía y Neguentropía - Un Enfoque Sistémico/","tags":["moc","sistema"]}
 ---
 
-## Entropía y Neguentropía - Un Enfoque Sistémico
+## MOC Entropía y Neguentropía - Un Enfoque Sistémico
 
 Iniciaremos el análisis con la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Historia de una Habitación) (Versión Inicial)\|analogía didáctica de una habitación ordenada]], que ilustra la dinámica entre orden y desorden en sistemas complejos.
 

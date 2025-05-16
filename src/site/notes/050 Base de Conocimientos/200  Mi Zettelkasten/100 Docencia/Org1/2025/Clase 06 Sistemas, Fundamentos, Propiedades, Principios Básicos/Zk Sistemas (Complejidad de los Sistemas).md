@@ -59,7 +59,7 @@ Nota: Elaboración propia a partir del ejemplo.
 
 ### Importancia de la Complejidad
 
-La complejidad es vital para la adaptabilidad y la resiliencia de los sistemas. En sistemas complejos, como los económicos o ambientales, la interacción entre componentes puede generar resultados impredecibles y patrones emergentes. Según [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]], comprender la complejidad es esencial para gestionar sistemas complejos y predecir su comportamiento en diferentes escenarios.
+La complejidad es vital para la adaptabilidad y la resiliencia de los sistemas. En sistemas complejos, como los económicos o ambientales, la interacción entre componentes puede generar resultados impredecibles y patrones emergentes. Según [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Lit (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]], comprender la complejidad es esencial para gestionar sistemas complejos y predecir su comportamiento en diferentes escenarios.
 
 
 La **complejidad** en la Teoría General de Sistemas se refiere a la **interconexión no lineal entre componentes de un sistema**, donde el número de variables y sus interacciones generan comportamientos emergentes e impredecibles. Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013, p. 115)]], la complejidad surge de la interdependencia entre subsistemas y su entorno, dificultando la reducción del sistema a partes aisladas sin perder su esencia funcional.
@@ -72,7 +72,7 @@ La **complejidad** en la Teoría General de Sistemas se refiere a la **interc
 
 2. **Propiedades emergentes**: Comportamientos globales no predecibles desde componentes individuales ([[Zk Sistemas (Propiedades Emergentes)\|Zk Sistemas (Propiedades Emergentes)]]).
 
-3. **Incertidumbre**: Resultados impredecibles debido a la sensibilidad a condiciones iniciales (ejemplo: [[Zk El Efecto Mariposa\|el efecto mariposa]]).
+3. **Incertidumbre**: Resultados impredecibles debido a la sensibilidad a condiciones iniciales (ejemplo: [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk El Efecto Mariposa\|el efecto mariposa]]).
 
 ### Ejemplo: Complejidad en Ecosistemas
 
