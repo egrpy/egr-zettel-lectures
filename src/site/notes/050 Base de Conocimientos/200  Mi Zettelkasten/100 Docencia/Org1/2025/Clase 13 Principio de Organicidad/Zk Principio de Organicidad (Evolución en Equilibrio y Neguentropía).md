@@ -4,17 +4,17 @@
 
 ## Evolución en Equilibrio y Neguentropía
 
-La **evolución en equilibrio** es un principio de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]] que describe cómo los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Abiertos\|sistemas abiertos]] mantienen su |viabilidad mediante **fluctuaciones controladas**, combinando estabilidad interna ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Homeostasis\|homeostasis]]) y adaptación externa ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|morfogénesis]]). Este equilibrio dinámico se sustenta en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía]] (entropía negativa), que contrarresta la tendencia al desorden mediante la importación de energía/información del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, El Medio en el que Opera (Vive) el Sistema)\|entorno]] [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\| (Johansen Bertoglio, 2013)]]
+La **evolución en equilibrio** es un principio de la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de la Teoría General de Sistemas\|Teoría General de Sistemas]] que describe cómo los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas Abiertos\|sistemas abiertos]] mantienen su viabilidad mediante **fluctuaciones controladas**, combinando estabilidad interna ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Homeostasis\|homeostasis]]) y adaptación externa ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)\|morfogénesis]]). Este equilibrio dinámico se sustenta en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Neguentropía (Entropía Negativa)\|neguentropía (entropía negativa)]], que contrarresta la tendencia al desorden mediante la importación de energía/información del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk Definición de un Sistema (Churchman, El Medio en el que Opera (Vive) el Sistema)\|entorno]] [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|(Johansen Bertoglio, 2013)]]
 
-### Mecanismos Clave 
+### Mecanismos Principal
 
 1. **Homeostasis (Morfostasis)**:
-    - Ajustes internos para mantener variables críticas dentro de márgenes viables.
-    - Ejemplo: Regulación térmica en organismos vivos.
+    - Ajustes internos para mantener variables críticas dentro de márgenes viables. 
+    - Ejemplo: Regulación térmica en organismos vivos. Ver [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Homeostasis#Ejemplos\|otros ejemplos de homeostasis]].
 
 2. **Morfogénesis**:
     - Cambios estructurales ante perturbaciones externas.
-    - Ejemplo: Empresas que adoptan nuevas tecnologías para mejorar sus productos
+    - Ejemplo: Empresas que adoptan nuevas tecnologías para mejorar sus productos. Ver  [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 08 Elementos de un Sistema (Proceso de Conversión, Corriente de Salida, Mecanismos de Retroalimentación)/Zk Sistemas (Mecanismos de Retroalimentación Positiva o Morfogénesis)#Ejemplos\|otros ejemplos de retroalimentación positiva]].
 
 Figura
 _Mecanismos_
