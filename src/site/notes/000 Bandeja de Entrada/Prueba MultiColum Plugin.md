@@ -10,6 +10,7 @@
 
 **Figura**
 _Ejemplo Básico_
+
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -62,8 +63,8 @@ deactivate Sistema
 note right: Retorno
 
 @enduml
-
 ```
+
 Nota: Elaboración Propia, usando la herramienta [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Plantuml) Herramienta Para Crear Diagramas a Partir de Texto\|Plantuml]].
 
 ```
