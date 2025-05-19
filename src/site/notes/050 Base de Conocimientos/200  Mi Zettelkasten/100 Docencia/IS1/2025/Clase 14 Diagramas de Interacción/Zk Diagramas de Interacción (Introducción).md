@@ -10,8 +10,8 @@ Los **diagramas de interacción** en UML son una familia de diagramas de **com
 
 Los diagramas de interacción se utilizan fundamentalmente para [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|(Booch et al., 2006)]]:
 
-- Analizar y documentar el **comportamiento dinámico** de un sistema.
-- Comprender y comunicar cómo los **objetos cooperan** para **ejecutar procesos o casos de uso**.
+- Analizar y documentar el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Diagramas UML 2.5.1 (Dinámicos)\|comportamiento dinámico]] de un sistema.
+- Comprender y comunicar cómo los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Modelo Conceptual del UML (Diagrama de Objetos)\|objetos]] cooperan para ejecutar [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)/Zk UML Casos de Uso - Definición\|procesos o casos de uso]].
 - Identificar posibles problemas de comunicación, cuellos de botella y optimizar la arquitectura de software.
 - Facilitar el diseño, la validación y la mejora de sistemas complejos, especialmente en etapas de análisis y diseño orientado a objetos.
 
