@@ -36,6 +36,8 @@ Booch, G., Rumbaugh, J., y Jacobson, I. (2006). _El lenguaje Unificado de Modela
 [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2000) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al.,2000)]]
 Rumbaugh, J., Booch, G., y Jacobson, I. (2000). _El lenguaje unificado de modelado: Manual de referencia_.
 
+[[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education.\|(Pressman, 2013)]]
+Pressman, R. S. (2013). _Ingeniería del Software: Un Enfoque Práctico_ (Séptima edición). McGraw-Hill Education.
 
 ## Bibliografía Adicional
 Blankenhorn, K., y Jeckle, M. (2004). A UML Profile for GUI Layout. En M. Weske y P. Liggesmeyer (Eds.), _Object-Oriented and Internet-Based Technologies_ (Vol. 3263, pp. 110-121). Springer Berlin Heidelberg. [https://doi.org/10.1007/978-3-540-30196-7_9](https://doi.org/10.1007/978-3-540-30196-7_9)

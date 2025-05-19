@@ -19,21 +19,36 @@ _Ejemplo de Diagrama de Secuencia Simple_
 @startuml
 !pragma layout smetana
 skinparam style strictuml
+skinparam classAttributeIconSize 0
 skinparam BackgroundColor LightGray
 'left to right direction
+'top to bottom direction
 skinparam linetype ortho
+scale 1
 
-Title Buscar Libro
+actor Usuario
+note top: Actor
 
-actor Usuario as "Usuario"
+rectangle ":Sistema" as Sistema
+note right: Participante / Objeto
 
-participant GUIBuscarLibro as ":GUIBuscarLibro"
-participant Libro as ":libro"
+rectangle ":BaseDeDatos" as BaseDeDatos
+rectangle ":Objeto" as Objeto
 
-Usuario ->> GUIBuscarLibro: buscarLibro()
-GUIBuscarLibro ->> Libro: verLibros()
-Libro -->> GUIBuscarLibro: listaLibros
-GUIBuscarLibro -->> Usuario: mostrar listaLibros
+' Mensaje horizontal derecha (Usuario a Sistema)
+Usuario -r- Sistema : 1: Solicita datos() <&arrow-right>
+
+' Mensaje vertical abajo (Sistema a BaseDeDatos)
+Sistema -d- BaseDeDatos : 2: Consulta datos() <&arrow-bottom>
+
+' Mensaje vertical abajo (BaseDeDatos a Objeto)
+BaseDeDatos -d- Objeto : 3: Calcular() <&arrow-bottom>
+
+' Mensaje vertical arriba (Objeto a BaseDeDatos, retorno)
+Objeto --u- BaseDeDatos : 4: Retorno <&arrow-top>
+
+' Mensaje horizontal izquierda (Sistema a Usuario, retorno)
+Sistema --l- Usuario : 5: Muestra datos() <&arrow-left>
 
 @enduml
 ```

@@ -93,5 +93,13 @@ _Nota_: La lista de elementos y relaciones son los más frecuentemente utilizado
 | Diseño de interfaces, análisis de interacciones. | Desarrollo de software, modelado de sistemas. |
 
 ----
-### Notas Adicionales
-Anteriormente, este diagrama era conocido como **Diagrama de Colaboración** en versiones anteriores del UML. El nombre cambió a **Diagrama de Comunicación** en UML 2.0 para enfatizar su enfoque en la estructura de las interacciones entre los participantes.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 14 Diagramas de Interacción/Zk Diagramas de Interacción (Introducción)/#3d4f56" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!Nota] Nota
+>En versiones anteriores del UML, este diagrama era conocido como **Diagrama de Colaboración**. El nombre cambió a **Diagrama de Comunicación** en UML 2.0 para enfatizar su enfoque en la estructura de las interacciones entre los participantes.
+
+</div></div>
