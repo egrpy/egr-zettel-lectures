@@ -59,7 +59,7 @@ Nota: Elaboración propia a partir del ejemplo.
 
 ### Importancia de la Complejidad
 
-La complejidad es vital para la adaptabilidad y la resiliencia de los sistemas. En sistemas complejos, como los económicos o ambientales, la interacción entre componentes puede generar resultados impredecibles y patrones emergentes. Según [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Lit (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]], comprender la complejidad es esencial para gestionar sistemas complejos y predecir su comportamiento en diferentes escenarios.
+La complejidad es vital para la adaptabilidad y la resiliencia de los sistemas. En sistemas complejos, como los económicos o ambientales, la interacción entre componentes puede generar resultados impredecibles y patrones emergentes. Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]], comprender la complejidad es esencial para gestionar sistemas complejos y predecir su comportamiento en diferentes escenarios.
 
 
 La **complejidad** en la Teoría General de Sistemas se refiere a la **interconexión no lineal entre componentes de un sistema**, donde el número de variables y sus interacciones generan comportamientos emergentes e impredecibles. Según [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013, p. 115)]], la complejidad surge de la interdependencia entre subsistemas y su entorno, dificultando la reducción del sistema a partes aisladas sin perder su esencia funcional.

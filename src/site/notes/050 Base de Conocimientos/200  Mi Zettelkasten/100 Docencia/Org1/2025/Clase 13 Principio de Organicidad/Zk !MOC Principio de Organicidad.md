@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk !MOC Principio de Organicidad/","tags":["moc","sistema"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk !MOC Principio de Organicidad/","tags":["digitalGarden","moc"]}
 ---
 
 ## MOC Principio de Organicidad

@@ -29,7 +29,7 @@ Nota: Elaboración propia
 
 - **Sistemas Sociales**: En sistemas sociales, la información se comparte a través de la comunicación verbal y no verbal. Esto incluye la transmisión cultural, las normas sociales y las redes de comunicación. La información es esencial para la cohesión y el funcionamiento de las comunidades. [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen Bertoglio (2013)]] destaca la importancia de la comunicación en la dinámica de las organizaciones sociales.
 
-- **Sistemas Económicos**: En sistemas económicos, la información sobre precios y mercados influye en las decisiones de inversión y producción. El flujo de información permite a las empresas y los inversores ajustar sus estrategias según las condiciones del mercado. Esto está en línea con [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Lit (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]] sobre la importancia de la información en la gestión de sistemas complejos.
+- **Sistemas Económicos**: En sistemas económicos, la información sobre precios y mercados influye en las decisiones de inversión y producción. El flujo de información permite a las empresas y los inversores ajustar sus estrategias según las condiciones del mercado. Esto está en línea con [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa (2016)]] sobre la importancia de la información en la gestión de sistemas complejos.
 
 ### Importancia del Intercambio de Información
 
