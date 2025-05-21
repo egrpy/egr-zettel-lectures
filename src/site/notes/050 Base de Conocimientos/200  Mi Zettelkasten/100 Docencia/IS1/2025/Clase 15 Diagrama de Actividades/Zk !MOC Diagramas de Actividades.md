@@ -4,8 +4,12 @@
 
 ## MOC Diagramas de Actividades
 
+En la clase, se estudiará cómo utilizar el diagrama de actividades en UML para modelar y analizar procesos y flujos de trabajo en un sistema de software. Se explorará la representación de actividades, decisiones, paralelismo y otras estructuras que permiten capturar todos los aspectos necesarios para construir sistemas eficientes y bien organizados.
+
+De este modo, se preparará al estudiante para emplear el diagrama de actividades en la creación de flujos de trabajo eficientes y efectivos en cualquier proyecto de software que enfrente en el futuro.
+
 ### Introducción
-[[Zk Diagrama de Actividades (La )\|Historia Motivadora]]
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Organización de una Cena en un Restaurant)\|Organizando la Cena en un Restaurant]]
 
 ### Desarrollo
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Introducción)\|Introducción al Diagrama de Actividades]]
@@ -37,5 +41,3 @@ Campderrich, Falgueras, Benet. Ingeniería del software, Editorial UOC, 2003. Pr
 Central, [https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3206903](https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3206903).
 
 Casas, Roma, Jordi, and i Caralt,Jordi Conesa. Diseño conceptual de bases de datos en UML, Editorial UOC, 2014. ProQuest Ebook Central, [https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3222912](https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3222912).
-
-![[Prueba Cambas.canvas]]
