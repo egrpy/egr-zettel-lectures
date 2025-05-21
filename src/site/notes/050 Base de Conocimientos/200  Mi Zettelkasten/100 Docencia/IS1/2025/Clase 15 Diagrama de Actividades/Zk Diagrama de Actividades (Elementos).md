@@ -6,7 +6,7 @@
 
 Los **diagramas de actividades** en UML se componen de una serie de elementos gráficos y conceptuales que permiten modelar el flujo de control y de datos en procesos, algoritmos o flujos de trabajo complejos ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al., 2007]]). A continuación se describen los principales elementos y su notación, siguiendo la especificación UML y la literatura de referencia:
 
-### Elementos Fundamentales
+### Elementos
 
 #### Actividad
 
@@ -27,8 +27,7 @@ scale 1
 @enduml
 ```
 
-
-
+---
 ### Inicio y Final
 
 El inicio representa el punto de inicio del flujo de actividades, y el fin representa el punto de finalización.
@@ -50,8 +49,6 @@ stop
 note left :Final
 @enduml
 ```
-
----
 
 ---
 ### Transición

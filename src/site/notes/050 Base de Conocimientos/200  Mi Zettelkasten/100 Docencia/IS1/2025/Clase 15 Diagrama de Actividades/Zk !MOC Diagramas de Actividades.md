@@ -5,13 +5,13 @@
 ## MOC Diagramas de Actividades
 
 ### Introducción
-[[Zk Diagrama de Actividades (una historia)\|Historia Motivadora]]
+[[Zk Diagrama de Actividades (La )\|Historia Motivadora]]
 
 ### Desarrollo
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Introducción)\|Introducción al Diagrama de Actividades]]
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Elementos)\|Diagrama de Actividades (Elementos y Relaciones)]]
-- [[Zk Diagrama de Actividades (Relación con Otros Diagramas)\|Diagrama de Actividades (Relación con Otros Diagramas)]]
-- [[Zk Diagrama de Actividades y el SDLS)\|Diagrama de Actividads y el SDLS]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Relación con Otros Diagramas)\|Diagrama de Actividades (Relación con Otros Diagramas)]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades y el SDLS\|Diagrama de Actividads y el SDLS]]
 
 ----
 ### Referencias

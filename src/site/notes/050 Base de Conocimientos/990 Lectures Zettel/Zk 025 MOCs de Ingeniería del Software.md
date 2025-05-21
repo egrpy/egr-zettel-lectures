@@ -15,7 +15,8 @@ Clase 08 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/
 Clase 09 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)/Zk !MOC Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)\|Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)]]
 Clase 12 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 12 Caso Práctico de Aplicando SDLC/Zk !MOC Diagrama de Casos de Uso (Ejemplos)\|Diagrama de Casos de Uso (Ejemplos)]]
 Clase 13 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 13 Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)/Zk !MOC Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)\|Diagrama de Clases (Fundamentos, Elementos, Relaciones, etc.)]]
-Clase 14 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk !MOC Diagramas de Actividades\|Diagramas de Interacción]]
+Clase 14 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 14 Diagramas de Interacción/Zk Diagramas de Interacción (Introducción)\|Diagramas de Interacción]]
+Clase 15 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk !MOC Diagramas de Actividades\|Diagrama de Actividades]]
 
 
 
