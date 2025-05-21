@@ -9,7 +9,7 @@ En la clase, se estudiará cómo utilizar el diagrama de actividades en UML para
 De este modo, se preparará al estudiante para emplear el diagrama de actividades en la creación de flujos de trabajo eficientes y efectivos en cualquier proyecto de software que enfrente en el futuro.
 
 ### Introducción
-[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Zk Diagrama de Actividades (Organización la Cocina de un Restaurant)\|Organización de la Cocina de un Restaurant]]
+[[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Organización la Cocina de un Restaurant)\|Organización de la Cocina de un Restaurant]]
 
 ### Desarrollo
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Introducción)\|Introducción al Diagrama de Actividades]]
