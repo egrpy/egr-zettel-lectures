@@ -38,3 +38,4 @@ Central, [https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=
 
 Casas, Roma, Jordi, and i Caralt,Jordi Conesa. Diseño conceptual de bases de datos en UML, Editorial UOC, 2014. ProQuest Ebook Central, [https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3222912](https://ebookcentral.proquest.com/lib/biblioucsp/detail.action?docID=3222912).
 
+![[Prueba Cambas.canvas]]
