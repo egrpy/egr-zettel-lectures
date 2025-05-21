@@ -33,9 +33,71 @@ Los diagramas de secuencia se utilizan para ([[050 Base de Conocimientos/900 Bib
 
 ### Ejemplos
 
+#### Ejemplo 1
 **Figura**
-_Ejemplo Básico_
+_Ejemplo Genérico de Diagrama de Secuencia_
+```plantuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam classAttributeIconSize 0
+skinparam BackgroundColor LightGray
+'left to right direction
+'top to bottom direction
+skinparam linetype ortho
+scale 0.8
 
+'Actores
+Actor Actor_1
+Activate Actor_1
+note over Actor_1: Actor
+
+'Objetos
+
+participant ":objeto_1" as objeto1
+note over objeto1: Participante\nu Objeto
+
+participant ":objeto_2" as objeto2
+participant ":objeto_3" as objeto3
+participant ":objeto_4" as objeton
+
+Actor_1 -> objeto1 :mensaje1()
+
+activate objeto1
+note right: Activación
+objeto1 -> objeto2 : mensaje2()
+
+activate objeto2
+
+objeto1 -> objeto1 : AutoMensaje()
+deactivate objeto1
+
+objeto2 -> objeto3 : mensaje3()
+
+activate objeto3
+
+return retornoDelMensaje3()
+
+create objeton
+
+objeto2 -> objeton : nuevo()
+
+activate objeton
+
+destroy objeto2
+note right: Destrucción\ndel Objeto
+
+Activate objeto1
+Actor_1 <- objeto1 :mensaje4()
+Actor_1 -> objeto1 : mensaje5()
+
+@enduml
+```
+_Nota_: Elaboración Propia, usando la herramienta [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Plantuml) Herramienta Para Crear Diagramas a Partir de Texto\|Plantuml]].
+
+---
+#### Ejemplo 2
+**Figura**
+_Ejemplo Básico Diagrama de Secuencia de un Esquema de Autenticación de Usuario_
 ```plantuml
 @startuml
 !pragma layout smetana
@@ -47,52 +109,29 @@ skinparam BackgroundColor LightGray
 skinparam linetype ortho
 scale 1
 
-' Elementos
-actor Usuario
+Actor Usuario
 
-note over Usuario: Actor
+activate IngresoalSistema
 
-participant ":Sistema" as Sistema
-note over Sistema: Participante / Objeto
+Usuario -> IngresoalSistema :identificacionUsuario(usuario, password)
 
-participant ":BaseDeDatos" as BaseDeDatos
-note over BaseDeDatos: Participante / Objeto
+activate Security
 
+IngresoalSistema -> Security :VerificarUsuario(usuario, password)
 
-' Mensaje directo
-Usuario -> Sistema: Solicita datos()
-note right: Mensaje
+Security -> Session :Asingar(usuario)
 
-' Activación del sistema
-activate Sistema
-note right: Activación
+activate Session
 
-' Consulta a base de datos
-Sistema -> BaseDeDatos: Consulta datos()
-activate BaseDeDatos
+create LogConexiones
 
-create Participant ":Objeto" as Objeto
-BaseDeDatos -> Objeto :Calular()
-Activate Objeto
-Objeto --> BaseDeDatos
-note right: Retorno
-Deactivate Objeto
-destroy Objeto
-note right: Destrucción
-
-deactivate BaseDeDatos
-
-' Muestra datos al usuario
-Sistema --> Usuario: Muestra datos()
-deactivate Sistema
-note right: Retorno
-
+Session -> LogConexiones :loginTrack(usuario, fechaHora)
 @enduml
-
 ```
-Nota: Elaboración Propia, usando la herramienta [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Plantuml) Herramienta Para Crear Diagramas a Partir de Texto\|Plantuml]].
+_Nota_: Elaboración Propia, usando la herramienta [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Plantuml) Herramienta Para Crear Diagramas a Partir de Texto\|Plantuml]].
 
-
+---
+#### Ejemplo 3
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 07 Modelo Conceptual del UML - Diagramas/Zk Modelo Conceptual del UML (Diagrama de Secuencia)/#escenario-avanzado" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
