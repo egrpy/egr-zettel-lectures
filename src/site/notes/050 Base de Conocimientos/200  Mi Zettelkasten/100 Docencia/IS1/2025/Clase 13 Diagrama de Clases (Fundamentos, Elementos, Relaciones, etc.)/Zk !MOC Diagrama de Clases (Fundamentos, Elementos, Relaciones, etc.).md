@@ -36,7 +36,7 @@ Booch, G., Rumbaugh, J., y Jacobson, I. (2006). _El lenguaje Unificado de Modela
 [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2000) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al.,2000)]]
 Rumbaugh, J., Booch, G., y Jacobson, I. (2000). _El lenguaje unificado de modelado: Manual de referencia_.
 
-[[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education.\|(Pressman, 2013)]]
+[[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|(Pressman, 2013)]]
 Pressman, R. S. (2013). _Ingeniería del Software: Un Enfoque Práctico_ (Séptima edición). McGraw-Hill Education.
 
 ## Bibliografía Adicional

@@ -3,7 +3,7 @@
 ---
 
 ## UX - Experiencia de Usuario - User Experience
-Se centra en la percepción y respuesta del usuario al interactuar con un sistema o aplicación. Un diseño de UX efectivo considera aspectos como la usabilidad, accesibilidad y eficiencia del sistema. Se enfoca en cómo una persona percibe e interactúa con un producto digital. No solo se trata de diseño visual, sino de la usabilidad, accesibilidad y satisfacción que un usuario experimenta al utilizar un sistema ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Software Engineering Theory and Practice\|Pfleeger, 2006]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education.\|Pressman, 2013]]).
+Se centra en la percepción y respuesta del usuario al interactuar con un sistema o aplicación. Un diseño de UX efectivo considera aspectos como la usabilidad, accesibilidad y eficiencia del sistema. Se enfoca en cómo una persona percibe e interactúa con un producto digital. No solo se trata de diseño visual, sino de la usabilidad, accesibilidad y satisfacción que un usuario experimenta al utilizar un sistema ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pfleeger, 2006) Software Engineering Theory and Practice\|Pfleeger, 2006]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|Pressman, 2013]]).
 
 ## Principios clave de UX
 

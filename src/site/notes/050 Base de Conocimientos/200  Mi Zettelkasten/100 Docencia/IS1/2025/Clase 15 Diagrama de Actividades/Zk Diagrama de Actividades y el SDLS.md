@@ -11,7 +11,7 @@ El [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase
 Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Introducción)\|diagrama de actividades]] pueden emplearse en varias etapas del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|SDLC]] para [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 06 Introducción al UML/Zk UML - Una Herramienta para Visualizar, Especificar, Construir y Documentar Proyectos de Software\|visualizar, analizar y documentar]] procesos ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006]]):
 
 1. **Identificación del Problema:**  
-    Los diagramas de actividades pueden emplearse para visualizar los procesos actuales, identificar ineficiencias y mapear los desafíos que justifican el desarrollo de una solución software.
+    Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Introducción)\|diagrama de actividades]] pueden emplearse para visualizar los procesos actuales, identificar ineficiencias y mapear los desafíos que justifican el desarrollo de una solución software.
     
 2. **Planificación del Proyecto:**  
     Permiten modelar procesos de planificación, como la gestión de riesgos o la asignación de recursos, ayudando a clarificar roles, responsabilidades y dependencias.
@@ -20,7 +20,7 @@ Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase
     Se utilizan para representar flujos de trabajo propuestos por los stakeholders, facilitando la comprensión y validación de los requerimientos funcionales y no funcionales.
     
 4. **Análisis de Requerimientos:**  
-    Los diagramas de actividades ayudan a detallar la lógica de los procesos, identificar alternativas, condiciones y excepciones, y a precisar las reglas de negocio críticas.
+    Los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk Diagrama de Actividades (Introducción)\|diagrama de actividades]] ayudan a detallar la lógica de los procesos, identificar alternativas, condiciones y excepciones, y a precisar las reglas de negocio críticas.
     
 5. **Diseño del Sistema:**  
     Son clave para definir la arquitectura de procesos, modelar algoritmos y operaciones complejas, y establecer la interacción entre componentes o actores mediante particiones (swimlanes).

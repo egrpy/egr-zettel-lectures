@@ -10,7 +10,7 @@ Los **diagramas de actividades** en UML se componen de una serie de elementos
 
 #### Actividad
 
-Representa una tarea o una acción que se lleva a cabo dentro del sistema. Puede ser una operación, una función o cualquier otra acción que se deba realizar. El nombre debe indicar la acción que lleva a cabo.
+Representa una tarea o una acción que se lleva a cabo dentro del sistema. Puede ser una operación, una función o cualquier otra acción que se deba realizar. El nombre debe indicar la acción que lleva a cabo [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017, cap. 15.2)]].
 
 **Figura**
 _Actividad_
@@ -30,7 +30,7 @@ scale 1
 ---
 ### Inicio y Final
 
-El inicio representa el punto de inicio del flujo de actividades, y el fin representa el punto de finalización.
+El inicio representa el punto de inicio del flujo de actividades, y el fin representa el punto de finalización [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017, cap. 15.3.3.1, 15.3.3.2, 15.3.4.1)]].
 
 **Figura**
 _Inicio y Final_
@@ -53,7 +53,7 @@ note left :Final
 ---
 ### Transición
 
-Representa el flujo de control entre las actividades o nodos, indicando la secuencia en la que se deben llevar a cabo. Se representa con una flecha dirigida desde la actividad de origen a la actividad de destino.
+Representa el flujo de control entre las actividades o nodos, indicando la secuencia en la que se deben llevar a cabo. Se representa con una flecha dirigida desde la actividad de origen a la actividad de destino [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017, cap. 15.2.3.3)]].
 
 **Figura**
 _Transición_
@@ -76,7 +76,7 @@ stop
 ---
 ### Decisión
 
-Representa una bifurcación en el flujo de actividades, donde se toma una decisión basada en una condición lógica. Se representa con u rombo, indicando además la condición que se está evaluando. La condición puede ir dentro o fuera del rombo, dependiendo de la herramienta CASE utilizada.
+Representa una bifurcación en el flujo de actividades, donde se toma una decisión basada en una condición lógica. Se representa con u rombo, indicando además la condición que se está evaluando. La condición puede ir dentro o fuera del rombo, dependiendo de la herramienta CASE utilizada [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017, cap. 15.3.3.6)]].
 
 **Figura**
 _Decisión_
@@ -104,9 +104,7 @@ stop
 ---
 ### Barra de Sincronización
 
-La **bifurcación** se utiliza para dividir el flujo en múltiples caminos **simultáneos**.
-
-La **fusión** se utiliza para finalizar y **unir** los caminos paralelos.
+La **bifurcación** se utiliza para dividir el flujo en múltiples caminos **simultáneos**. La **fusión** se utiliza para finalizar y **unir** los caminos paralelos [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017, cap. 15.3.3.3, 15.3.3.4, 15.3.4.2)]].
 
 **Figura**
 _Transición_
@@ -228,6 +226,32 @@ start
 detach
 (A)
 :Actividad 2;
+stop
+@enduml
+```
+
+### Nodo de Unión (Merge Node, Decision Node)
+
+Se utiliza para unir flujos provenientes de caminos alternativos distintos [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|(OMG, 2017, 15.3.4.3)]]
+
+**Figura**
+_Conector_
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam BackgroundColor LightGray
+skinparam conditionStyle InsideDiamond
+scale 0.8
+
+start
+  
+if (condición) then (true)
+	:Actividad 1;
+else (false)
+
+endif
+
 stop
 @enduml
 ```
