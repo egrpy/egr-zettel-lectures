@@ -4,3 +4,9 @@
 
 ## Referencia
 Booch, G., Rumbaugh, J., y Jacobson, I. (2006). _El lenguaje Unificado de Modelado: Guía del Usuario_ (2a ed.). Addison-Wesley.
+
+## Citación APA7 Parentética
+(Booch et al., 2006)
+
+## Citación APA7 Narrativa
+Booch et al. (2006)
