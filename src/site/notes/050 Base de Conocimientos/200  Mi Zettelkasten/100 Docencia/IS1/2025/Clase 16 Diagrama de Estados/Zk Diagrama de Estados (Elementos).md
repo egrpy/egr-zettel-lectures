@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)/","tags":["digitalGarden","diagramaDeEstados"]}
 ---
 
-## Diagrama de Estados (Elementos)
+## Diagrama de Estados (Elementos y Relaciones)
 
 Los diagramas de estados permiten modelar el comportamiento dinámico de un sistema, objeto, clase o colaboración, representando los diferentes estados que puede adoptar y las transiciones entre ellos. Son especialmente útiles para describir ciclos de vida, respuestas a eventos y situaciones donde el comportamiento depende del historial o contexto interno del sistema ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017]]).
-
-### Elementos
 
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Estado\|Estado]]
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Transición\|Transición]]
@@ -19,8 +17,8 @@ Los diagramas de estados permiten modelar el comportamiento dinámico de un sist
 ### Estado  
 Un estado representa una situación o condición en la que puede encontrarse un objeto durante su existencia. Puede caracterizarse como un conjunto de valores cualitativamente similares, un periodo de espera a eventos, o un periodo de ejecución de actividades. Los estados pueden ser simples o compuestos, y pueden definir actividades de entrada (`entry`) y salida (`exit`) ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|Booch et al., 2006]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (OMG, 2017) UML Specifications\|OMG, 2017]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2007) Lenguaje Unificado de Modelado. Manual de Referencia\|Rumbaugh et al., 2007]]). 
 
-- **Ejemplo**: *Soltero*, *Casado*, *EnEjecución*.  
-- **Características** [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|(Booch et al., 2006)]].  :  
+- **Ejemplo**: `Soltero`, `Casado`, `EnEjecución`.  
+- **Características** [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Booch et al., 2006) Booch, G., Rumbaugh, J., y Jacobson, I. (2006). El lenguaje Unificado de Modelado - Guía del Usuario (2a ed). Addison-Wesley.\|(Booch et al., 2006)]] :  
   - Tiene actividades de entrada (`entry/`) y salida (`exit/`) [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Rumbaugh et al., 2000) Lenguaje Unificado de Modelado. Manual de Referencia\|(Rumbaugh et al., 2000)]].  
 
 #### Tipos de Estado
