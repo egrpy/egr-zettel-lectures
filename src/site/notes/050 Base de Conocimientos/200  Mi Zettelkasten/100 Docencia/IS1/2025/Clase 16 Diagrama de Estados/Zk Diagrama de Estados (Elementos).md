@@ -9,11 +9,11 @@ Los diagramas de estados permiten modelar el comportamiento dinámico de un sist
 ### Elementos
 
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Estado\|Estado]]
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Transición\|Zk Diagrama de Estados (Elementos)#Transición]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Transición\|Transición]]
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Evento\|Evento]]
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Acción\|Zk Diagrama de Estados (Elementos)#Acción]]
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Jerarquía de Estados\|Zk Diagrama de Estados (Elementos)#Jerarquía de Estados]]
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Región Concurrente\|Zk Diagrama de Estados (Elementos)#Región Concurrente]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Acción\|Acción]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Jerarquía de Estados\|Jerarquía de Estados]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)#Región Concurrente\|Región Concurrente]]
 
 ---
 ### Estado  
