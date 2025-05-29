@@ -79,6 +79,7 @@ EstadoCompuesto --> [*]
 
 @enduml
 ```
+
 Ver [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Relación con Otros Diagramas)\|Ejemplo]]
 
 ---
