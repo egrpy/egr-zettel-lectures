@@ -4,7 +4,7 @@
 
 ## Ejemplo de un Sistema de Biblioteca (Aplicación del SDLC)
 
-Si bien el objetivo principal de este ejemplo es presentar los diferentes diagramas del UML y su sinergia, considero apropiado hacerlo guiado por un marco estructurado, en este caso, el Ciclo de Vida del Desarrollo del Software. Este enfoque permite una comprensión más profunda de cómo los diagramas UML se integran en cada fase del ciclo, desde la planificación hasta la implementación y mantenimiento. 
+Si bien el objetivo principal de este ejemplo es presentar los diferentes diagramas del UML y su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 03 Sinergia y Recursividad/Zk Sinergia en la Teoría General de Sistemas\|sinergia]], considero apropiado hacerlo guiado por un marco estructurado, en este caso, el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software]]. Este enfoque permite una comprensión más profunda de cómo los diagramas UML se integran en cada fase del ciclo, desde la planificación hasta la implementación y mantenimiento. 
 
 ### Proyecto: Sistema de Biblioteca
 

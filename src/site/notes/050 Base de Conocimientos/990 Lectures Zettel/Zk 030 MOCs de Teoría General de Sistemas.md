@@ -15,4 +15,4 @@ Clase 08 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025
 Clase 10 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 10 Definición de un Sistema/Zk !MOC Definición, Identificación de un Sistema\|Definición de un Sistema]]
 Clase 12 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk !MOC Entropía y Neguentropía - Un Enfoque Sistémico\| Entropía y Neguentropía - Un Enfoque Sistémico]]
 Clase 13 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk !MOC Principio de Organicidad\|Principio de Organicidad]]
-Clase 13 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 14 Leyes de Hierro de la Organización/Zk !MOC Leyes de Hierro de la Organización (Boulding)\|Leyes de Hierro de la Organización]]
+Clase 14 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 14 Leyes de Hierro de la Organización/Zk !MOC Leyes de Hierro de la Organización (Boulding)\|Leyes de Hierro de la Organización]]
