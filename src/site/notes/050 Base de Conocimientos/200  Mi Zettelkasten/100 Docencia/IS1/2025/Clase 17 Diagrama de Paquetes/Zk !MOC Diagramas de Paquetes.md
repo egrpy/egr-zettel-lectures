@@ -18,6 +18,11 @@ A modo de introducción analizaremos el [[050 Base de Conocimientos/200  Mi Zett
 
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk Diagrama de Paquetes (Relación con Otros Diagramas UML)\|Casos de Uso del Diagrama de Paquetes y Ejemplos Prácticos]]. Ejemplos concretos de aplicación del diagrama de paquetes en el modelado de la arquitectura de sistemas, visualización de dependencias, identificación de subsistemas y documentación modular. Se incluyen diagramas de ejemplo y escenarios de uso frecuentes en la industria.
 
+- Ejemplos:
+	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk Diagrama de Paquetes (Ejemplo - Diagrama de Alto Nivel)\|Diagrama de Alto Nivel]]
+	- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk Diagrama de Paquetes (Ejemplo - Diagrama de Detallado para Análisis de Dependencias)\|Diagrama de Detallado para Análisis de Dependencias]]
+
+
 ----
 ### Referencias y Citaciones
 
