@@ -18,7 +18,9 @@ Clase 13 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/
 Clase 14 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 14 Diagramas de Interacción/Zk Diagramas de Interacción (Introducción)\|Diagramas de Interacción]]
 Clase 15 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 15 Diagrama de Actividades/Zk !MOC Diagramas de Actividades\|Diagrama de Actividades]]
 Clase 16 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk !MOC Diagramas de Estados\|Diagrama de Estados]]
-
+Clase 17 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk !MOC Diagramas de Paquetes\|Diagrama de Paquetes]]
+Clase 18  [[Zk !MOC Diagramas de Componentes\|Diagrama de Componentes]]
+Clase 19  [[Zk !MOC Diagramas de Despliegue\|Diagrama de Despliegue]]
 
 
 

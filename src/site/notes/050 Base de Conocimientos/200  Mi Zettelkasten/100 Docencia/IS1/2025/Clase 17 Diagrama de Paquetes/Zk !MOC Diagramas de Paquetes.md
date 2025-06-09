@@ -1,21 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk !MOC Diagramas de Estados/","tags":["digitalGarden","moc","UML"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk !MOC Diagramas de Paquetes/","tags":["digitalGarden","moc","UML","diagramaDePaquetes"]}
 ---
 
-## MOC Diagramas de Estados
+## MOC Diagramas de Paquetes
 
-En la clase, se estudiará cómo utilizar el diagrama de estados en UML para modelar el comportamiento dinámico de un sistema de software, centrándose en los diferentes estados que puede asumir un objeto a lo largo de su vida y en los eventos que provocan transiciones entre ellos. Se abordarán conceptos como estados, transiciones, eventos y acciones internas.
-
-De este modo, se preparará al estudiante para emplear el diagrama de estados en el diseño de sistemas que respondan adecuadamente a estímulos internos y externos, asegurando un comportamiento controlado, predecible y coherente a lo largo del ciclo de vida del software.
+El objetivo de esta clase es que el estudiante comprenda el propósito y la utilidad del **diagrama de paquetes UML** como herramienta para organizar y visualizar la estructura modular de sistemas software complejos. Se busca que el alumno sea capaz de identificar cuándo y cómo emplear diagramas de paquetes para gestionar la arquitectura, dependencias y modularidad en proyectos de ingeniería de software, facilitando la comunicación y el diseño efectivo entre equipos de desarrollo.
 
 ### Introducción
-A modo de introducción analizaremos el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Introducción, Ejemplo,  Estado Civil de las Personas de Paraguay)\|Estado Civil de las Personas de Paraguay]], de manera a comprender la esencia por detrás de este diagrama.
+A modo de introducción analizaremos el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk Diagrama de Paquetes (Analogía Urbana para la Comprensión de la Modularidad en Software)\|Analogía Urbana para la Comprensión de la Modularidad en Software]], de manera a comprender la esencia por detrás de este diagrama.
 
 ### Desarrollo
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Elementos)\|Diagrama de Estados (Elementos y Relaciones)]]
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados y el SDLS\|Diagrama de Estados y el SDLS]]
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Relación con Otros Diagramas)\|Diagrama de Estados (Relación con Otros Diagramas)]]
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 16 Diagrama de Estados/Zk Diagrama de Estados (Ejercicios y Ejemplos)\|Ejemplos]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk Diagrama de Paquetes (Definición y Objetivo)\|Definición y Objetivos]]. Breve introducción sobre qué es un diagrama de paquetes UML, su función principal y su analogía con la organización de carpetas en sistemas de archivos. Se enfatiza su uso como mecanismo para simplificar y estructurar sistemas complejos mediante la agrupación jerárquica de elementos relacionados.
+
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk Diagrama de Paquetes (Elementos y Relaciones)\|Elementos y Relaciones]]. Descripción de los elementos principales del diagrama: el paquete como contenedor, su notación estándar en UML, y las reglas de denominación y visibilidad. Incluye ejemplos visuales y explicación sobre la organización jerárquica y los espacios de nombres.
+
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk Diagrama de Paquetes (Acoplamiento y Cohesión)\|Acoplamiento y Cohesión]]. Explicación de los conceptos de acoplamiento y cohesión en el contexto de los paquetes. Se discute su impacto en la mantenibilidad, flexibilidad y escalabilidad del sistema, y se presentan buenas prácticas para lograr bajo acoplamiento y alta cohesión en la organización de paquetes.
+
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 17 Diagrama de Paquetes/Zk Diagrama de Paquetes (Relación con Otros Diagramas UML)\|Casos de Uso del Diagrama de Paquetes y Ejemplos Prácticos]]. Ejemplos concretos de aplicación del diagrama de paquetes en el modelado de la arquitectura de sistemas, visualización de dependencias, identificación de subsistemas y documentación modular. Se incluyen diagramas de ejemplo y escenarios de uso frecuentes en la industria.
 
 ----
 ### Referencias y Citaciones

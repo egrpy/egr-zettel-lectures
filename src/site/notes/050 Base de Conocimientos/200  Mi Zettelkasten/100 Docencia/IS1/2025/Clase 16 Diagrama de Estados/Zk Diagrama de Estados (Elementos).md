@@ -29,6 +29,7 @@ Indica el inicio y final de la transición de estados.
 **Figura**
 _Estado Inicial y Final
 ```plantuml
+@startuml
 !pragma layout smetana
 skinparam style strictuml
 skinparam BackgroundColor LightGray
