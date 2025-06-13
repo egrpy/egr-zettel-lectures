@@ -16,3 +16,6 @@ Clase 10 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025
 Clase 12 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk !MOC Entropía y Neguentropía - Un Enfoque Sistémico\| Entropía y Neguentropía - Un Enfoque Sistémico]]
 Clase 13 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 13 Principio de Organicidad/Zk !MOC Principio de Organicidad\|Principio de Organicidad]]
 Clase 14 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 14 Leyes de Hierro de la Organización/Zk !MOC Leyes de Hierro de la Organización (Boulding)\|Leyes de Hierro de la Organización]]
+
+Ejemplo de Análisis Sistémico
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk El Cappuccino más Barato de América - Paraguay Sólo fue Superado por los Dos Mayores Productores del Mundo\|El Cappuccino más Barato de América - Paraguay Sólo fue Superado por los Dos Mayores Productores del Mundo]]
