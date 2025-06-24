@@ -19,3 +19,4 @@ Clase 14 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025
 
 Ejemplo de Análisis Sistémico
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk El Cappuccino más Barato de América - Paraguay Sólo fue Superado por los Dos Mayores Productores del Mundo\|El Cappuccino más Barato de América - Paraguay Sólo fue Superado por los Dos Mayores Productores del Mundo]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Artículo “Organizing like a Cow” de Mintzberg\|Organizando como una Vaca (Mintzberg)]]
