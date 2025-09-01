@@ -23,6 +23,6 @@ Clase 19  [[Zk !MOC Diagramas de Despliegue\|Diagrama de Despliegue]]
 
 ---
 ## MOCs para Ingeniería del Software 2
-Clase 07 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos en el Desarrollo de Sistemas de Software\|Introducción a la Administración de Proyectos]]
+Clase 07 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk !MOC Administración de Proyectos de Desarrollo de Software\|Introducción a la Administración de Proyectos de Software]]
 
 
