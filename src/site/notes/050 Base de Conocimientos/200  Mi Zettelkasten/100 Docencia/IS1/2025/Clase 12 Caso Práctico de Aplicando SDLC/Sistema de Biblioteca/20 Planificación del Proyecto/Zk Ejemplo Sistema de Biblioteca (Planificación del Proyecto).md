@@ -5,7 +5,7 @@
 ## Planificación del Proyecto
 
 >[!Info] Observación
->Esta sección tiene únicamente fines ilustrativos y muestra un ejemplo correspondiente a la fase de Planificación del Proyecto, dentro del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software]].
+>Esta sección tiene únicamente fines ilustrativos y muestra un ejemplo correspondiente a la fase de Planificación del Proyecto, dentro del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)\|Ciclo de Vida del Desarrollo del Software]].
 
 ### Objetivo del Proyecto
 
@@ -48,7 +48,7 @@ Desarrollar un sistema automatizado para resolver las ineficiencias identificada
 { #b35a03}
 
 
-Basado en el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|SDLC]].
+Basado en el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)\|SDLC]].
 
 | Etapa                       | Actividades Clave                                                                                                | Duración Estimada                       |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------- |

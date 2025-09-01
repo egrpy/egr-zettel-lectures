@@ -6,7 +6,7 @@
 
 ### Contexto
 
-La **identificación del problema** presentada aquí es la actividad inicial dentro del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software]] que sienta las bases para la fase de Captura de Requerimientos. Comprender el problema es esencial para definir los requerimientos de un sistema.
+La **identificación del problema** presentada aquí es la actividad inicial dentro del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)\|Ciclo de Vida del Desarrollo del Software]] que sienta las bases para la fase de Captura de Requerimientos. Comprender el problema es esencial para definir los requerimientos de un sistema.
 
 ### Problema Central
 

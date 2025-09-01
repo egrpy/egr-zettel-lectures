@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk 025 MOCs de Ingeniería del Software/","tags":["digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk 025 MOCs de Ingeniería del Software/","tags":["#digitalGarden"]}
 ---
 
 ## MOCs para Ingeniería del Software 1
 
-Clase 01 Presentación de la Asignatura, Reglamento de Cátedra
 Clase 02 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 02 Introducción a la Ingeniería del Software/Zk !MOC Introducción a la Ingeniería del Software\|Introducción a la Ingeniería del Software]]
 Clase 03 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk !MOC Costos y Complejidad del Software\|Costos y Complejidad del Software]]
 Clase 04 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 04 Modelos de Proceso de Software/Zk !MOC Modelos de Proceso de Software\|El Proceso de Desarrollo del Software]]
@@ -22,5 +21,8 @@ Clase 17 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/
 Clase 18  [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 18 Diagrama de Componentes/Zk !MOC Diagramas de Componentes\|Diagrama de Componentes]]
 Clase 19  [[Zk !MOC Diagramas de Despliegue\|Diagrama de Despliegue]]
 
+---
+## MOCs para Ingeniería del Software 2
+Clase 07 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos en el Desarrollo de Sistemas de Software\|Introducción a la Administración de Proyectos]]
 
 

@@ -8,7 +8,7 @@ La matriz **Requerimientos vs Casos de Uso** es una herramienta para garantiza
 
 En esta matriz se cruzan los casos de uso identificados con los requerimientos del sistema, evidenciando la relación directa entre lo que el sistema debe hacer y cómo se espera que lo haga. Además, se incluyen dos elementos de diseño representados como **RD001** y **RD0022**, que aluden a decisiones técnicas o funcionalidades auxiliares vinculadas a más de un caso de uso.
 
-Este tipo de matriz resulta especialmente útil en etapas posteriores del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software]], como la validación, la verificación, y la gestión del cambio, ya que permite responder de forma sistemática a preguntas como:
+Este tipo de matriz resulta especialmente útil en etapas posteriores del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)\|Ciclo de Vida del Desarrollo del Software]], como la validación, la verificación, y la gestión del cambio, ya que permite responder de forma sistemática a preguntas como:
 
 - ¿Está cada requerimiento cubierto por algún caso de uso?
 - ¿Hay casos de uso que no aportan directamente al cumplimiento de requerimientos?

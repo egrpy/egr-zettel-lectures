@@ -4,7 +4,7 @@
 
 ## Explicación del Diagrama de Casos de Uso
 
-El diagrama de casos de uso presentado representa una **visión general del sistema**, mostrando cómo los diferentes actores interactúan con las funcionalidades principales del "Sistema de Gestión de Biblioteca". Este diagrama es una herramienta fundamental en la fase de **Análisis**dentro del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software (SDLC)]], ya que permite capturar las necesidades funcionales desde la perspectiva de los usuarios.
+El diagrama de casos de uso presentado representa una **visión general del sistema**, mostrando cómo los diferentes actores interactúan con las funcionalidades principales del "Sistema de Gestión de Biblioteca". Este diagrama es una herramienta fundamental en la fase de **Análisis**dentro del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)\|Ciclo de Vida del Desarrollo del Software (SDLC)]], ya que permite capturar las necesidades funcionales desde la perspectiva de los usuarios.
 
 ### Objetivo del Diagrama
 

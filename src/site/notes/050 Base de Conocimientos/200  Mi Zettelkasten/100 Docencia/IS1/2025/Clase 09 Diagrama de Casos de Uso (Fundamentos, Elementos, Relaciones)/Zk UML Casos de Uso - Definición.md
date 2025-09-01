@@ -20,4 +20,4 @@ Un caso de uso como "Realizar un pago" ilustra cómo se aplica esta definición 
 
 ### Influencia en el Desarrollo
 
-Los casos de uso son cruciales en el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software]], ya que ayudan a asegurar que el sistema cumpla con los requisitos funcionales esperados y se integre bien con otros diagramas UML.
+Los casos de uso son cruciales en el [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)\|Ciclo de Vida del Desarrollo del Software]], ya que ayudan a asegurar que el sistema cumpla con los requisitos funcionales esperados y se integre bien con otros diagramas UML.

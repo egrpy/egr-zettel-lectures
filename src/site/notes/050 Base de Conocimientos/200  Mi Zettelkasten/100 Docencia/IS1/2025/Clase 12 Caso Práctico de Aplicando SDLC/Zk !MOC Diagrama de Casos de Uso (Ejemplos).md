@@ -9,7 +9,7 @@ Este MOC reúne recursos y ejemplos didácticos sobre la construcción y aplicac
 
 ### Fundamentos y Referencias Generales
 
-- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|Ciclo de Vida del Desarrollo del Software]]
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)\|Ciclo de Vida del Desarrollo del Software]]
 - [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 09 Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)/Zk !MOC Diagrama de Casos de Uso (Fundamentos, Elementos, Relaciones)\|Clases 09, 10 y 11: Fundamentos, Elementos y Relaciones de los Diagramas de Casos de Uso]]
 
 ### Ejemplo Sistema de Biblioteca

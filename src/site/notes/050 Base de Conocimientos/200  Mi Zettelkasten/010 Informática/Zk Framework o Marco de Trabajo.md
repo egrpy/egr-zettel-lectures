@@ -7,7 +7,7 @@
 ### Definición 1
 
 >[!Definition] Según la [IEEE](https://www.ieee.org/about/vision-mission.html)y la [ACM](https://www.acm.org/about-acm/about-the-acm-organization).
-Un framework en ingeniería del software se refiere a una estructura que facilita la integración de herramientas utilizadas a lo largo del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software\|ciclo de vida del desarrollo de software]]. Proporciona un conjunto de interfaces que permiten a los desarrolladores de herramientas acceder a servicios y recursos, asegurando estabilidad y facilidad de uso ([IEEE, 2024](https://ieeexplore.ieee.org/document/6188465/); [ACM, 1993](https://dl.acm.org/doi/pdf/10.1145/257683.257730)).
+Un framework en ingeniería del software se refiere a una estructura que facilita la integración de herramientas utilizadas a lo largo del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)\|ciclo de vida del desarrollo de software]]. Proporciona un conjunto de interfaces que permiten a los desarrolladores de herramientas acceder a servicios y recursos, asegurando estabilidad y facilidad de uso ([IEEE, 2024](https://ieeexplore.ieee.org/document/6188465/); [ACM, 1993](https://dl.acm.org/doi/pdf/10.1145/257683.257730)).
 
 ### Definición2
 
