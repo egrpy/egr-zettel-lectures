@@ -4,7 +4,6 @@
 
 ## Definición de Proyecto
 
-
 > [!QUOTE] Definición del Project Management Institute
 > Un proyecto es un esfuerzo temporal que se realiza para crear un producto, servicio o resultado único. Tiene un principio y un final definidos, y su culminación corresponde a la consecución de los objetivos o la terminación porque los objetivos no pueden ser alcanzados o el proyecto ya no tiene razón de continuar [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute Inc., 2017)]]. 
 

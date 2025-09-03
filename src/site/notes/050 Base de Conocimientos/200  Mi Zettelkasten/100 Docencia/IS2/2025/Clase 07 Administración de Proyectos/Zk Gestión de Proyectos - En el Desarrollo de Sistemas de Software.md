@@ -4,9 +4,6 @@
 
 ## Gestión de Proyectos en el Desarrollo de Sistemas de Software
 
-### Proyecto
-¿Qué es un [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Definición de Proyecto\|Proyecto]]?
-
 ### Objetivos
 
 La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos\|gestión de proyectos]] es transversal a muchas disciplinas, pero en el desarrollo de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Gestión de Proyectos de Software\|sistemas de software]] adquiere particular relevancia por la complejidad, variabilidad y dinamismo de los entornos tecnológicos. El **objetivo principal** es transformar requerimientos de clientes reales en soluciones informáticas robustas, eficientes y alineadas con los objetivos estratégicos de la organización.
