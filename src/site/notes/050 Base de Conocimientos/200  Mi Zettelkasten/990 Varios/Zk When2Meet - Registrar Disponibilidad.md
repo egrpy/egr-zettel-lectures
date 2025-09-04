@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/990 Varios/Zk When2Meet - Registrar Disponibilidad/","tags":["when2meet","reunión","planificación"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/990 Varios/Zk When2Meet - Registrar Disponibilidad/","tags":["#when2meet","#reunión","#planificación"]}
 ---
 
 ## Registrar Disponibilidad
