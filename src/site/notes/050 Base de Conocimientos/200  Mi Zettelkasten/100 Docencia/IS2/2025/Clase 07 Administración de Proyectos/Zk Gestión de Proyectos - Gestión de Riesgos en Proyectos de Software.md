@@ -4,11 +4,11 @@
 
 ## Gestión de Riesgos en Proyectos de Software
 
-La gestión de riesgos en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - En el Desarrollo de Sistemas de Software\|proyectos de software]] es el proceso sistemático por el cual se identifican, analizan, gestionan y monitorean los eventos y condiciones que pueden afectar negativa o positivamente el logro de los objetivos del proyecto [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute Inc., 2017)]].
+La gestión de riesgos en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - En el Desarrollo de Sistemas de Software\|Proyectos de Software]] es el proceso sistemático por el cual se identifican, analizan, gestionan y monitorean los eventos y condiciones que pueden afectar negativa o positivamente el logro de los objetivos del proyecto [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(PMI, 2017)]].
 
 ## Principales Procesos
 
-Siguiendo el PMBok del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\| Project Management Institute Inc. (2017)]] estos procesos son:
+Siguiendo el PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]] estos procesos son:
 
 - **Planificar la gestión de riesgos:** Define la metodología, roles, responsables y herramientas; establece cómo se realiza el resto de los procesos.
 

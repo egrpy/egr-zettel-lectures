@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Tareas vs Actividades/","tags":["#definir"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Tareas vs Actividades/","tags":["definir"]}
 ---
 
 ## Gestión de Proyectos - Tareas vs Actividades
 
-En gestión de proyectos de software, [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Actividades\|actividad]] y [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Tareas\|tarea]] representan niveles distintos de descomposición del trabajo. Los estándares internacionales distinguen que **una actividad agrupa varias tareas** bajo un objetivo común y una lógica de ejecución dentro del cronograma, mientras que la tarea es la unidad mínima, concreta y asignable de trabajo que contribuye al avance de la actividad [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute Inc., 2017)]].
+En gestión de proyectos de software, [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Actividades\|actividad]] y [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Tareas\|tarea]] representan niveles distintos de descomposición del trabajo. Los estándares internacionales distinguen que **una actividad agrupa varias tareas** bajo un objetivo común y una lógica de ejecución dentro del cronograma, mientras que la tarea es la unidad mínima, concreta y asignable de trabajo que contribuye al avance de la actividad [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(PMI, 2017)]].
 
 | Concepto      | Actividad                                                 | Tarea                                          |
 | ------------- | --------------------------------------------------------- | ---------------------------------------------- |

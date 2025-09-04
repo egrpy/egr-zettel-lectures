@@ -4,11 +4,11 @@
 
 ## Asignación y Gestión de Recursos
 
-La **asignación y gestión de recursos** es esencial para garantizar que el proyecto cuente con los medios humanos, materiales y tecnológicos adecuados, en cantidad y calidad, durante todo su ciclo de vida. PMBok del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]] define la gestión de recursos como el conjunto de procesos que organiza, adquiere y optimiza el uso tanto de recursos físicos (equipos, materiales, instalaciones) como humanos (equipo técnico, usuarios, gestores) a través de la planificación, asignación, seguimiento y control.
+La **asignación y gestión de recursos** es esencial para garantizar que el proyecto cuente con los medios humanos, materiales y tecnológicos adecuados, en cantidad y calidad, durante todo su ciclo de vida. PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]] define la gestión de recursos como el conjunto de procesos que organiza, adquiere y optimiza el uso tanto de recursos físicos (equipos, materiales, instalaciones) como humanos (equipo técnico, usuarios, gestores) a través de la planificación, asignación, seguimiento y control.
 
 ### Principales Procesos
 
-Conform al PMBok del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]], se consideran los siguientes procesos:
+Conform al PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]], se consideran los siguientes procesos:
 
 - **Planificar la gestión de recursos:** define cómo identificar, adquirir, asignar, desarrollar, gestionar y liberar los recursos del proyecto, integrándose estrechamente con el plan general.
 

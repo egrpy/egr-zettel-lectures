@@ -4,20 +4,20 @@
 
 ## Stakeholder
 
-Los **stakeholders** (partes interesadas) en la gestión de proyectos de software son todas las personas, grupos u organizaciones que pueden afectar o verse afectados por el desarrollo, resultado y operación del proyecto. Se incluyen usuarios finales, clientes, patrocinadores, miembros del equipo, áreas técnicas y administrativas, así como cualquier autoridad regulatoria relevante [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute, Inc. 2017)]].
+Los **stakeholders** (partes interesadas) en la gestión de proyectos de software son todas las personas, grupos u organizaciones que pueden afectar o verse afectados por el desarrollo, resultado y operación del proyecto. Se incluyen usuarios finales, clientes, patrocinadores, miembros del equipo, áreas técnicas y administrativas, así como cualquier autoridad regulatoria relevante [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(Project Management Institute, Inc. 2017)]].
 
 ### Roles y Categorías de Stakeholders
 
-La identificación precisa de stakeholders es crucial en fases tempranas. Según el [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute, Inc. (2017)]], se clasifican en:
+La identificación precisa de stakeholders es crucial en fases tempranas. Según el [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]], se clasifican en:
 
 - **Internos:** equipo de proyecto, directivos, áreas de soporte, usuarios internos.
 - **Externos:** clientes, usuarios finales, proveedores, reguladores, sociedad en general.  
 
-Cada grupo tiene intereses, expectativas y niveles de influencia específicos sobre los entregables, el proceso y los resultados del sistema o software desarrollado [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute, Inc., 2017)]].
+Cada grupo tiene intereses, expectativas y niveles de influencia específicos sobre los entregables, el proceso y los resultados del sistema o software desarrollado [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(PMI, 2017)]].
 
 ### Gestión y Estrategias de Involucramiento
 
-El PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute, Inc. (2017)]] recomienda que la gestión de stakeholders inicie desde el [[acta de constitución\|acta de constitución]] y continúe durante todo el ciclo de vida,  esto implica:
+El PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]] recomienda que la gestión de stakeholders inicie desde el [[acta de constitución\|acta de constitución]] y continúe durante todo el ciclo de vida,  esto implica:
 
 - Identificación sistemática y análisis de intereses
 - Diseño de estrategias de comunicación adaptadas

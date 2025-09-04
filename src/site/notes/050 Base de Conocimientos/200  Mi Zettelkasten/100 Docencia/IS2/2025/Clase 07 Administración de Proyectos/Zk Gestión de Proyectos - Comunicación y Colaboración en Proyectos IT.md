@@ -4,11 +4,11 @@
 
 ## Comunicación y Colaboración en Proyectos IT
 
-En [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Definición de Proyecto\|proyectos]] IT, la **comunicación** y la **colaboración** constituyen pilares fundamentales para el éxito del equipo y la entrega de resultados alineados con los objetivos estratégicos. PMBOK destaca que una gestión eficaz de la comunicación no implica simplemente transmitir información, sino asegurar la comprensión mutua, la confianza y la toma de decisiones informadas entre todos los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Stakeholder\|stakeholders]] [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute Inc., 2017)]]. 
+En [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Definición de Proyecto\|proyectos]] IT, la **comunicación** y la **colaboración** constituyen pilares fundamentales para el éxito del equipo y la entrega de resultados alineados con los objetivos estratégicos. PMBOK destaca que una gestión eficaz de la comunicación no implica simplemente transmitir información, sino asegurar la comprensión mutua, la confianza y la toma de decisiones informadas entre todos los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Stakeholder\|stakeholders]] [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(PMI, 2017)]]. 
 
 ### Procesos y Buenas Prácticas
 
-PMBok del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]]. define los siguientes procesos principales:
+PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]] define los siguientes procesos principales:
 
 - **Planificar las comunicaciones:** identificar las necesidades de información reales de cada stakeholder, definir formatos, medios, frecuencia y responsables. Esto implica adaptar la estrategia de acuerdo con el contexto y las características del equipo.
 

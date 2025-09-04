@@ -4,11 +4,11 @@
 
 ## Ciclo de Vida del Proyecto (PLC)
 
-El **ciclo de vida del proyecto (Project Life Cycle, PLC)** es el marco estructural que describe las fases secuenciales por las que atraviesa un proyecto de software desde su inicio hasta su cierre formal. De acuerdo al PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]], el ciclo de vida establece el contexto para la planificación, ejecución, monitorización y cierre, permitiendo una gestión proactiva y adaptada a la naturaleza cambiante de los proyectos tecnológicos.
+El **ciclo de vida del proyecto (Project Life Cycle, PLC)** es el marco estructural que describe las fases secuenciales por las que atraviesa un proyecto de software desde su inicio hasta su cierre formal. De acuerdo al PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]], el ciclo de vida establece el contexto para la planificación, ejecución, monitorización y cierre, permitiendo una gestión proactiva y adaptada a la naturaleza cambiante de los proyectos tecnológicos.
 
 ## Fases del PLC
 
-PMBok del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]] define cinco grandes fases para el PLC:
+El PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]] define cinco grandes fases para el PLC:
 
 1. **Inicio:** Se define la viabilidad, alcance preliminar, objetivos y stakeholders del proyecto. Documentos clave: acta de constitución y análisis de viabilidad.
 

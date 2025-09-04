@@ -4,7 +4,7 @@
 
 ## Gestión de Proyectos
 
-La gestión de proyectos comprende el conjunto de principios, procesos y herramientas destinados a planificar, organizar, coordinar y controlar recursos para alcanzar objetivos específicos en un tiempo determinado, bajo restricciones de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Costos en la Ingeniería del Software\|costo]] y calidad. El enfoque puede aplicarse a proyectos tecnológicos, empresariales, organizativos y de desarrollo social [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute Inc., 2017)]].
+La gestión de proyectos comprende el conjunto de principios, procesos y herramientas destinados a planificar, organizar, coordinar y controlar recursos para alcanzar objetivos específicos en un tiempo determinado, bajo restricciones de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Costos en la Ingeniería del Software\|costo]] y calidad. El enfoque puede aplicarse a proyectos tecnológicos, empresariales, organizativos y de desarrollo social [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(PMI, 2017)]].
 
 ### Componentes Esenciales
 

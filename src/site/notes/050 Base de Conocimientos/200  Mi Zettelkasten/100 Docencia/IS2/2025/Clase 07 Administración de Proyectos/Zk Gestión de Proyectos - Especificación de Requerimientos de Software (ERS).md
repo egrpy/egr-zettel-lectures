@@ -4,17 +4,17 @@
 
 ## Especificación de Requerimientos de Software (ERS)
 
-La especificación de requerimientos de software es el proceso de traducir de manera formal y verificable todas las necesidades, funciones y restricciones identificadas durante la captura y análisis, en un documento estructurado que servirá como base técnica y contractual para el desarrollo, validación y mantenimiento del sistema [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute Inc., 2017)]]. Este documento, conocido como ERS (Software Requirements Specification, SRS), clarifica tanto lo que el sistema debe hacer como los criterios mediante los cuales su funcionamiento será evaluado y aceptado.
+La especificación de requerimientos de software es el proceso de traducir de manera formal y verificable todas las necesidades, funciones y restricciones identificadas durante la captura y análisis, en un documento estructurado que servirá como base técnica y contractual para el desarrollo, validación y mantenimiento del sistema [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(PMI, 2017)]]. Este documento, conocido como ERS (Software Requirements Specification, SRS), clarifica tanto lo que el sistema debe hacer como los criterios mediante los cuales su funcionamiento será evaluado y aceptado.
 
 ## Estructura y Características
 
-Según el PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc., (2017)]], una especificación debe contener:
+Según el PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]], una especificación debe contener:
 
 - Descripción del alcance, contexto y objetivos del sistema.
 - [[Zk Requerimientos Funcionales\|Requerimientos Funcionales]]: funcionalidades y servicios que debe ofrecer el software.
-- [[Zk Requerimientos no Funcionales\|Requerimientos no Funcionales]]: restricciones y propiedades de calidad (rendimiento, seguridad, usabilidad, portabilidad, etc).
+- [[050 Base de Conocimientos/100 Temporales/Zk Temp Requerimientos no Funcionales\|Zk Requerimientos no Funcionales]]: restricciones y propiedades de calidad (rendimiento, seguridad, usabilidad, portabilidad, etc).
 - Relaciones e interfaces externas.
-- Restricciones técnicas y de negocio, incluyendo [[Zk Pseudorequerimientos\|pseudorequerimientos]] donde aplican.
+- Restricciones técnicas y de negocio, incluyendo [[050 Base de Conocimientos/100 Temporales/Zk Temp Pseudorequerimientos\|Zk Pseudorequerimientos]] donde aplican.
 - Matriz de trazabilidad de requisitos: permite rastrear cada requerimiento hasta su origen y facilitar la gestión de cambios.
 - Apartados de validación, aceptación y autorización.
 

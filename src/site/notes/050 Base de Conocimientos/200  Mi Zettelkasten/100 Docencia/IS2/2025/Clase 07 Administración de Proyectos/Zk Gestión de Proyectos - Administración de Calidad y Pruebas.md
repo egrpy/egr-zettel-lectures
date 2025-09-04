@@ -4,11 +4,11 @@
 
 ## Administración de Calidad y Pruebas
 
-La **administración de calidad** en proyectos de software es el conjunto de procesos y actividades que aseguran que el proyecto satisfaga las necesidades y expectativas de los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Stakeholder\|stakeholders]], cumpliendo con los estándares de calidad establecidos. La calidad se define como "el grado en el que un conjunto de características inherentes cumple con los requisitos", y su gestión debe abordar tanto la calidad del proyecto como la calidad del producto desarrollado [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute Inc., 2017)]].
+La **administración de calidad** en proyectos de software es el conjunto de procesos y actividades que aseguran que el proyecto satisfaga las necesidades y expectativas de los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Stakeholder\|stakeholders]], cumpliendo con los estándares de calidad establecidos. La calidad se define como "el grado en el que un conjunto de características inherentes cumple con los requisitos", y su gestión debe abordar tanto la calidad del proyecto como la calidad del producto desarrollado [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(PMI, 2017)]].
 
 ### Principales Procesos
 
-PMBok del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]] establece tres procesos centrales para la gestión de calidad:
+PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]] establece tres procesos centrales para la gestión de calidad:
 
 **1. Planificar la gestión de calidad:** Identifica las normas de calidad relevantes para el proyecto y determina cómo satisfacerlas, estableciendo políticas, objetivos y responsabilidades que guiarán todo el proceso de desarrollo.
 

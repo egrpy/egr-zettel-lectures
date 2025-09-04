@@ -4,7 +4,7 @@
 
 ## Gestión de Proyectos - Tareas
 
-Las **tareas** en gestión de proyectos son unidades específicas, concretas y asignables de trabajo, que conforman las actividades. Constituyen el nivel más detallado en la planificación, permitiendo asociar responsables, estimar duración y reportar el avance día a día según lo indica el [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]].
+Las **tareas** en gestión de proyectos son unidades específicas, concretas y asignables de trabajo, que conforman las actividades. Constituyen el nivel más detallado en la planificación, permitiendo asociar responsables, estimar duración y reportar el avance día a día según lo indica el [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]].
 
 Una tarea se distingue por:
 

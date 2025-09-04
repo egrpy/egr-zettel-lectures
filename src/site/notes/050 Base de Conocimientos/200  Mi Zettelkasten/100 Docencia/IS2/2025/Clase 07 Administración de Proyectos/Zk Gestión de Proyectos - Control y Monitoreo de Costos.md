@@ -4,11 +4,11 @@
 
 ## Control y Monitoreo de Costos
 
-El **control y monitoreo de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Costos en la Ingeniería del Software\|costos]]** en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos\|gestión de proyectos]] de software implica establecer, medir y revisar los gastos para garantizar que el proyecto se ejecute dentro del presupuesto aprobado y los recursos disponibles. Este proceso abarca desde la estimación inicial y la determinación de la línea base de costos, hasta el seguimiento regular de las variaciones y la toma de decisiones correctivas para mantener la viabilidad financiera y el valor del proyecto [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|(Project Management Institute Inc., 2017)]].
+El **control y monitoreo de [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Costos en la Ingeniería del Software\|costos]]** en la [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos\|gestión de proyectos]] de software implica establecer, medir y revisar los gastos para garantizar que el proyecto se ejecute dentro del presupuesto aprobado y los recursos disponibles. Este proceso abarca desde la estimación inicial y la determinación de la línea base de costos, hasta el seguimiento regular de las variaciones y la toma de decisiones correctivas para mantener la viabilidad financiera y el valor del proyecto [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(PMI, 2017)]].
 
 ### Principales Procesos
 
-El PMBok del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]] establece cuatro procesos:
+El PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]] establece cuatro procesos:
 
 - **Planificar la gestión de costos:** Define cómo se calcularán, distribuirán y gestionarán los costos durante todo el ciclo de vida del proyecto.
 

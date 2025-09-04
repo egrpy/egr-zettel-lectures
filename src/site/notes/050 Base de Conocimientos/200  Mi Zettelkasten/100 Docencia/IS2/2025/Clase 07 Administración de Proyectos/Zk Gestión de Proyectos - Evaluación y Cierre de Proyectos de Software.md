@@ -4,11 +4,11 @@
 
 ## Evaluación y Cierre de Proyectos de Software
 
-La **evaluación y cierre** constituyen la etapa final del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Ciclo de Vida del Proyecto (PLC)\|Ciclo de Vida del Proyecto (PLC)]] de software, donde se formaliza la conclusión de actividades, entregables y obligaciones contractuales, asegurando la aceptación oficial por parte de los stakeholders y la organización. Según el PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]], este proceso no solo implica determinar si los objetivos han sido alcanzados, sino también documentar lecciones aprendidas, archivar los activos del proyecto, liberar recursos y cerrar formalmente contratos y adquisiciones.
+La **evaluación y cierre** constituyen la etapa final del [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Ciclo de Vida del Proyecto (PLC)\|Ciclo de Vida del Proyecto (PLC)]] de software, donde se formaliza la conclusión de actividades, entregables y obligaciones contractuales, asegurando la aceptación oficial por parte de los stakeholders y la organización. Según el PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]], este proceso no solo implica determinar si los objetivos han sido alcanzados, sino también documentar lecciones aprendidas, archivar los activos del proyecto, liberar recursos y cerrar formalmente contratos y adquisiciones.
 
 ## Procesos clave y mejores prácticas PMBOK
 
-El PMBok del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Project Management Institute Inc., 2017) Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) (Sexta edición). Project\|Project Management Institute Inc. (2017)]] define las siguientes acciones esenciales:
+El PMBOK del [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|PMI (2017)]] define las siguientes acciones esenciales:
 
 - **Revisión y aceptación de entregables:** Validar que los entregables cumplen requisitos y han sido formalmente aceptados por el cliente o patrocinador.
 
