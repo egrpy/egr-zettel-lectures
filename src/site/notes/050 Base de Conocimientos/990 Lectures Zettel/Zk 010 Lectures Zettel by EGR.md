@@ -14,4 +14,6 @@
 ### Otros
 [[Zk Zettels sobre Teoría General de Sistemas\|Sobre Teoría General de Sistemas]]
 [[[Zk Zettels sobre Ingeniería del Software\|Sobre Ingeniería del Software]]
+[[050 Base de Conocimientos/990 Lectures Zettel/Zk Lectures Zettel - Otros Temas\|Otros Temas]]
+
 
