@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Tareas vs Actividades/","tags":["definir"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk Gestión de Proyectos - Tareas vs Actividades/","tags":["#definir"]}
 ---
 
 ## Gestión de Proyectos - Tareas vs Actividades

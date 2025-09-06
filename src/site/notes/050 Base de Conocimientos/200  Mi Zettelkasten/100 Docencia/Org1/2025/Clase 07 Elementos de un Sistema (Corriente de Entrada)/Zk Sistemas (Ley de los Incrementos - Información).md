@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Ley de los Incrementos - Información)/","tags":["digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 07 Elementos de un Sistema (Corriente de Entrada)/Zk Sistemas (Ley de los Incrementos - Información)/","tags":["#digitalGarden"]}
 ---
 
 ## Ley de los Incrementos
 
-La ley de los incrementos, se refiere a que la cantidad total de información en un sistema es la suma de la información existente y la información importada ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen, 2013]]), como se puede apreciar en fórmula indicada a continuación:
+La Ley de los Incrementos, se refiere a que la cantidad total de información en un sistema es la suma de la información existente y la información importada, mencionada por [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|Johansen (2013)]]. En la siguiente expresión matemática se ilustra la Ley de los Incrementos:
 
 **Fórmula**
 _Ley de los Incrementos_
