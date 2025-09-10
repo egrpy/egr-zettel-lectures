@@ -47,3 +47,54 @@ La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clas
 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 09 Gestión de Comunicación en Proyectos/Zk Comunicación en Proyectos - Lecciones Aprendidas en Comunicación de Proyectos\|Lecciones Aprendidas]]
 - Casos reales, experiencias y ejemplos recogidos durante el cierre de proyectos.
 - Sistematización del aprendizaje para proyectos futuros.
+
+### Esquema Gráfico
+
+Figura
+**Estructura Conceptual de Comunicación en Proyectos**
+```plantuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam classAttributeIconSize 0
+skinparam BackgroundColor LightGray
+'left to right direction
+top to bottom direction
+skinparam linetype ortho
+scale 1
+
+title Estructura conceptual de la Comunicación en Proyectos
+
+' Paquete central: Comunicación en Proyectos
+package "Comunicación en Proyectos" {
+  class "Fundamentos"
+  class "Modelo de Comunicación según PMBOK"
+  class "Canales y Medios"
+  class "Herramientas Colaborativas y Tecnológicas"
+  class "Comunicación e Ingeniería de Requerimientos"
+  class "Lecciones Aprendidas"
+  class "Roles y Responsabilidades"
+  class "Cultura Organizacional"
+  class "Dificultades y Retos"
+  class "Técnicas y Estrategias Efectivas"
+}
+
+' Paquete marco teórico general
+package "Marco General / Sistémico" {
+  class "Enfoque de la Teoría General de Sistemas"
+}
+
+left to right direction
+
+' Relaciones principales
+"Enfoque de la Teoría General de Sistemas" -- "Fundamentos" : fundamenta >
+"Roles y Responsabilidades" -- "Cultura Organizacional" : influye >
+"Canales y Medios" -- "Herramientas Colaborativas y Tecnológicas" : utilizan >
+"Modelo de Comunicación según PMBOK" -- "Fundamentos" : desarrolla >
+"Técnicas y Estrategias Efectivas" -- "Dificultades y Retos" : resuelven >
+"Comunicación e Ingeniería de Requerimientos" -- "Fundamentos" : apoya >
+@enduml
+
+```
+
+
+Nota: Elaboración propia en base al contenido
