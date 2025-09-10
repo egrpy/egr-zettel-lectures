@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 09 Gestión de Comunicación en Proyectos/Zk !MOC Gestión de la Comunicación en Proyectos/","tags":["definir"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 09 Gestión de Comunicación en Proyectos/Zk !MOC Gestión de la Comunicación en Proyectos/","tags":["#definir"]}
 ---
 
 ## MOC Gestión de la Comunicación en Proyectos

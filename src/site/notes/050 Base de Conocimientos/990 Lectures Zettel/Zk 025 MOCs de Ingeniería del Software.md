@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk 025 MOCs de Ingeniería del Software/","tags":["digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk 025 MOCs de Ingeniería del Software/","tags":["#digitalGarden"]}
 ---
 
 ## MOCs para Ingeniería del Software 1
