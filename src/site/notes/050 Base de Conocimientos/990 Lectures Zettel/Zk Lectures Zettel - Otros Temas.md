@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk Lectures Zettel - Otros Temas/","tags":["#digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/990 Lectures Zettel/Zk Lectures Zettel - Otros Temas/","tags":["digitalGarden"]}
 ---
 
 ## Otros Temas

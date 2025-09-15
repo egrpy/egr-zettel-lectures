@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk PLC vs SDLC/","tags":["#definir"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk PLC vs SDLC/","tags":["definir"]}
 ---
 
 ## Ciclo de Vida del Proyecto (PLC) vs Ciclo de Vida del Desarrollo del Software (SDLC)

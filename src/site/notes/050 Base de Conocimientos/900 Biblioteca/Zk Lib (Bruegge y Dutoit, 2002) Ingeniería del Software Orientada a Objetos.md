@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lib (Bruegge y Dutoit, 2002) Ingeniería del Software Orientada a Objetos/","tags":["#libro","#ingenieríaDelSoftware","#orientaciónAObjetos"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lib (Bruegge y Dutoit, 2002) Ingeniería del Software Orientada a Objetos/","tags":["libro","ingenieríaDelSoftware","orientaciónAObjetos"]}
 ---
 
 ## Referencia

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sánchez Segura, y Villamizar, 2003) La Gestión de Proyectos Dentro del Proceso de Desarrollo Software/","tags":["#definir"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sánchez Segura, y Villamizar, 2003) La Gestión de Proyectos Dentro del Proceso de Desarrollo Software/","tags":["definir"]}
 ---
 
 ## Referencia

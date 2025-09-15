@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)/","tags":["digitalGarden","cicloDeVidaDelDesarrolloDelSoftware"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)/","tags":["#digitalGarden","#cicloDeVidaDelDesarrolloDelSoftware"]}
 ---
 
 ## Ciclo de Vida del Desarrollo del Software
@@ -23,7 +23,7 @@ De acuerdo con [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013
 |  8  | Despliegue o Implementación                                                                             | Puesta en producción del sistema, entrega a los usuarios finales y migración de datos si corresponde.                                                                  |
 |  9  | Mantenimiento                                                                                           | Actualización, corrección de errores y adaptación del sistema a nuevos requerimientos o entornos tecnológicos, asegurando su vigencia y calidad a lo largo del tiempo. |
 
-El siguiente gráfico ilustra las fases mencionadas.
+El los siguientes gráficos ilustra las fases mencionadas
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/060 Desarrollos/UI-UML Specification Framework (UUSF)/01 Overview/Zk Ciclo de Vida del Desarrollo del Software SDLC (Gráfico Simplificado)/#ciclo-de-vida-del-desarrollo-del-software-sdlc-grafico-simplificado" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -60,3 +60,96 @@ Para más detalles ver el gráfico [[060 Desarrollos/UI-UML Specification Framew
 
 </div></div>
 
+
+---
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/060 Desarrollos/UI-UML Specification Framework (UUSF)/01 Overview/Zk SDLC - Ciclo de Vida del Desarrollo del Software (Detallado)/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## SDLC - Ciclo de Vida del Desarrollo del Software (Detallado)
+```plantuml
+@startuml
+!pragma layout smetana
+skinparam style strictuml
+skinparam conditionStyle InsideDiamond
+
+'|Analista|
+start
+:Inicio del Proyecto;
+partition "Captura de\nRequerimientos" {
+  fork
+      :Identificar y Analizar\nRequierimientos;
+      floating note right: Reuniones, Entrevistas,\nObservación, Manuales,\nCuestionarios, Focus Group, etc.
+      :Redactar Requerimientos;
+      :Definir Indicadores\de Evaluación;
+  fork again
+    :Identificar Candidatos\na Actores;
+    :Describir Actores;
+  end fork
+}
+partition Análisis {
+  fork
+    :Identificar Casos de Uso\nCantidatos;
+    :Desarrollar Modelo\nde Casos de Uso;
+    fork
+      :Desarrollar Modelo de\nClases x Caso de Uso;
+    fork again
+      ::Desarrollar Modelo de\nInteracción x Caso de Uso;
+    fork again
+      :Desarrollar Modelo de Estados\npara las Clases/Colaboraciones\nque lo requieran;
+    end fork
+  fork again
+    :Analizar Requerimientos\nno Funcionales;
+  end fork
+}
+
+'|Diseñador|
+partition Diseño {
+  fork
+    :Definir y Diseñar\nla Arquitectura;
+    floating note right: Puede haber dependencia\nentre ambas actividades
+  fork again
+    :Configurar Infraestructura;
+  end fork
+  fork
+    :Refinar Modelo de Clases;
+  fork again
+    :Identificar Clases Persistentes;
+    :Diseño de Base de Datos;
+  end fork
+  :Agrupar Funcionalidades;
+  :Especificar Opciones\nMenú del Software;
+  #pink :Especificar GUI;
+  floating note right: Aplicar UUSF
+  :Diseñar GUI;
+}
+
+'|Programador|
+partition Desarrollo {
+  :Configurar Entorno\nDesarrollo;
+  :Crear Base de Datos;
+  :Desarrollar Programas;
+  :Pruebas Unitarias;
+  :Prueba Subconjuntos;
+  :Prueba Total;
+  :Test de Aceptación;
+}
+
+partition "Puesta en\nProducción" {
+  :Instalación;
+  :Pruebas Finales;
+  :Pruesta en Producción;
+}
+
+partition Mantenimiento {
+  :Inicio del Mantenimiento;
+}
+stop
+@enduml
+```
+
+
+
+</div></div>

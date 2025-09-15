@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 09 Gestión de Comunicación en Proyectos/Zk Comunicación en Proyectos - Dificultades y Retos de la Comunicación en Proyectos TI/","tags":["#definir","#digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 09 Gestión de Comunicación en Proyectos/Zk Comunicación en Proyectos - Dificultades y Retos de la Comunicación en Proyectos TI/","tags":["definir","digitalGarden"]}
 ---
 
 ## Dificultades y Retos de la Comunicación en Proyectos TI

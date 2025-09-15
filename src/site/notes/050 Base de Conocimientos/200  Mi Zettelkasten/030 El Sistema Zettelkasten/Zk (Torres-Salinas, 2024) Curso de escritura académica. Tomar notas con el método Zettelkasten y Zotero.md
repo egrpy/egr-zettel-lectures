@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/030 El Sistema Zettelkasten/Zk (Torres-Salinas, 2024) Curso de escritura académica. Tomar notas con el método Zettelkasten y Zotero/","tags":["#zettelkasten","#zettels","#zotero","#tomarNotas"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/030 El Sistema Zettelkasten/Zk (Torres-Salinas, 2024) Curso de escritura académica. Tomar notas con el método Zettelkasten y Zotero/","tags":["zettelkasten","zettels","zotero","tomarNotas"]}
 ---
 
 ## Referencia

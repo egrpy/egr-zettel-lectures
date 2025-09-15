@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 09 Gestión de Comunicación en Proyectos/Zk Comunicación en Proyectos - Modelo de Comunicación según PMBOK/","tags":["#definir","#digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 09 Gestión de Comunicación en Proyectos/Zk Comunicación en Proyectos - Modelo de Comunicación según PMBOK/","tags":["definir","digitalGarden"]}
 ---
 
 ## Modelo de Comunicación según PMBOK
