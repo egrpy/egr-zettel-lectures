@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Introducción a la Complejidad y Costos del Software/","tags":["digitalGarden","costos","complejidad"]}
 ---
 
-## Introducción a l Complejidad y Costos del Software
+## Introducción a la Complejidad y Costos del Software
 Imaginemos que estamos a punto de hacernos de un automóvil. Este proceso no es solo hacerse del vehículo, sino también considerar todos los aspectos que lo rodean, el tipo de automóvil que necesitamos, los gastos iniciales, los gastos adicionales, así como los gastos que puedan surgir a lo largo de la vida del mismo.
 
 | Aspecto                          | Automóvil                                                                                                                                     | Software                                                                                                      |

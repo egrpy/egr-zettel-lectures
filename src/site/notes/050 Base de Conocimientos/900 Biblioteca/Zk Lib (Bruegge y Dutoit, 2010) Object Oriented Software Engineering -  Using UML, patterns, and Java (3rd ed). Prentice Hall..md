@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lib (Bruegge y Dutoit, 2010) Object Oriented Software Engineering -  Using UML, patterns, and Java (3rd ed). Prentice Hall./","tags":["#Libro","#ingenieríaDelSoftware","#UML","#orientaciónAObjetos"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lib (Bruegge y Dutoit, 2010) Object Oriented Software Engineering -  Using UML, patterns, and Java (3rd ed). Prentice Hall./","tags":["Libro","ingenieríaDelSoftware","UML","orientaciónAObjetos"]}
 ---
 
 ## Referencia
