@@ -26,6 +26,6 @@ Clase 19  [[Zk !MOC Diagramas de Despliegue\|Diagrama de Despliegue]]
 Clase 07 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 07 Administración de Proyectos/Zk !MOC Administración de Proyectos de Desarrollo de Software\|Introducción a la Administración de Proyectos de Software]]
 Clase 10 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 09 Gestión de Comunicación en Proyectos/Zk !MOC Gestión de la Comunicación en Proyectos\|Gestión de Comunicación]]
 Clase 11 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Captura de Requerimientos - Profundizando Conceptos\|Captura de Requerimientos]]
-Clase 20 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 20 Análisis/Zk !MOC Análisis\|Zk !MOC Análisis]]
+Clase 20 [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 20 Análisis/Zk !MOC Análisis de Requerimientos\|Zk !MOC Análisis de Requerimientos]]
 
 
