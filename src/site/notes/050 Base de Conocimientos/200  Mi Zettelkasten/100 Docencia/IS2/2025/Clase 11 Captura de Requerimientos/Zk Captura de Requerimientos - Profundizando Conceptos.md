@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Captura de Requerimientos - Profundizando Conceptos/","tags":["digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Captura de Requerimientos - Profundizando Conceptos/","tags":["#digitalGarden"]}
 ---
 
 ## Captura de Requerimientos - Profundizando Conceptos
 
-La **captura de requerimientos** (también denominada elicitación de requerimientos) constituye la actividad central de la ingeniería de requerimientos donde se descubren, extraen y articulan las necesidades, expectativas y restricciones de los stakeholders para un sistema de software. Esta actividad trasciende la simple recolección de información, involucrando procesos complejos de comunicación, negociación y traducción entre dominios de conocimiento heterogéneos (Bruegge y Dutoit, [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Bruegge y Dutoit, 2002) Ingeniería del Software Orientada a Objetos\|2002]], [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Bruegge y Dutoit, 2010) Object Oriented Software Engineering -  Using UML, patterns, and Java (3rd ed). Prentice Hall.\|2010]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|Pressman, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sommerville, 2011) Ingeniería del Software\|Sommerville, 2011]]).
+La captura de requerimientos (también denominada elicitación de requerimientos) constituye la actividad central de la ingeniería de requerimientos donde se descubren, extraen y articulan las necesidades, expectativas y restricciones de los stakeholders para un sistema de software. Esta actividad trasciende la simple recolección de información, involucrando procesos complejos de comunicación, negociación y traducción entre dominios de conocimiento heterogéneos (Bruegge y Dutoit, [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Bruegge y Dutoit, 2002) Ingeniería del Software Orientada a Objetos\|2002]], [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (Bruegge y Dutoit, 2010) Object Oriented Software Engineering -  Using UML, patterns, and Java (3rd ed). Prentice Hall.\|2010]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013) Ingeniería del Software - Un Enfoque Práctico (Séptima edición). McGraw-Hill Education\|Pressman, 2013]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Sommerville, 2011) Ingeniería del Software\|Sommerville, 2011]]).
 
 ### Definición Multidimensional
 
@@ -14,7 +14,7 @@ La **captura de requerimientos** (también denominada elicitación de requerim
 
 ### Naturaleza Sociotécnica
 
-La captura de requerimientos emerge como una actividad fundamentalmente [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Sistemas Sociotécnicos\|sociotécnica]] que involucra la intersección entre sistemas humanos y sistemas técnicos. Según la perspectiva sistémica, los requerimientos no existen como entidades preexistentes esperando ser descubiertas, sino que se **construyen socialmente** a través de procesos de interacción entre múltiples actores ([[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Principios Sistémicos Aplicados a la Ingeniería de Requerimientos\|Principios Sistémicos Aplicados a la Ingeniería de Requerimientos]]).
+La captura de requerimientos emerge como una actividad fundamentalmente [[Zk Sistemas Sociotécnicos\|sociotécnica]] que involucra la intersección entre sistemas humanos y sistemas técnicos. Según la perspectiva sistémica, los requerimientos no existen como entidades preexistentes esperando ser descubiertas, sino que se **construyen socialmente** a través de procesos de interacción entre múltiples actores ([[Zk Principios Sistémicos Aplicados a la Ingeniería de Requerimientos\|Principios Sistémicos Aplicados a la Ingeniería de Requerimientos]]).
 
 ### El Problema de la Comunicación
 

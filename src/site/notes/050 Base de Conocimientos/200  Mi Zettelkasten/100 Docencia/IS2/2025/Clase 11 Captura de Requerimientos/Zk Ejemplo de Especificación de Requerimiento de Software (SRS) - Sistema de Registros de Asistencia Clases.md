@@ -6,7 +6,7 @@
 
 ### Especificación de Requerimiento de Software (SRS) - Sistema de Registros de Asistencia Clases
 
-Formato [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Norma IEEE 830 - 1998\|IEEE 830-1998]], ver también la actualización de este en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Norma IEEE 29148 - 2018\|Zk Norma IEEE 29148 - 2018]] y su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk IEEE 830 - 1998 vs ISO IEC IEEE 29148 - 2011 (Comparativo)\|comparativo]].
+Formato [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Norma IEEE 830 - 1998\|IEEE 830-1998]], ver también la actualización de este en [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Norma ISO-IEC-IEEE 29148 - 2018\|Zk Norma ISO-IEC-IEEE 29148 - 2018]] y su [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk IEEE 830 - 1998 vs ISO IEC IEEE 29148 - 2011 (Comparativo)\|comparativo]].
 
 ## 1. Introducción
 

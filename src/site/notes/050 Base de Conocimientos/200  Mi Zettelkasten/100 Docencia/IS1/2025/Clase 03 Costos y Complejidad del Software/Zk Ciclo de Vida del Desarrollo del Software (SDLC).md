@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)/","tags":["digitalGarden","cicloDeVidaDelDesarrolloDelSoftware"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)/","tags":["#digitalGarden","#cicloDeVidaDelDesarrolloDelSoftware"]}
 ---
 
 ## Ciclo de Vida del Desarrollo del Software
@@ -16,7 +16,7 @@ De acuerdo con [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Pressman, 2013
 |  1  | Identificación del Problema                                                                             | Definición del contexto, las necesidades y los desafíos que justifican el desarrollo del software.                                                                     |
 |  2  | Planificación del Proyecto                                                                              | Establecimiento de objetivos, estimación de recursos, cronograma, análisis de riesgos y viabilidad del proyecto.                                                       |
 |  3  | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (Captura de Requerimientos)\|Captura de Requerimientos]] | Elicitación y documentación de las necesidades y expectativas de los stakeholders, que servirán de base para el análisis posterior.                                    |
-|  4  | Análisis de Requerimientos                                                                              | Profundización en los requisitos, identificando dependencias, restricciones y prioridades, y asegurando su viabilidad técnica y organizacional.                        |
+|  4  | [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 20 Análisis/Zk SDLC Análisis - Objetivos Avanzados del Análisis\|Análisis de Requerimientos]]                                     | Profundización en los requisitos, identificando dependencias, restricciones y prioridades, y asegurando su viabilidad técnica y organizacional.                        |
 |  5  | Diseño del Sistema                                                                                      | Elaboración de la arquitectura, los modelos y las especificaciones técnicas que orientarán la construcción del software.                                               |
 |  6  | Implementación o Desarrollo                                                                             | Codificación y construcción del sistema conforme a los diseños y especificaciones previas.                                                                             |
 |  7  | Pruebas                                                                                                 | Verificación y validación del sistema para asegurar que cumple con los requisitos definidos y es libre de errores críticos.                                            |
