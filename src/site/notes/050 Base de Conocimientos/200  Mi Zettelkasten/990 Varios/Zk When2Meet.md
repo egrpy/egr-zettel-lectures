@@ -4,7 +4,7 @@
 
 ## ¿Qué es When2Meet?
 
-[When2meet](http://when2meet.ccom) es una herramienta de planificación en línea diseñada para simplificar el proceso de encontrar un horario común para reuniones o eventos grupales. 
+[When2meet](http://when2meet.com) es una herramienta de planificación en línea diseñada para simplificar el proceso de encontrar un horario común para reuniones o eventos grupales. 
 
 Se destaca por su simplicidad y eficacia para coordinar horarios grupales, siendo ideal para reuniones informales o proyectos académicos.
 
