@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/990 Varios/Zk When2Meet/","tags":["when2meet","reunión"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/990 Varios/Zk When2Meet/","tags":["#when2meet","#reunión"]}
 ---
 
 ## ¿Qué es When2Meet?
@@ -25,9 +25,9 @@ Se destaca por su simplicidad y eficacia para coordinar horarios grupales, siend
 
 ## Casos de Uso más Comunes
 
-- Coordinación de trabajos en grupo para estudiantes
-- Planificación de reuniones para freelancers y pequeñas empresas
-- Organización de eventos informales o reuniones casuales
+- Coordinación de trabajos en grupo
+- Planificación de reuniones
+- Organización de eventos
 
 ## Consejos Adicionales
 
