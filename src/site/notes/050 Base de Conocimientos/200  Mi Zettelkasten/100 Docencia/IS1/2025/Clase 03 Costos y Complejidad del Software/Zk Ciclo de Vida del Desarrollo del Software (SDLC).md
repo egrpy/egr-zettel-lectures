@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)/","tags":["#digitalGarden","#cicloDeVidaDelDesarrolloDelSoftware"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS1/2025/Clase 03 Costos y Complejidad del Software/Zk Ciclo de Vida del Desarrollo del Software (SDLC)/","tags":["digitalGarden","cicloDeVidaDelDesarrolloDelSoftware"]}
 ---
 
 ## Ciclo de Vida del Desarrollo del Software

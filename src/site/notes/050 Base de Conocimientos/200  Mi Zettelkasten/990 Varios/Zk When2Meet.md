@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/990 Varios/Zk When2Meet/","tags":["#when2meet","#reunión"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/990 Varios/Zk When2Meet/","tags":["when2meet","reunión"]}
 ---
 
 ## ¿Qué es When2Meet?

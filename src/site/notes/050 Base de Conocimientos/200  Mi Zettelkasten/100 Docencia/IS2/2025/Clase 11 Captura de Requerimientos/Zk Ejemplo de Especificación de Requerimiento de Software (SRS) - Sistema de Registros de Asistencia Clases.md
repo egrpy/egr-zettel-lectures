@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Ejemplo de Especificación de Requerimiento de Software (SRS) - Sistema de Registros de Asistencia Clases/","tags":["#digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Ejemplo de Especificación de Requerimiento de Software (SRS) - Sistema de Registros de Asistencia Clases/","tags":["digitalGarden"]}
 ---
 
 ## Ejemplo de Especificación de Requerimiento de Software (SRS) - Sistema de Registros de Asistencia Clases

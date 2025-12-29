@@ -10,4 +10,4 @@ Bruegge, B., y Dutoit, A. H. (2002). _Ingeniería de software orientado a objeto
 ## Enlaces
 
 ## Documento
-![[(Bruegge y Dutoit, 2002) Ingeniería del Software Orientada a Objetos.pdf]]
+<iframe src="/img/user/050%20Base%20de%20Conocimientos/900%20Biblioteca/000%20Adjuntos/(Bruegge%20y%20Dutoit,%202002)%20Ingenier%C3%ADa%20del%20Software%20Orientada%20a%20Objetos.pdf" width="100%" height="900px" title="(Bruegge y Dutoit, 2002) Ingeniería del Software Orientada a Objetos.pdf" style="border:1px solid #ccc;"></iframe>

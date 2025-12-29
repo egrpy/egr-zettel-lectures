@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk IEEE 830 - 1998 vs ISO IEC IEEE 29148 - 2011 (Comparativo)/","tags":["#digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk IEEE 830 - 1998 vs ISO IEC IEEE 29148 - 2011 (Comparativo)/","tags":["digitalGarden"]}
 ---
 
 ## Comparativo IEEE 830 - 1998 vs ISO IEC IEEE 29148 - 2011

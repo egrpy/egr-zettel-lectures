@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Historia de una Habitación) (Versión Inicial)/","tags":["digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Historia de una Habitación) (Versión Inicial)/","tags":["#digitalGarden"]}
 ---
 
 ## Historia de una Habitación Ordenada (Versión Inicial)
@@ -40,7 +40,7 @@ Un ejemplo en sistemas vivos: El cuerpo humano importa nutrientes (comida) y exp
 
 ### ¿Por qué Importa Entender estos Conceptos?
 
-En empresas, ciudades o ecosistemas, es decir, en sistemas en abiertos, esta lucha define su supervivencia:
+En empresas, ciudades o ecosistemas, es decir, en sistemas abiertos, esta lucha define su supervivencia:
 
 - Una empresa que no invierte en capacitación o tecnología (neguentropía) se vuelve obsoleta (entropía).
 - Un bosque que recibe lluvia y luz (energía externa) mantiene su biodiversidad.

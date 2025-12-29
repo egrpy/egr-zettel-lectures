@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Norma ISO-IEC-IEEE 29148 - 2018/","tags":["#digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/IS2/2025/Clase 11 Captura de Requerimientos/Zk Norma ISO-IEC-IEEE 29148 - 2018/","tags":["digitalGarden"]}
 ---
 
 ## Idea Principal

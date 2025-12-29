@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Conocimiento Tácito/","tags":["#conocimiento","#organizaciones","#tgs"]}
+---
+
+## Conocimiento Tácito
+
+El conocimiento tácito es el saber práctico que poseen las personas y los grupos en un sistema social u organizacional, basado en la experiencia y la participación en las actividades cotidianas, que no siempre se encuentra formalizado en documentos o procedimientos escritos. Este tipo de conocimiento se manifiesta en hábitos, competencias, criterios de juicio y estilos de resolución de problemas que orientan la conducta del sistema sin estar completamente explicitados (Johansen Bertoglio, [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 1982) Anatomía de la Empresa - Una Teoría General de las Organizaciones Sociales. Limusa  Noriega\|1982]], [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Johansen Bertoglio, 2013) Introducción a la Teoría General de Sistemas\|2013]]).
+
+En las organizaciones concebidas como [[Zk Sistemas Sociales\|sistemas sociales]], el conocimiento tácito se vincula con la cultura organizacional, las normas informales y los patrones de interacción que sostienen la estructura real de funcionamiento más allá de los organigramas y reglamentos. Autores de Teoría General de Sistemas destacan que la viabilidad y capacidad de adaptación de estos sistemas dependen tanto de su estructura formal como de este tejido de saberes incorporados que permite responder de manera creativa a cambios del entorno ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2024) Ciencias de la Complejidad - Teoría General de Sistemas, Pensamiento Sistémico y sus Aplicaciones Prácticas en las Ciencias Económicas, Ambientales y Sociales\|García, 2024]]; Mintzberg, [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Mintzberg, 2007) Mintzberg y la Dirección\|2007]], [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Mintzberg, 2012) La Estructuración de las Organizaciones\|2012]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Ossa Ossa, 2016) Teoría General de Sistemas -  Conceptos y Aplicaciones\|Ossa Ossa, 2016]]).
+
+En el contexto de la [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas\|Dinámica de Sistemas]], el conocimiento tácito alimenta la [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Bases de Datos Mentales, Escritas y Numéricas en Dinámica de Sistemas#Bases de Datos Mentales\|base de datos mental]] utilizada para construir modelos: entrevistas, relatos de experiencia, percepciones sobre políticas y procesos aportan información que no aparece en las [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Bases de Datos Mentales, Escritas y Numéricas en Dinámica de Sistemas#Base de Datos Numéricas\|bases de datos numéricas]], pero que es esencial para representar la lógica real de decisión de los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 06 Sistemas, Fundamentos, Propiedades, Principios Básicos/Zk Sistemas (Complejidad de los Sistemas)\|sistemas organizacionales]] [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]].
+
+### Ver también
+
+- [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Conocimiento Empírico\|Conocimiento Empírico]]  
+- [[Zk Sistemas Sociales\|Sistemas Sociales]]  
+- [[Zk Gestión del Conocimiento en Organizaciones\|Gestión del Conocimiento en Organizaciones]]
+ 
