@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Historia de una Habitación) (Versión Sistémica)/","tags":["digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 12 Entropía y Neguentropía/Zk Entropía y Neguentropía (Historia de una Habitación) (Versión Sistémica)/","tags":["#digitalGarden"]}
 ---
 
 ## Historia de una Habitación Ordenada (Versión Sistémica)
