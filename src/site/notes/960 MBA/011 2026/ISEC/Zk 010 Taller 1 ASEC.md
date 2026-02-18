@@ -9,7 +9,7 @@
 Lo tratado en este taller es absolutamente confidencial para ambas partes.
 
 #### Objetivos
-- Validar el esquema “MBA ERP Cloud Edition” como base de solución.
+- Validar el esquema [[960 MBA/011 2026/ISEC/Zk 011 MBA ERP Cloud Edition (ASEC)\|Zk 011 MBA ERP Cloud Edition (ASEC)]] como base de solución.
 - Elicitar requerimientos **no funcionales** (seguridad, performance, disponibilidad, soporte, cumplimiento)
 - Identificar requerimientos de **integración** y **puntos de dolor** del sistema / infrastructura actual
 
