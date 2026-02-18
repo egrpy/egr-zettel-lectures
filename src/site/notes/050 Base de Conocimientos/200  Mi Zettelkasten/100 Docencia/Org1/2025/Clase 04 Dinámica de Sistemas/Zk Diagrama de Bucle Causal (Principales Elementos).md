@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Diagrama de Bucle Causal (Principales Elementos)/","tags":["dinámicaDeSistemas","diagramaCausal","ç"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Diagrama de Bucle Causal (Principales Elementos)/","tags":["dinámicaDeSistemas","diagramaCausal"]}
 ---
 
 ## Principales Elementos del Diagrama de Bucle Causal

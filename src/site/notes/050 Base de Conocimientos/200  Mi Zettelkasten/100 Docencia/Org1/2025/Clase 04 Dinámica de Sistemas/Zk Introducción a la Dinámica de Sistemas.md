@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Introducción a la Dinámica de Sistemas/","tags":["#digitalGarden","#dinámicaDeSistemas"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Org1/2025/Clase 04 Dinámica de Sistemas/Zk Introducción a la Dinámica de Sistemas/","tags":["digitalGarden","dinámicaDeSistemas"]}
 ---
 
 ## Introducción a la Dinámica de Sistemas

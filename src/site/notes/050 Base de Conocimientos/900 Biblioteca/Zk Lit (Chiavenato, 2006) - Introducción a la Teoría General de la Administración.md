@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lit (Chiavenato, 2006) - Introducción a la Teoría General de la Administración/","tags":["#definir"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lit (Chiavenato, 2006) - Introducción a la Teoría General de la Administración/","tags":["definir"]}
 ---
 
 

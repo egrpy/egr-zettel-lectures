@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Conocimiento Empírico/","tags":["#conocimiento","#epistemología","#tgs"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Conocimiento Empírico/","tags":["conocimiento","epistemología","tgs"]}
 ---
 
 ## Conocimiento Empírico

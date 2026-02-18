@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/007 Comentarios sobre Publicaciones/Zk Dr. Ricardo Rodríguez Silvero - México, América Central y El Caribe - Diario Ultima Hora 14-12-2025/","tags":["#definir"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/007 Comentarios sobre Publicaciones/Zk Dr. Ricardo Rodríguez Silvero - México, América Central y El Caribe - Diario Ultima Hora 14-12-2025/","tags":["definir"]}
 ---
 
 ## Zk Dr. Ricardo Rodríguez Silvero - México, América Central y El Caribe - Diario Ultima Hora 14-12-2025

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lit (Mintzberg, 2007) Mintzberg y la Dirección/","tags":["#mintzberg","#dirección","#management"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lit (Mintzberg, 2007) Mintzberg y la Dirección/","tags":["mintzberg","dirección","management"]}
 ---
 
 ## Referencia

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas/","tags":["#sistema"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas/","tags":["sistema"]}
 ---
 
 ## Dinámica de Sistemas
@@ -17,6 +17,6 @@ Los modelos de simulación pueden mostrar las consecuencias dinámicas de las in
 
 ## Enlaces
 [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Jay Forrester\|Jay Forrester]]
-[[000 Bandeja de Entrada/Zk Teoría General de Sistemas - Dinámica de Sistemas - Pensamiento Sistémico.excalidraw\|Zk Teoría General de Sistemas - Dinámica de Sistemas - Pensamiento Sistémico.excalidraw]]
+[[Zk Teoría General de Sistemas - Dinámica de Sistemas - Pensamiento Sistémico.excalidraw\|Zk Teoría General de Sistemas - Dinámica de Sistemas - Pensamiento Sistémico.excalidraw]]
 
 

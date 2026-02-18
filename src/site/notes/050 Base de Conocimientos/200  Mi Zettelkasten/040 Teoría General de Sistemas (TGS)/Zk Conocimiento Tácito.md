@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Conocimiento Tácito/","tags":["#conocimiento","#organizaciones","#tgs"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Conocimiento Tácito/","tags":["conocimiento","organizaciones","tgs"]}
 ---
 
 ## Conocimiento Tácito

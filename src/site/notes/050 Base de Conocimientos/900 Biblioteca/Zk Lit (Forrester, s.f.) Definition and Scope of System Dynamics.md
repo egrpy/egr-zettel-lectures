@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lit (Forrester, s.f.) Definition and Scope of System Dynamics/","tags":["#system-dynamics","#forrester","#cursos"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/900 Biblioteca/Zk Lit (Forrester, s.f.) Definition and Scope of System Dynamics/","tags":["system-dynamics","forrester","cursos"]}
 ---
 
 ## Referencia

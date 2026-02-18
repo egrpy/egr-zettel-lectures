@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas – Definición y Alcance (Forrester)/","tags":["#definir"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Dinámica de Sistemas – Definición y Alcance (Forrester)/","tags":["definir"]}
 ---
 
 ## Dinámica de Sistemas – Definición y Alcance (Forrester)

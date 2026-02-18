@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Bases de Datos Mentales, Escritas y Numéricas en Dinámica de Sistemas/","tags":["#dinámicaDeSistemas","#modelado","#datos"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Bases de Datos Mentales, Escritas y Numéricas en Dinámica de Sistemas/","tags":["dinámicaDeSistemas","modelado","datos"]}
 ---
 
 ## Bases de datos Mentales, Escritas y Numéricas en Dinámica de Sistemas
