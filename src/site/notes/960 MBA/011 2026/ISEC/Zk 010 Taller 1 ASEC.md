@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/960 MBA/011 2026/ISEC/Zk 010 Taller 1 ASEC/","tags":["definir"]}
+{"dg-publish":true,"permalink":"/960 MBA/011 2026/ISEC/Zk 010 Taller 1 ASEC/","tags":["#definir"]}
 ---
 
-## Taller
+## Taller 1
 
 ### 1. Configuración del Taller
 
