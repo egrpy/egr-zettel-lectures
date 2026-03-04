@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Ingeniería del Software 2/2025/Clase 11 Captura de Requerimientos/Zk Captura de Requerimientos - Naturaleza Sociotécnica/","tags":["#digitalGarden"]}
+---
+
+## Naturaleza Sociotécnica de la Captura de Requerimientos
+
+La [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Ingeniería del Software 2/2025/Clase 11 Captura de Requerimientos/Zk Elicitación de Requerimientos\|Elicitación de Requisitos]] es una actividad intrínsecamente [[Zk Sistemas Sociotécnicos\|sociotécnica]] que se sitúa en la intersección de los [[Zk Sistemas Humanos\|sistemas humanos]] (los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Ingeniería del Software 2/2025/Clase 07 Administración de Proyectos/Zk Stakeholder\|stakeholders]] y la organización) y los [[Zk Sistemas Técnicos\|sistemas técnicos]] (el software a construir). Desde una perspectiva [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Organización 1/2025/Clase 02 Introducción a la Teoría General de Sistemas/Zk Enfoque de Sistemas\|sistémica]], los [[050 Base de Conocimientos/200  Mi Zettelkasten/100 Docencia/Ingeniería del Software 2/2025/Clase 11 Captura de Requerimientos/Zk Requerimiento\|requisitos]] no son entidades preexistentes esperando ser descubiertas. Más bien, son construcciones sociales que emergen y se definen a través de complejos procesos de interacción, comunicación y negociación entre múltiples actores (Bruegge y Dutoit, [[050 Base de Conocimientos/900 Biblioteca/brueggeObjectorientedSoftwareEngineering2010/Zk Ref brueggeObjectorientedSoftwareEngineering2010\|2010]]; [[050 Base de Conocimientos/900 Biblioteca/sommervilleIngenieriaSoftware2011/Zk Ref sommervilleIngenieriaSoftware2011\|Sommerville, 2011]]).
+
+>[!Note] Aclaración Terminológica
+> Aunque a esta fase se le conoce comúnmente como **Captura de Requerimientos**, el término **Elicitación** es el más utilizado académicamente, ya que subraya la necesidad de un **descubrimiento activo** y la negociación para superar los problemas de comunicación y ambigüedad."

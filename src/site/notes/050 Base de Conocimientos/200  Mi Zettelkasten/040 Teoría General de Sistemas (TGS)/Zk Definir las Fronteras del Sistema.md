@@ -3,7 +3,7 @@
 ---
 
 ## Definir las Fronteras del Sistema
-Se trata de identificar hasta dónde incluir elementos en el estudio  [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]]. 
+Se trata de identificar hasta dónde incluir elementos en el estudio  [[050 Base de Conocimientos/900 Biblioteca/garciaTeoriaEjerciciosPracticos2020/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]]. 
 
 Aunque, teóricamente, cualquier factor podría influir en el comportamiento del sistema, en la práctica se deben incluir solo aquellos elementos que tienen una influencia significativa y directa en el problema a resolver.
 

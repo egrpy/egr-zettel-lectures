@@ -3,9 +3,9 @@
 ---
 
 ## Elemento Clave y Punto de Apalancamiento de Sistemas
-En los sistemas complejos, los **elementos clave** o **puntos de apalancamiento** son aquellos componentes que pueden producir cambios significativos con pequeños esfuerzos [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]].
+En los sistemas complejos, los **elementos clave** o **puntos de apalancamiento** son aquellos componentes que pueden producir cambios significativos con pequeños esfuerzos [[050 Base de Conocimientos/900 Biblioteca/garciaTeoriaEjerciciosPracticos2020/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]].
 
-Estos puntos, aunque pocos y difíciles de identificar, son fundamentales para influir en el comportamiento del sistema. No obstante, el uso o identificación incorrecta de los elementos clave puede generar efectos contraproducentes [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]].
+Estos puntos, aunque pocos y difíciles de identificar, son fundamentales para influir en el comportamiento del sistema. No obstante, el uso o identificación incorrecta de los elementos clave puede generar efectos contraproducentes [[050 Base de Conocimientos/900 Biblioteca/garciaTeoriaEjerciciosPracticos2020/Zk Lit (García, 2020) Teoría y Ejercicios Prácticos de Dinámica de Sistemas\|(García, 2020)]].
 
 Los sistemas, tanto físicos como sociales o empresariales, a menudo responden de manera contraria a nuestras expectativas debido a su compleja interrelación. [[050 Base de Conocimientos/200  Mi Zettelkasten/040 Teoría General de Sistemas (TGS)/Zk Jay Forrester\|Forrester]] propone tres directrices que guían la identificación y el uso de estos puntos en el ámbito empresarial, pero que se extrapolan fácilmente a otros contextos:
 

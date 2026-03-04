@@ -13,4 +13,4 @@
 
 
 >[!Note] Otra definición
->La Inteligencia Artificial (AI) se refiere a la capacidad de sistemas computacionales para realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, el razonamiento, la resolución de problemas y la toma de decisiones ([[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Artificial intelligence) Britannica\|Britannica, 2025]]; [[050 Base de Conocimientos/900 Biblioteca/Zk Lit (Artificial intelligence) Wikipedia\|Wikipedia, 2025)]]).
+>La Inteligencia Artificial (AI) se refiere a la capacidad de sistemas computacionales para realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, el razonamiento, la resolución de problemas y la toma de decisiones ([[050 Base de Conocimientos/900 Biblioteca/ArtificialIntelligenceAI/Zk Lit (Artificial intelligence) Britannica\|Britannica, 2025]]; [[050 Base de Conocimientos/900 Biblioteca/ArtificialIntelligence2025/Zk Lit (Artificial intelligence) Wikipedia\|Wikipedia, 2025)]]).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/027 Productividad/010 Gestión de Tareas/ZK Proyecto (Definición y Características)/","tags":["digitalGarden"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/027 Productividad/010 Gestión de Tareas/ZK Proyecto (Definición y Características)/","tags":["#digitalGarden"]}
 ---
 
 ---
@@ -9,7 +9,7 @@
 
 ### **Definición**
 
-Según el Project Management Institute (PMI), un **proyecto** es un **esfuerzo temporal** destinado a **crear un producto, servicio o resultado único** [[050 Base de Conocimientos/900 Biblioteca/Zk Lib (PMI, 2017) Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) (6a Ed).\|(PMI, 2017, Sección 1.2)]].  
+Según el Project Management Institute (PMI), un **proyecto** es un **esfuerzo temporal** destinado a **crear un producto, servicio o resultado único** [[050 Base de Conocimientos/900 Biblioteca/projectmanagementinstituteincGuiaFundamentosPara2017/Zk Ref projectmanagementinstituteincGuiaFundamentosPara2017\|(PMI, 2017, Sección 1.2)]].  
 La norma ISO 21502:2020 complementa esta definición señalando que los proyectos **habilitan el cambio organizacional** mediante la coordinación estructurada de recursos y gobernanza (ISO, 2020, Sección 4.1).
 
 Por lo tanto:

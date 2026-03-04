@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/990 Varios/Zk Entrevista Cantito a EGR/","tags":["entrevista"]}
+{"dg-publish":true,"permalink":"/050 Base de Conocimientos/200  Mi Zettelkasten/990 Varios/Zk Entrevista Cantito a EGR/","tags":["#entrevista"]}
 ---
 
 
